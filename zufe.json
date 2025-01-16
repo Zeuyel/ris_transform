@@ -1,0 +1,2986 @@
+[
+    {
+        "Paper_name": "中国社会科学（中文版）",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "经济研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "管理世界",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "哲学研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "马克思主义研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "法学研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "政治学研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "社会学研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "民族研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "中国语文",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "外语教学与研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "文学评论",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "外国文学评论",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "文艺研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "历史研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "考古学报",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "新闻与传播研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "中国图书馆学报",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "教育研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "心理学报",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "体育科学",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "统计研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "美术研究",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "装饰",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "地理学报",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "数学学报",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "计算机学报",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "管理科学学报",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "经济学(季刊)",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "中国法学",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "新华文摘",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "求是",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "中国科学（A-G辑)",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "中共党史研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "马克思主义与现实",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "思想理论教育导刊",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "教学与研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "当代世界与社会主义",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "毛泽东邓小平理论研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "马克思主义理论学科研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "自然辩证法通讯",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "自然辩证法研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "哲学动态",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "世界哲学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国哲学史",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "道德与文明",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "现代哲学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "文学遗产",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国现代文学研究丛刊",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "文艺理论研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国比较文学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "语言研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "文史哲",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "文史（中华书局）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中华文史论丛",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "古汉语研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "世界汉语教学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "外国文学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国翻译",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "外国文学研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "外国语",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "当代语言学（原：国外语言学）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "现代外语",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "外语教学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国外语",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "国外文学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "语言科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "外语界",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "新美术",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "艺术设计研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国音乐学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "美术观察",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "南京艺术学院学报（美术与设计版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国书法",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "戏剧",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "美术",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "世界经济",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "金融研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国工业经济",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "财贸经济",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "数量经济技术经济研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "经济理论与经济管理",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "经济社会体制比较",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "经济学家",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "国际贸易问题",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国农村经济",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国经济史研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "经济地理",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "农业经济问题",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "经济学动态",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "农业技术经济",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "财经研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "国际金融研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "经济科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "经济管理",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "南开经济研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "世界经济文汇",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "财政研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "税务研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "保险研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "系统工程理论与实践",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "系统科学与数学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "控制理论与应用",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "控制与决策",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国机械工程",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "机械工程学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国管理科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国软科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "系统工程学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "运筹与管理",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "系统管理学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "南开管理评论",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "会计研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "科研管理",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "管理工程学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "科学学研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "审计研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "管理评论",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "管理科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "科学学与科学技术管理",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "管理学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "管理学报CN42-1725/C",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "世界经济与政治",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "国际问题研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中共中央党校（国家行政学院）学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "外交评论",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "欧洲研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "江苏行政学院学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "现代国际关系",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "当代亚太",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中外法学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "政法论坛",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "法制与社会发展",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "法学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "法学家",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "现代法学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "法律科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "法商研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "清华法学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "法学评论",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "环球法律评论",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国人口科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "人口研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "社会",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "人口学刊",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "青年研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "民族艺术",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "世界民族",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中央民族大学学报（哲学社会科学版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "国际新闻界",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "新闻大学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "现代传播（中国传媒大学学报）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "当代电影",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "出版发行研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "当代传播",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "新闻记者",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "情报学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "大学图书馆学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "档案学通讯",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "图书情报工作",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "档案学研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "情报理论与实践",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "图书情报知识",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "高等教育研究(武汉)",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国高教研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "比较教育研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "教育发展研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "高等工程教育研究(武汉)",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "北京大学教育评论",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "华东师范大学学报（教育科学版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "清华大学教育研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国教育学刊",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "课程.教材.教法",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "教育学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "教师教育研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "心理科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "心理科学进展",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国临床心理学杂志",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "心理发展与教育",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "北京体育大学学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "上海体育大学学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国体育科技",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "体育学刊",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "应用数学学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "计算数学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "数学年刊（A辑）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "科学通报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "高校应用数学学报（A辑）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "数学进展",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "应用数学和力学（英文版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "数学物理学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "数理统计与管理",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "统计与信息论坛",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "公共管理学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国行政管理",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中华医院管理杂志",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "自然灾害学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "社会保障研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "地理研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国环境科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国人口·资源与环境",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "自然资源学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "环境科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "环境科学学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "城市规划",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国土地科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "地理科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "建筑学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "资源科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "生态学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "应用生态学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "软件学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "计算机研究与发展",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "自动化学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "电子学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "电子与信息学报(原：电子科学学刊)",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "通信学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "模式识别与人工智能",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国图象图形学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "计算机辅助设计与图形学学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "计算机集成制造系统",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国史研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "近代史研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "史学理论研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "世界历史",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "史学月刊",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国边疆史地研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "当代中国史研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "清史研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "抗日战争研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "史学集刊",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "文献",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "文物",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "考古",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "世界宗教研究",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "清华大学学报（自然科学版）、（哲学社会科学版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "北京大学学报（自然科学版）、（哲学社会科学版）、（医学版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "浙江大学学报（理学版）、（人文社会科学版）、（医学版）、（农业与生命科学版）、（工学版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "复旦学报（社会科学版）、（自然科学版）、（医学版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "南京大学学报（自然科学版）、（哲学、人文科学、社会科学版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国人民大学学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "北京师范大学学报(社会科学版)",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中山大学学报（社会科学版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "武汉大学学报（人文科学版）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "吉林大学社会科学学报",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "人民日报（理论版、学术版，1000字以上）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "光明日报（理论版，2000字以上）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "经济日报（理论版，2000字以上）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "浙江日报（理论版，2000字以上）",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国人民大学报刊复印资料(全文复印)",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国社会科学评论(香港)",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "学术月刊",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "社会科学战线",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "中国社会科学文摘",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "浙江社会科学",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "浙江社会科学CN33-1149/C",
+        "Level": "1B"
+    },
+    {
+        "Paper_name": "American Economic Review",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Quarterly Journal of Economics",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Political Economy",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Econometrica",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Review of Economic Studies",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Finance",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Financial Economics",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Review of Financial Studies",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Administrative Science Quarterly",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Academy of Management Review",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Academy of Management Journal",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Strategic Management Journal",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of International Business Studies",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Organization Science",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Consumer Research",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Marketing",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Marketing Research",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Marketing Science",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Accounting Research",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Accounting & Economics",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Accounting Review",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Management Science",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Operations Research",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Operations Management",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "MIS Quarterly",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Information Systems Research",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "M&SOM-Manufacturing & Service OperationsManagement",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Production and Operations Management",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "INFORMS Journal on Computing",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Applied Linguistics",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Language",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Communication",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Harvard Law Review",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Annual Review of Sociology",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "American Sociological Review",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Acta Mathematica",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Annals of Mathematics",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Inventiones Mathematicae",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of the American Mathematical Society",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Communications on Pure and Applied Mathematics",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of the Royal Statistical Society Series B-Statistical Methodology",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Annals of Statistics",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of the American Statistical Association",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Biometrika",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "American Journal of Political Science",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "American Political Science Review",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Governance-An International Journal of PolicyAdministration and Institutions",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Public Administration Review",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Public Administration Research and Theory",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Public Administration",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Journal of Policy Analysis and Management",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Nature",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "Science",
+        "Level": "TOP"
+    },
+    {
+        "Paper_name": "American Economic Journal: Applied Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Economic Journal: Economic Policy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Economic Journal: Macroeconomics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Economic Journal: Microeconomics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Economic Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Economic Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Development Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Econometrics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economic Theory",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of European Economic Association",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Financial and Quantitative Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of International Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Labor Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Monetary Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Public Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "RAND Journal of Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Review of Economics and Statistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Theoretical Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Canadian Journal of Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Games and Economic Behavior",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Banking and Finance",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Business & Economic Statistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Comparative Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Corporate Finance",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economic Behavior and Organization",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Environmental Economics and Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Health Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Human Resources",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Industrial Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Review of Economic Dynamics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Review of Finance",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Review of International Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Journal of Agricultural Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Brookings Papers on Economic Activity",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Econometric Theory",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Economic Theory",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "European Economic Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Experimental Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Explorations in Economic History",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Financial Analysts Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Financial Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Industrial Organization",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Applied Econometrics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Business Finance & Accounting",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Derivatives",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economic Dynamics & Control",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economic Education",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economic Growth",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economic History",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economic Literature",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economic Perspectives",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economics and Management Strategy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Empirical Finance",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Evolutionary Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Financial Econometrics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Financial Intermediation",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Financial Markets",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Futures Markets",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of International Money and Finance",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Law & Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Mathematical Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Money Credit and Banking",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Population Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Urban Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Mathematical Finance",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "National Tax Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Quantitative Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Regional Science and Urban Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Scandinavian journal of Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Regulatory Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Social Choice and Welfare",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Risk and Uncertainty",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Risk and Insurance",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Review of Asset Pricing Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Review of Corporate Finance Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Insurance:Mathematics and Economics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "China Economic Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "World Development",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Management Information Systems",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Accounting, Organizations and Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Auditing:A Journal of Practice and Theory",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Contemporary Accounting Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "European Accounting Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Review of Accounting Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Management Accounting Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Accounting Horizons",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "British Accounting Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Accounting & Public Policy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Accounting, Auditing and Finance",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Accounting",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Abacus",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Accounting & Business Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Entrepreneurship Theory and Practice",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Business Venturing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Strategic Entrepreneurship Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Management Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Harvard Business Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Business Ethics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annals of Tourism Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Contemporary HospitalityManagement",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Sustainable Tourism",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Travel Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Tourism Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Gender, Work and Organization",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Human Resource Management (USA)",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Human Resource Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Management and Organization Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of World Business",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Asia Pacific Journal of Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Decision Support Systems",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Information and Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Information Technology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of the Association for Information Systems",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Product Innovation Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Research Policy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Technovation",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Research in Marketing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Consumer Psychology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of The Academy Of Marketing Science",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Operations and ProductionManagement",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Production Econimics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Supply Chain Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Decision Sciences",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "European Journal of Operational Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "IISE Transactions",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Transportation Science",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Human Relations",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Leadership Quarterly",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Organization Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Accident Analysis and Prevention",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Applied Psychology: An International Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Organizational Behavior",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Vocational Behavior",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Organizational Behavior and Human Decision Processes",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Personnel Psychology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Regional Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Transportation Research Part B: Methodological",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Economic Geography",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Economic Geography",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Global Strategy Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Transportation Research Part A: Policy and Practice",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Interactive Marketing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Marketing Letters",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Psychology & Marketing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Business Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Naval Research Logistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Production Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annals of Operations Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "OMEGA-International Journal of Management Science",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Nature Communications",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "British Journal of Political Science",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Peace Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Politics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Political Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annual Review of Political Science",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Comparative Politics Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Public Opinion Quarterly",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "European Journal of Political Economy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Comparative Politics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "New Political Economy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Global Environmental Politics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Perspectives on Politics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Political Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Political Philosophy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Economic Development and Cultural Change",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Contemporary Asia",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Modern China",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "China Quarterly",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Contemporary China",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "China Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Organization",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Conflict Resolution",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Review of International Political Economy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Studies Quarterly",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Foreign Affairs",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Marine Policy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Security",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "World Politics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Yale Law Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Columbia Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Stanford Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "California Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Texas Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Georgetown Law Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Michigan Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "University of Pennsylvania Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Cornell Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Duke Law Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "New York University Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Ucla Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Virginia Law Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Criminal Law and Criminology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Social Issues and Policy Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Journal of Sociology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Sociological Methods & Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "British Journal of Sociology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Social Networks",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Sociological Methodology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Marriage and Family",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Sociological Theory",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "European Sociological Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Social Forces",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Trauma Violence & Abuse",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Child Maltreatment",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Child Abuse & Neglect",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Health & Social Care in the Community",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Ethics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Journal of Bioethics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Current Anthropology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Human Evolution",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annual Review of Anthropology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Evolutionary Anthropology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Journal of Biological Anthropology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Cultural Anthropology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Anthropological Sciences",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Anthropologist",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Population and Development Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Population Studies-A Journal of Demography",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Population, Space and Place",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Gender & Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Consumer Culture",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Consumer Culture1469-5405",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Regulation & Governance",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Public Management Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Social Science & Medicine",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Policy Sciences",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Policy Studies Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of European Public Policy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Climate Policy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Health Affairs",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Health Policy and Planning",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Health Services Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Quality of Life Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Journal of Public Health",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Landscape and Urban Planning",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Global Environmental Change：Human and PolicyDimensions",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Progress in Human Geography",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Progress in Planning",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Peasant Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Rural Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of the American Oriental Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Asian Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of the Royal Asiatic Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Harvard Journal of Asiatic Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Sustainable Development",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of the American Planning Association",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Cities",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Urban Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Habitat International",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Planning Education and Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Land Use Policy",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Remote Sensing of Environment",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Hazardous Materials",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Ecosystem Services",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Renewable & Sustainable Energy Reviews",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Environmental Science & Technology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Environment and Planning D: society and space",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Risk Analysis:An International Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Acta Numerica",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Advances in Computational Mathematics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Advances in Mathematics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Journal of Mathematics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annales de l'Institut Henri Poincaré C, Analyse nonlinéaire",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annales Scientifiques de l'?cole Normale Supérieure",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Applied and Computational Harmonic Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Archive for Rational Mechanics and Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Bioinformatics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "BMC Bioinformatics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Calculus of Variations?and?Partial?Differential Equations",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Communications in Mathematical Physics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Communications in Partial Differential Equations",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Compositio Mathematica",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Computer Methods in Applied Mechanics and Engineering",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Discrete and Continuous Dynamical Systems",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Discrete and Continuous Dynamical Systems - Series B",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Duke Mathematical Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Ergodic Theory and Dynamical Systems",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Foundations of Computational Mathematics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Geometric And Functional Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Geometry & Topology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Mathematics Research Notices",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Inverse Problems",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal de Mathématiques Pures et Appliquées",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal Fur Die Reine?Und Angewandte?Mathematik",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Algebra",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Algebraic Geometry",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Cryptology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Differential Geometry",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of?Functional Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Mathematical Physics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Nonlinear Science",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Physics A: Mathematical and Theoretical",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Scientific Computing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of the American Mathematical Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of the?European Mathematical Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Mathematical Programming",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Mathematische?Annalen",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Mathematische Zeitschrift",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Memoirs of the AMS - American Mathematical Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Numerische?Mathematik",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Physica D: Nonlinear Phenomena",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Physical Review E",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Proceedings of the?London Mathematical?Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Publications mathématiques de l'IH?S",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Quantum Information & Computation",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Science China Mathematics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Selecta Mathematica, New Series",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Journal on?Applied Mathematics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Journal on Computing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Journal on Control and Optimization",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Journal on Imaging Sciences",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Journal?on Mathematical?Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Journal on Matrix Analysis and Applications",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Journal on?Numerical Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Journal on?Optimization",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Journal on Scientific Computing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM-ASA Journal on Uncertainty Quantification",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "SIAM Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Transactions of?the?American?Mathematical Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Computational Biology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Computational Physics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Mathematics of?Computation",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Automatica",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Information and Computation",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Biostatistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Biometrics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annals Of Probability",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Probability Theory and Related Fields",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annals of Applied Probability",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annals of Applied Statistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Statistics in Medicine",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Statistical Methods in Medical Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Finance and?Stochastics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Oxford Bulletin of Economics and Statistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Statistics and Computing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Statistical Science",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Multivariate Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Statistica Sinica",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Computational and Graphical Statistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Electronic Journal of Statistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Canadian Journal of Statistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Bayesian Analysis",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of the Royal Statistical Society Series C-AppliedStatistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Statistical Planning and Inference",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Scandinavian Journal of Statistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Stochastic Processes and Their Applications",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Communication Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "New Media & Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Advertising Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Computer-Mediated Communication",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Human Communication Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Health Communication",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Health Communication",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Press-Politics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Advertising",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Modern Language Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Research on Language and Social Interaction",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Bilingualism- Language and Cognition",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Language And Speech",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Language Learning",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Applied Psycholinguistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Second Language Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Studies in Second Language Acquisition",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "English for Specific Purposes",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Language Learning & Technology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Language Teaching Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Interaction Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Speech-Language Pathology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Second Language Writing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Journal Of Speech-Language Pathology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Language in Society",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Semantics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Mind & Language",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Topics in Language Disorders",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Language & CommunicationDisorders",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "System",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Bilingualism",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Literary and Linguistic Computing",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Poetica-Zeitschrift Fur Sprach-Und Literaturwissenschaft",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Beitr?ge zur Geschichte der deutschen Sprache undLiteratur",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Educational Researcher",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Review of Educational Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Internet and Higher Education",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Educational Research Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Educational Research Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "British Journal of Educational Technology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Educational Administration Quarterly",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Sociology of Education",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Journal of Education",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Teaching and Teacher Education",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "School Effectiveness and School Improvement",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Educational and Behavioral Statistics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Vocations and Learning",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Research on Educational Effectiveness",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Teacher Education",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Psychological Science",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Cognitive Psychology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Annual Review of Psychology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Personality and Social Psychology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Personality and Social Psychology Bulletin",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Personality and Social Psychology Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Experimental Social Psychology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Health and Social Behavior",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Applied Psychology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Happiness Studies",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Sports Medicine",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Medicine and Science in Sports and Exercise",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Sports Sciences",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "British Journal of Sports Medicine",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Exercise Immunology Review",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "American Journal of Sports Medicine",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Government Information Quarterly",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Strategic Information Systems",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "International Journal of Information Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Information Systems Journal",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Knowledge Management",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Informetrics",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of the Association for Information Science andTechnology",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Documentation",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Library & Information Science Research",
+        "Level": "1A"
+    },
+    {
+        "Paper_name": "Journal of Information Science",
+        "Level": "1A"
+    }
+]
