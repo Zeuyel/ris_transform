@@ -71,7 +71,7 @@ def parse_ris(content):
         if line == 'ER  -':
             if current_entry:
                 current_entry['C1'] = []
-                current_entry['TT'] = []
+                current_entry['C2'] = []
                 current_entry['LB'] = []
                 entries.append(dict(current_entry))
                 current_entry = defaultdict(list)
@@ -82,7 +82,7 @@ def parse_ris(content):
     
     if current_entry:
         current_entry['C1'] = []
-        current_entry['TT'] = []
+        current_entry['C2'] = []
         current_entry['LB'] = []
         entries.append(dict(current_entry))
     
@@ -231,7 +231,7 @@ def get_paper_criteria(entries, selected_entries, rating_data, balancer, trans_t
                 
                 if resultTi:
                     main_text = resultTi[0]
-                    entry['TT'].append(main_text)
+                    entry['C2'].append(main_text)
                 if resultAb:
                     main_text = resultAb[0]
                     entry['AB'].append(main_text)
