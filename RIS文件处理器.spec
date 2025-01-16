@@ -5,7 +5,7 @@ a = Analysis(
     ['app.py'],
     pathex=[],
     binaries=[],
-    datas=[('ccf_data.json', '.'), ('FMS.json', '.'), ('ajg_2024.json', '.'), ('zufe.json', '.'), ('filter.ico', '.')],
+    datas=[('data\\ccf_data.json', 'data'), ('data\\FMS.json', 'data'), ('data\\ajg_2024.json', 'data'), ('data\\zufe.json', 'data'), ('resources\\filter.ico', 'resources'), ('resources\\scopus.ris', 'resources')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['filter.ico'],
+    icon=['resources\\filter.ico'],
 )
