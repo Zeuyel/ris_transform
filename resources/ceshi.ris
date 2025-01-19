@@ -1,0 +1,550 @@
+﻿TY  - JOUR
+AB  - Carbon price forecasting is important for policymakers and market participants. Due to the non -stationary and non -linearity of the carbon price, the commonly used methods adopt the ideology of 'decomposition and integration' to conduct multiscale forecasting. On this basis, multivariable forecasting discovers more informative knowledge with exogenous variables for carbon price forecasting, but it ignores that (i) the high -frequency and low -frequency components of the carbon price are mainly affected by different variables, and (ii) each variable contributes differently to each component forecasting. To address these challenges, we propose a multiscale and multivariable differentiated learning method for carbon price forecasting in this study. Specifically, different variables are introduced to forecast the high -frequency and low -frequency components, and a novel attentionweighted least squares support vector regression method is first proposed, in which the weight matrix of variables is constructed according to the idea of the attention mechanism. Furthermore, we analyze the contribution of each variable to the carbon price using Shapley additive explanations, thereby providing a reference for carbon market participants. We conduct experiments on the carbon price of the European Union Emissions Trading System and Hubei carbon market in China. Extensive results demonstrate that the proposed model achieves competitive and superior performance over the baseline and compared models.
+AD  - Huazhong Univ Sci & Technol, Sch Management, Wuhan, Peoples R China
+AN  - WOS:001180809800001
+AU  - Chen, L. F.
+AU  - Zhao, X. F.
+DA  - Mar
+DO  - ARTN 107353
+10.1016/j.eneco.2024.107353
+J2  - Energ Econ
+KW  - carbon price forecasting
+variational mode decomposition
+particle swarm optimization algorithm
+least squares support vector regression
+empirical mode decomposition
+emission allowance prices
+neural-network
+volatility
+complexity
+multistep
+dynamics
+market
+L1  - internal-pdf://0524761067/Chen-2024-A multiscale and multivariable diffe.pdf
+LA  - English
+N1  - Ko1h0
+Times Cited:0
+Cited References Count:76
+PY  - 2024
+SN  - 0140-9883
+SP  - 107353
+ST  - A multiscale and multivariable differentiated learning for carbon price forecasting
+T2  - Energy Economics
+TI  - A multiscale and multivariable differentiated learning for carbon price forecasting
+UR  - <Go to ISI>://WOS:001180809800001
+VL  - 131
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - Several countries have formulated carbon–neutral plans in dealing with global warming, which have also derived various carbon trading markets. All parties involved in carbon trading aim to obtain the maximum benefit from it, and this requires participants to accurately judge the carbon trading price. This study then proposes a two-stage heterogeneous ensemble method for predicting carbon trading prices. To accurately capture the characteristics of the time series data, we extracted four feature sets based on the lag length, moving average, variational mode decomposition, and empirical mode decomposition methods. Subsequently, four algorithms, linear regression, neural network, random forest, and XGBoost, constructed the first-layer model. We used a neural network algorithm to build the second-layer model to enhance the predictive model fit. Moreover, we used the particle swarm optimization algorithm to optimize the crucial parameters involved in the model. Extensive numerical experiments were conducted on carbon trading data from the Beijing carbon trading market in the past five years (2016–2021), and showed that our proposed method is superior to other popular methods such as LightGBM, support vector machine, and k-nearest neighbor. © 2022, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+AU  - Cui, S.
+AU  - Wang, D.
+AU  - Yin, Y.
+AU  - Fan, X.
+AU  - Dhamotharan, L.
+AU  - Kumar, A.
+DB  - Scopus
+DO  - 10.1007/s10479-022-04821-1
+J2  - Ann. Oper. Res.
+KW  - Carbon trading
+Empirical mode decomposition
+Ensemble learning
+Particle swarm optimization
+Variational mode decomposition
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 5; Correspondence Address: Y. Yin; School of Economics and Management, University of Electronic Science and Technology of China, Chengdu, China; email: yinyq@uestc.edu.cn
+PY  - 2022
+ST  - Carbon trading price prediction based on a two-stage heterogeneous ensemble method
+T2  - Annals of Operations Research
+TI  - Carbon trading price prediction based on a two-stage heterogeneous ensemble method
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133623113&doi=10.1007%2fs10479-022-04821-1&partnerID=40&md5=2ff47e86fb51fd5dd223ee7b9f4df977
+ID  - 1915
+ER  - 
+
+TY  - JOUR
+AB  - This study examines the predictive impact of weather conditions and electricity demand on hourly spot prices of emissions allowances during the first three phases of the European Union Emissions Trading System (EU ETS) (2005–2019). We propose an original methodology for constructing European-scale electricity demand and weather indices and characterize the relationship between those indices and emissions allowances prices by means of an advanced predictive modeling technique (Extreme Gradient Boosting). Empirical findings assert that electricity demand and the weather variables under study were of importance for estimating EUA prices during the first three phases of the EU ETS, with air temperature and electricity demand being most relevant to emissions allowances prices. Conversely, total precipitation and relative humidity proved to be the least relevant variables to the outcome. The results also indicate that the relationship between emissions allowances prices and their weather-related predictors was not linear in the studied period. The paper contributes to the growing body of literature on the structural determinants of carbon prices in the EU ETS and enhances our understanding of the impact of climate and weather variability – in the provision of renewable energy production – on the most prominent market-based measure to reduce CO2 emissions in Europe. © 2023 Elsevier B.V.
+AU  - Eslahi, M.
+AU  - Mazza, P.
+C7  - 107985
+DB  - Scopus
+DO  - 10.1016/j.ecolecon.2023.107985
+J2  - Ecol. Econ.
+KW  - Electricity demand
+Emissions allowances prices
+Predictive modeling
+The EU ETS
+Weather variables
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 8; Correspondence Address: M. Eslahi; IESEG School of Management, Univ. Lille, CNRS, UMR 9221 - LEM - Lille Economie Management, Lille, F-59000, France; email: m.eslahi@ieseg.fr
+PY  - 2023
+ST  - Can weather variables and electricity demand predict carbon emissions allowances prices? Evidence from the first three phases of the EU ETS
+T2  - Ecological Economics
+TI  - Can weather variables and electricity demand predict carbon emissions allowances prices? Evidence from the first three phases of the EU ETS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85170653876&doi=10.1016%2fj.ecolecon.2023.107985&partnerID=40&md5=8dc4ef543bf6fcc1fee59b7bf97c4d36
+VL  - 214
+ID  - 384
+ER  - 
+
+TY  - JOUR
+AB  - Precise carbon price prediction is crucial for informing climate policies, maintaining carbon markets, and driving global green transformation. Currently, decomposition integration methods are extensively employed for carbon price forecasting. However, most studies focus on predicting single values, neglecting the inherent volatility and uncertainty of interval-valued data. To address this gap, this study introduces an advanced interval-valued decomposition integration model that incorporates data preprocessing, improved multi-scale feature selection, and data-driven prediction technique. Initially, data preprocessing transforms the maximum and minimum carbon prices into central and radius sequences, capturing greater volatility information while eliminating noise and managing outliers. Subsequently, improved variational mode decomposition is utilized to optimally decompose and reconstruct the center and radius series, which enables a deeper exploration of the features of interval-valued data. A tailored data-driven prediction method is then employed to analyze sub-sequences with distinct characteristics separately, significantly reducing prediction errors. To assess the reliability and stability of the proposed model, a comprehensive comparative experiment is conducted, with results providing strong evidence supporting its effectiveness.
+AN  - WOS:001370852100001
+AU  - Lu, Y. X.
+AU  - Wang, J. J.
+AU  - Li, Q.
+C7  - 121651
+DA  - Feb
+DO  - 10.1016/j.ins.2024.121651
+N1  - Lu, Yuxuan Wang, Jujie Li, Qian
+1872-6291
+PY  - 2025
+SN  - 0020-0255
+ST  - An interval-valued carbon price prediction model based on improved multi-scale feature selection and optimal multi-kernel support vector regression
+T2  - Information Sciences
+TI  - An interval-valued carbon price prediction model based on improved multi-scale feature selection and optimal multi-kernel support vector regression
+UR  - <Go to ISI>://WOS:001370852100001
+VL  - 692
+ID  - 2719
+ER  - 
+
+TY  - JOUR
+AB  - As a follow-up to the recommendations of the Kyoto Protocol to reduces climate change, the European Union has created carbon financial markets (such as “European Union Emissions Trading Scheme”) allowing the introduction of a cap and trade system where mandated companies are granted carbon dioxide emission permits. These markets allow companies to trade carbon permits. The Paris Agreement of December 2015 has also highlighted the importance of the allocation of capital from the carbon market to achieve a global reduction in CO2 emissions. Therefore, an in-depth analysis of carbon market mechanisms could provide some flexibility as to where and when greenhouse gas emissions are reduced, and thus could reduce the costs of climate change mitigation. climate change, but also enable anticipate the behavior of market stakeholders concerning risk and expected return. There are several variables or institutional characteristics that may explain the formation or volatility of carbon prices in these markets. Thus, carbon prices somtimes exhibit non-stationary characteristics which makes them particularly hard to predict. In this paper, we introduce an hybrid forecasting model, incorporating multiscale analysis techniques, and other machine learning models to improve prediction accuracy of carbon prices. The proposed model for carbon price prediction outperforms other comparative models. The mean squared error(MSE), goodness of fit (R2) and the Wilmott index of agreement of the proposed model are 0.0047, 0.9185 and 0.9801 respectively 5.06285, 0.97959 and 0.99480. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+AU  - Sadefo Kamdem, J.
+AU  - Miano Mukami, P.
+AU  - Njong, J. B.
+DB  - Scopus
+DO  - 10.1007/s10479-023-05443-x
+J2  - Ann. Oper. Res.
+KW  - Carbon market
+Climte change
+Forecasting
+Multiscale analysis
+Neural networks
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 6; Correspondence Address: J. Sadefo Kamdem; MRE UR 209 et Faculté D’Economie (Université de Montpellier), Montpellier, France; email: jules.sadefo-kamdem@umontpellier.fr
+PY  - 2023
+ST  - Time-frequency analysis and machine learning models for carbon market forecasting
+T2  - Annals of Operations Research
+TI  - Time-frequency analysis and machine learning models for carbon market forecasting
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85161705967&doi=10.1007%2fs10479-023-05443-x&partnerID=40&md5=6c3a5e91d64c1df1de02a586ba739188
+ID  - 1737
+ER  - 
+
+TY  - JOUR
+AB  - The accurate prediction of carbon emission trading prices is of great significance for the effective allocation of carbon resources, achieving energy conservation, emission reduction, and green development. However, it is difficult to fully extract the fluctuation information of carbon price, and external factors also have complex impacts on it, so it is a challenge to accurately predict carbon price. Therefore, this study proposes an optimal multi-scale and multi-factor two-stage integration paradigm coupled with investor sentiment for carbon price prediction. Firstly, an adaptive periodic variational mode decomposition (APVMD) method is proposed to capture feature subsequences with different fluctuation information from a periodic perspective in carbon prices. Then a comprehensive impact factor library is constructed to assist in prediction, including unstructured data on investor sentiment and structured data. Through the enhanced light gradient boosting machine (ELightGBM) algorithm, the optimal driving factors for each feature subsequence are fully screened, and the dimensionality of the data is reduced based on their nonlinear relationship. Considering the selection of hyperparameters and the contribution of different feature subsequences, an optimized two-stage integrated prediction is designed to achieve high-precision point prediction. On this basis, uncertainty analysis is used to obtain reasonable interval prediction results. Through comparative analysis, this model is better than other comparative models in terms of predictive ability and stability. © 2024 Elsevier Ltd
+AU  - Wang, J.
+AU  - He, X.
+C7  - 103953
+DB  - Scopus
+DO  - 10.1016/j.ipm.2024.103953
+IS  - 1
+M3  - Article
+N1  - Export Date: 08 January 2025; Cited By: 0
+PY  - 2025
+ST  - An optimal multi-scale and multi-factor two-stage integration paradigm coupled with investor sentiment for carbon price prediction
+T2  - Information Processing and Management
+TI  - An optimal multi-scale and multi-factor two-stage integration paradigm coupled with investor sentiment for carbon price prediction
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207692647&doi=10.1016%2fj.ipm.2024.103953&partnerID=40&md5=85701ea234f6d5edef3944199a61481d
+VL  - 62
+ID  - 2722
+ER  - 
+
+TY  - JOUR
+AB  - Accurate prediction of carbon price is of great significance for promoting the steady development of carbon trading market. However, as the unstable and nonlinear characteristics of carbon prices, it is challenging to obtain accurate future transaction prices. Therefore, this paper proposes a hybrid system for carbon price prediction. Specifically, the two-stage data preprocessing can decompose and reconstruct the carbon price sequence, which can reduce noise and chaotic disturbance and improve the quality of input data. Moreover, extreme gradient boosting (XGBoost) and partial autocorrelation function (PACF) are proposed to screen the influencing factors and carbon price subsequences to obtain the optimal features. The prediction and combination module uses the strategy of subsequence prediction and nonlinear integration, leveraging the strengths of each model to achieve the ideal results. In this system, an effective slime mold algorithm (SMA) is used to ensure the accuracy and stability of the prediction system. The research results show that: (a) The developed system has the best predictive performance compared to the benchmark models. (b) Energy, economy and commodity markets have a more significant long-term impact on carbon prices, and news sentiment and Baidu index contribute to their short-term fluctuations. © 2023 Elsevier Ltd
+AU  - Wang, J.
+AU  - Zhuang, Z.
+AU  - Gao, D.
+C7  - 102922
+DB  - Scopus
+DO  - 10.1016/j.omega.2023.102922
+J2  - Omega
+KW  - Carbon price forecasting
+Hybrid ensemble model
+Smart optimization algorithm
+Two-stage data preprocessing
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 23; Correspondence Address: J. Wang; School of Management Science and Engineering, Nanjing University of Information Science and Technology, Nanjing, 210044, China; email: jujiewang@126.com
+PY  - 2023
+ST  - An enhanced hybrid model based on multiple influencing factors and divide-conquer strategy for carbon price prediction
+T2  - Omega (United Kingdom)
+TI  - An enhanced hybrid model based on multiple influencing factors and divide-conquer strategy for carbon price prediction
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164000756&doi=10.1016%2fj.omega.2023.102922&partnerID=40&md5=6e1482ca94c6590a4b7ce6a99564c5bc
+VL  - 120
+ID  - 313
+ER  - 
+
+TY  - JOUR
+AB  - Carbon price prediction is a key issue in the field of carbon market research. However, the existing methods of carbon price forecasting mostly regard carbon price series as a certain time series, but pay less attention to the uncertainty implied by carbon price series. Based on this, this paper proposes a forecasting model framework considering the uncertainty of carbon price series, which represents the carbon price series as a time series of probability density function to deal with the uncertainty. A prediction model based on the probability density recurrence network of carbon price is constructed with the help of the recurrence network construction technology of data and link prediction, and the advantages of the model are verified by numerical simulation. The empirical analysis is made by using the EU carbon price data. In the whole sample interval, we build 123 time windows. The results indicate that our prediction model has better level forecasting precision in 90.69% time windows and directional prediction accuracy in 67.82% time windows than the prediction model built based on deterministic network, which can improve the level prediction accuracy and directional prediction accuracy by 25.76% and 5.09% on average. By comparing with the accuracy results of existing carbon price prediction models, we discuss the feasibility of improving the prediction effect by increasing the number of similar nodes. © 2022 Elsevier B.V.
+AU  - Wang, M.
+AU  - Zhu, M.
+AU  - Tian, L.
+C7  - 106162
+DB  - Scopus
+DO  - 10.1016/j.eneco.2022.106162
+J2  - Energy Econ.
+KW  - Carbon price
+Forecasting
+Probability density recurrence network
+Uncertainty
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 28; Correspondence Address: M. Wang; School of Mathematical Science, Nanjing Normal University, Nanjing, Jiangsu, 210042, China; email: magic821204@sina.com
+PY  - 2022
+ST  - A novel framework for carbon price forecasting with uncertainties
+T2  - Energy Economics
+TI  - A novel framework for carbon price forecasting with uncertainties
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133433780&doi=10.1016%2fj.eneco.2022.106162&partnerID=40&md5=ec600f7b228e1fb5504d2d9b079c99c6
+VL  - 112
+ID  - 506
+ER  - 
+
+TY  - JOUR
+AB  - Accurate carbon price forecasting can provide policymakers with a reasonable basis for carbon pricing. Interval-valued carbon price forecasting could provide sufficient information compared with real-valued carbon price time series prediction. On the other hand, current interval-valued carbon price forecasting has major challenges including data complexity, outliers, and the selection of forecasting methods, which make the forecasting results with great uncertainty and instability. To address these issues, this paper proposes an interval-valued carbon price forecasting method based on new data processing techniques, and discusses the effects of different combinations of interval variables on the forecasting results. We first established interval complete ensemble empirical mode decomposition with adaptive noise (ICEEMDAN) and interval outlier detection method (I-ksigma) to reduce the data complexity and identify outliers. Then, various neural network models include interval multilayer perceptron (IMLP), multi-output support vector regression (MSVR), long short-term memory network (LSTM), gated recurrent unit neural network (GRU), and convolution neural network (CNN) are chosen to conduct combination forecasting on the interval sub-modes produced by ICEEMDAN. The final results are obtained by summing the interval sub-modes. Finally, taking the carbon trading price in Hubei as the research object, the results show that the developed forecasting framework is superior to all comparison models in forecasting precision and stability. Furthermore, different combinations of interval variables (CRM, Minmax, L + 2R, and U-2R) lead to different decomposition results and outlier detection results, which finally affect the prediction results.
+AU  - Wang, Piao
+AU  - Tao, Zhifu
+AU  - Liu, Jinpei
+AU  - Chen, Huayou
+DO  - 10.1016/j.eneco.2022.106502
+L1  - internal-pdf://1448534233/Wang-2023-Improving the forecasting accuracy 2.pdf
+internal-pdf://1120328148/Wang-2023-Improving the forecasting accuracy o.pdf
+internal-pdf://2371080865/Wang-2023-Improving the forecasting accuracy 1.pdf
+PY  - 2023
+SE  - 106502
+SN  - 01409883
+ST  - Improving the forecasting accuracy of interval-valued carbon price from a novel multi-scale framework with outliers detection: An improved interval-valued time series analysis mode
+T2  - Energy Economics
+TI  - Improving the forecasting accuracy of interval-valued carbon price from a novel multi-scale framework with outliers detection: An improved interval-valued time series analysis mode
+VL  - 118
+ID  - 99
+ER  - 
+
+TY  - JOUR
+AB  - Carbon allowance price is an important tool to reduce carbon emissions and achieve carbon neutrality. It is necessary to establish a predictive model to provide accurate and reliable information to managers and participants in the carbon trading market. Therefore, a novel probability density prediction model, called TS2Vec-based distribution Transformer (TDT), is proposed. TDT consists of two stages: contrastive unsupervised pre-training and supervised training. In the contrastive unsupervised training stage, time series to vector (TS2Vec) is used to represent the dynamic trends and unique features of the data. Then, these representations are fed into the distribution Transformer (DT) to fit the hypothetical probability distribution. Experimental results show that the prediction results of the proposed TDT are more accurate and reliable than other benchmark models. In addition, our research indicates reliable probability density predictions provide enterprises with opportunities to control carbon emission costs and increase economic returns, thereby improving the competitiveness of enterprises and promoting carbon emission reduction. © 2024 Elsevier B.V.
+AU  - Wang, X.
+AU  - Wang, L.
+AU  - An, W.
+C7  - 107986
+DB  - Scopus
+DO  - 10.1016/j.eneco.2024.107986
+J2  - Energy Econ.
+KW  - Carbon allowance prices
+Distribution Transformer
+Probability density prediction
+Unsupervised contrastive learning
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 0; Correspondence Address: L. Wang; School of Management, Huazhong University of Science and Technology, Wuhan, 430074, China; email: wanglin982@gmail.com
+PY  - 2024
+ST  - Probability density prediction for carbon allowance prices based on TS2Vec and distribution Transformer
+T2  - Energy Economics
+TI  - Probability density prediction for carbon allowance prices based on TS2Vec and distribution Transformer
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208476352&doi=10.1016%2fj.eneco.2024.107986&partnerID=40&md5=bf36cda489f98a54ab43b2b92856de9b
+VL  - 140
+ID  - 193
+ER  - 
+
+TY  - JOUR
+AB  - Automatic weather stations are essential for fine-grained weather forecasting; they can be built almost anywhere around the world and are much cheaper than radars and satellites. However, these scattered stations only provide partial observations governed by the continuous space–time global weather system, thus introducing thorny challenges to worldwide forecasting. Here we present the Corrformer model with a novel multi-correlation mechanism, which unifies spatial cross-correlation and temporal auto-correlation into a learned multi-scale tree structure to capture worldwide spatiotemporal correlations. Corrformer reduces the canonical double quadratic complexity of spatiotemporal modelling to linear in spatial modelling and log-linear in temporal modelling, achieving collaborative forecasts for tens of thousands of stations within a unified deep model. Our model can generate interpretable predictions based on inferred propagation directions of weather processes, facilitating a fully data-driven artificial intelligence paradigm for discovering insights for meteorological science. Corrformer yields state-of-the-art forecasts on global, regional and citywide datasets with high confidence and provided skilful weather services for the 2022 Winter Olympics.
+AU  - Wu, Haixu
+AU  - Zhou, Hang
+AU  - Long, Mingsheng
+AU  - Wang, Jianmin
+DO  - 10.1038/s42256-023-00667-9
+IS  - 6
+L1  - internal-pdf://0220753020/Wu-2023-Interpretable weather forecasting for.pdf
+PY  - 2023
+SE  - 602
+SN  - 2522-5839
+SP  - 602-611
+ST  - Interpretable weather forecasting for worldwide stations with a unified deep model
+T2  - Nature Machine Intelligence
+TI  - Interpretable weather forecasting for worldwide stations with a unified deep model
+VL  - 5
+ID  - 2720
+ER  - 
+
+TY  - JOUR
+AB  - In response to the global need for effective management of carbon emissions and alignment with sustainable development goals, predicting carbon trading prices accurately is critical. This study introduces a multifrequency data fusion carbon price prediction model (MFF-CPPM), addressing the nonlinear characteristics of carbon trading prices and inconsistent feature factor frequencies. The MFF-CPPM consists of a feature-extraction frontend, a multifrequency data fusion transformer, and a fusion regression layer, offering a novel methodological approach in forecasting studies. The model's validity was tested in Guangdong, China's largest carbon trading pilot market. The results demonstrated that the MFF-CPPM outperformed baseline models in terms of carbon price-prediction accuracy and trend forecasting. Additional trials conducted in Hubei and Beijing confirmed the model's robustness and generalization capabilities, providing valuable evidence of its effectiveness and reliability across varying market contexts. This study presents a novel predictive model for carbon trading prices, with a unique capability to harness data at differing frequencies. The MFF-CPPM not only enhances forecasting accuracy but also offers an innovative approach to effectively incorporate multifrequency information. This advancement paves the way for flexible forecasting models in any scenario where data arrive at differing frequencies. © 2024 John Wiley & Sons, Ltd.
+AU  - Xiao, C.
+AU  - Liu, Y.
+DB  - Scopus
+DO  - 10.1002/for.3198
+J2  - J Forecast
+KW  - carbon trading price
+deep learning
+multifrequency data fusion
+transformer
+L1  - internal-pdf://2343668488/Xiao-2024-A Multifrequency Data Fusion Deep Le.pdf
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 0; Correspondence Address: Y. Liu; School of Business, Central South University, Changsha, China; email: liuyongmeicn@163.com
+PY  - 2024
+ST  - A Multifrequency Data Fusion Deep Learning Model for Carbon Price Prediction
+T2  - Journal of Forecasting
+TI  - A Multifrequency Data Fusion Deep Learning Model for Carbon Price Prediction
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85205374687&doi=10.1002%2ffor.3198&partnerID=40&md5=eb27119087ed587e4e241ec6182efe51
+ID  - 1513
+ER  - 
+
+TY  - JOUR
+AB  - The carbon trading market is an effective tool to combat greenhouse gas emissions, and as the core issue of carbon market, carbon price can stimulate the market for technological innovation and industrial transformation. However, the complex characteristics of carbon price such as nonlinearity and nonstationarity bring great challenges to carbon price prediction research. In this study, potential influencing factors of carbon price are introduced into carbon price forecasting, and a novel hybrid carbon price forecasting framework is developed, which contains data decomposition and reconstruction techniques, two-stage feature dimension reduction methods, intelligent and optimized deep learning forecasting with nonlinear integrated models and interval forecasting. Firstly, the carbon price series is decomposed into several simple and smooth subsequences using variational modal decomposition. The stacked autoencoder is then used to extract its effective features and reconstruct them into several new subsequences. A two-stage feature dimension reduction method is utilized for feature selection and extraction of exogenous variables. A bidirectional long and short-term memory model optimized based on the cuckoo search algorithm was used for prediction and nonlinear integration. Finally, Gaussian process regression based on a hybrid kernel function is applied to carbon price interval forecasting. The validity of the model was verified on seven real carbon trading pilot datasets in China. The methodology outperforms all benchmark models in the final simulation results, providing a novel and efficient forecasting method for the carbon trading industry. © 2022, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+AU  - Xu, W.
+AU  - Wang, J.
+AU  - Zhang, Y.
+AU  - Li, J.
+AU  - Wei, L.
+DB  - Scopus
+DO  - 10.1007/s10479-022-04858-2
+J2  - Ann. Oper. Res.
+KW  - Bidirectional long and short-term memory
+Carbon trading market
+Cuckoo search algorithm
+Influencing factors
+Two-stage feature dimension reduction
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 20; Correspondence Address: J. Wang; School of Management Science and Engineering, Nanjing University of Information Science and Technology, Nanjing, 210044, China; email: jujiewang@126.com
+PY  - 2022
+ST  - An optimized decomposition integration framework for carbon price prediction based on multi-factor two-stage feature dimension reduction
+T2  - Annals of Operations Research
+TI  - An optimized decomposition integration framework for carbon price prediction based on multi-factor two-stage feature dimension reduction
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134471437&doi=10.1007%2fs10479-022-04858-2&partnerID=40&md5=2aae8115a3ccfbee5bef5bc043041bcf
+ID  - 1995
+ER  - 
+
+TY  - JOUR
+AB  - Accurate carbon price forecasting can better allocate carbon emissions and thus ensure a balance between economic development and potential climate impacts. In this paper, we propose a new two-stage framework based on processes of decomposition and re-estimation to forecast prices across international carbon markets. We focus on the Emissions Trading System (ETS) in the EU, as well as the five main pilot schemes in China, spanning the period from May 2014 to January 2022. In this way, the raw carbon prices are first separated into multiple sub-factors and then reconstructed into factors of ‘trend’ and ‘period’ with the use of Singular Spectrum Analysis (SSA). Once the subsequences have been thus decomposed, we further apply six machine learning and deep learning methods, allowing the data to be assembled and thus facilitating the prediction of the final carbon price values. We find that from amongst these machine learning models, the Support vector regression (SSA-SVR) and Least squares support vector regression (SSA-LSSVR) stand out in terms of performance for the prediction of carbon prices in both the European ETS and equivalent models in China. Another interesting finding to come out of our experiments is that the sophisticated algorithms are far from being the best performing models in the prediction of carbon prices. Even after accounting for the impacts of the COVID-19 pandemic and other macro-economic variables, as well as the prices of other energy sources, our framework still works effectively. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+AU  - Zhang, X.
+AU  - Li, Z.
+AU  - Zhao, Y.
+AU  - Wang, L.
+DB  - Scopus
+DO  - 10.1007/s10479-023-05327-0
+J2  - Ann. Oper. Res.
+KW  - Carbon emission
+Carbon price prediction
+COVID-19
+Ensemble learning method
+Singular spectrum analysis
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 2; Correspondence Address: Z. Li; School of Finance and Fintech Innovation Center, Southwestern University of Finance and Economics, Chengdu, China; email: liz@swufe.edu.cn
+PY  - 2023
+ST  - Carbon trading and COVID-19: a hybrid machine learning approach for international carbon price forecasting
+T2  - Annals of Operations Research
+TI  - Carbon trading and COVID-19: a hybrid machine learning approach for international carbon price forecasting
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85153349857&doi=10.1007%2fs10479-023-05327-0&partnerID=40&md5=cc880f527ab307ae4fe4bcce7e6bba2c
+ID  - 1741
+ER  - 
+
+TY  - JOUR
+AB  - To improve the predictability of carbon prices under diversified attention, this paper develops a dynamic model averaging approach with common factors (DMA-CF) which uses dimension-reduction techniques to extract factors from all models including the subsets of attention predictors and allows time-varying coefficients and model switching. The in-sample results using univariate models reveal the strong predictive power of the attention measured by the Google search volume index (AGSVI). The out-of-sample results confirm it as the strongest attention predictor, and show the superior performance of DMA-CFs relative to the original DMA and the benchmark. We further investigate how common factors improve the forecasting performance of DMA. The empirical evidence indicates that common factors efficiently aggregate the information and reduce the estimation errors in complicated models which are assigned with higher probability in DMA-CFs than in DMA, thereby digging out more predictive information for forecasting carbon prices. Moreover, DMA primarily depends on AGSVI, with the highest weights, while DMA-CFs slightly downweight the AGSVI and allocate more weight to the attention proxy of abnormal trading volume (AAVol) which provides complementary information. Finally, our DMA-CF methods can improve the economic gains in the portfolio exercise with carbon futures.
+AU  - Zhang, Zhikai
+AU  - Wang, Yudong
+AU  - Zhang, Yaojie
+AU  - Wang, Qunwei
+DA  - 2024/05/01/
+DO  - 10.1016/j.eneco.2024.107537
+KW  - Carbon prices
+Investor attention
+Dynamic model averaging
+Common factor
+Return forecasting
+L1  - internal-pdf://0092773020/Zhang-2024-Forecasting carbon prices under div.pdf
+PY  - 2024
+SN  - 0140-9883
+SP  - 107537
+ST  - Forecasting carbon prices under diversified attention: A dynamic model averaging approach with common factors
+T2  - Energy Economics
+TI  - Forecasting carbon prices under diversified attention: A dynamic model averaging approach with common factors
+UR  - https://www.sciencedirect.com/science/article/pii/S0140988324002457
+VL  - 133
+ID  - 12
+ER  - 
+
+TY  - JOUR
+AB  - This paper proposes an ensemble forecasting model for carbon market volatility with structural factors and non-structural Baidu search index. Firstly, wavelet analysis is introduced into carbon price denoising for obtaining carbon market volatility. Secondly, carbon market volatility forecasting is converted into a multi-class forecasting problem. Thirdly, synthetic minority over sampling technique tomek links (SMOTETomek) is used to address the class imbalance problem. Fourthly, extreme gradient boosting (XGBoost) is used for carbon market volatility forecasting, and genetic algorithm (GA) is employed into synchronously optimize all parameters of XGBoost. Taking Guangdong and Hubei carbon markets as samples, the proposed model has higher overall forecasting performance and higher minority class forecasting performance when compared with other popular prediction models. The sensitivity analysis verifies that the proposed model is robust. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+AU  - Zhu, B.
+AU  - Wan, C.
+AU  - Wang, P.
+AU  - Chevallier, J.
+DB  - Scopus
+DO  - 10.1007/s10479-023-05401-7
+J2  - Ann. Oper. Res.
+KW  - Carbon market
+Extreme gradient boosting
+Genetic algorithm
+SMOTETomek
+Volatility forecasting
+Wavelet analysis
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 8; Correspondence Address: B. Zhu; School of Business, Guangxi University, Nanning, 530004, China; email: wpzbz@126.com; P. Wang; Management School, Jinan University, Guangzhou, 510632, China; email: wyuwangping@126.com
+PY  - 2023
+ST  - Forecasting carbon market volatility with big data
+T2  - Annals of Operations Research
+TI  - Forecasting carbon market volatility with big data
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160844059&doi=10.1007%2fs10479-023-05401-7&partnerID=40&md5=9f3452e0eefc793a3e3c71b36a89b030
+ID  - 1745
+ER  - 
+
+TY  - JOUR
+AB  - This paper proposes a novel hybrid multiscale decomposition and bootstrap approach for carbon price interval forecasting, aiming to overcome the limitations of traditional carbon price point forecasting. The original carbon price is decomposed into simple modes using the complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN), and various bootstrap methods are applied to perform a random sampling with a replacement on each mode, generating pseudo datasets forecasted using extreme gradient boosting (XGB). The forecasting values of all modes are then integrated into the original carbon price interval forecasting values. The empirical results, based on samples from China's Guangdong and Hubei carbon markets, provide compelling evidence of the effectiveness of our model. It achieves higher forecasting accuracy, higher interval coverage, and narrower forecasting intervals than currently popular prediction models, instilling confidence in its potential to enhance carbon price forecasting. © 2024 John Wiley & Sons Ltd.
+AU  - Zhu, B.
+AU  - Wan, C.
+AU  - Wang, P.
+AU  - Chevallier, J.
+DB  - Scopus
+DO  - 10.1002/for.3199
+J2  - J Forecast
+KW  - bootstrap method
+carbon market
+complete ensemble empirical mode decomposition with adaptive noise
+extreme gradient boosting
+interval forecasting
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 0; Correspondence Address: B. Zhu; School of Business, Guangxi University, Nanning, Guangxi, China; email: wpzbz@126.com; J. Chevallier; Université Paris 8 Laboratoire d'Economie Dionysien, Ile-de-France,Saint-Denis, France; email: julien.chevallier@ipag.fr
+PY  - 2024
+ST  - Interval Forecasting of Carbon Price With a Novel Hybrid Multiscale Decomposition and Bootstrap Approach
+T2  - Journal of Forecasting
+TI  - Interval Forecasting of Carbon Price With a Novel Hybrid Multiscale Decomposition and Bootstrap Approach
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85204774721&doi=10.1002%2ffor.3199&partnerID=40&md5=5d9c20752d2678adcb0d8c70ad90e2c2
+ID  - 1582
+ER  - 
+
+TY  - JOUR
+AB  - This paper aims at the imbalanced characteristics and proposes a novel evolutionary cost-sensitive support vector machine (CSSVM) by integrating cost-sensitive learning, support vector machine, and genetic algorithm for carbon price trend prediction. First, carbon price trend prediction is converted into a binary-class prediction problem for CSSVM, in which a higher misclassification cost is imposed on the minority samples. In comparison, a more negligible misclassification cost is imposed on most samples. Second, a genetic algorithm (GA) is used to optimize all parameters of CSSVM synchronously. Taking Beijing, Hubei, and Guangdong carbon markets as samples, the empirical results show that the proposed model has a higher classification accuracy and lower misclassification costs compared with other popular prediction models. Furthermore, the sensitivity analysis verifies that the proposed approach is robust. © 2022 John Wiley & Sons Ltd.
+AU  - Zhu, B.
+AU  - Zhang, J.
+AU  - Wan, C.
+AU  - Chevallier, J.
+AU  - Wang, P.
+DB  - Scopus
+DO  - 10.1002/for.2916
+IS  - 4
+J2  - J Forecast
+KW  - carbon price trend forecasting
+cost-sensitive learning
+genetic algorithm
+misclassification cost
+support vector machine
+M3  - Article
+N1  - Export Date: 26 December 2024; Cited By: 10; Correspondence Address: B. Zhu; School of Business, Guangxi University, Nanning, 530004, China; email: wpzbz@126.com; J. Chevallier; IPAG Business School, IPAG Lab, Paris, 184 Boulevard Saint-Germain, 75006, France; email: julien.chevallier@ipag.fr; P. Wang; Management School, Jinan University, Guangzhou, 510632, China; email: wyuwangping@126.com
+PY  - 2023
+SP  - 741-755
+ST  - An evolutionary cost-sensitive support vector machine for carbon price trend forecasting
+T2  - Journal of Forecasting
+TI  - An evolutionary cost-sensitive support vector machine for carbon price trend forecasting
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139798781&doi=10.1002%2ffor.2916&partnerID=40&md5=886aa71a8950483fd5240b7e58a75ec1
+VL  - 42
+ID  - 1768
+ER  - 
+
+TY  - JOUR
+AB  - In this paper, we propose a novel hybrid model that extends prior work involving ensemble empirical mode decomposition (EEMD) by using fuzzy entropy and extreme learning machine (ELM) methods. We demonstrate this 3-stage model by applying it to forecast carbon futures prices which are characterized by chaos and complexity. First, we employ the EEMD method to decompose carbon futures prices into a couple of intrinsic mode functions (IMFs) and one residue. Second, the fuzzy entropy and K-means clustering methods are used to reconstruct the IMFs and the residue to obtain three reconstructed components, specifically a high frequency series, a low frequency series, and a trend series. Third, the ARMA model is implemented for the stationary high and low frequency series, while the extreme learning machine (ELM) model is utilized for the non-stationary trend series. Finally, all the component forecasts are aggregated to form final forecasts of the carbon price for each model. The empirical results show that the proposed reconstruction algorithm can bring more than 40% improvement in prediction accuracy compared to the traditional fine-to-coarse reconstruction algorithm under the same forecasting framework. The hybrid forecasting model proposed in this paper also well captures the direction of the price changes, with strong and robust forecasting ability, which is significantly better than the single forecasting models and the other hybrid forecasting models.
+AU  - Chen, P.
+AU  - Vivian, A.
+AU  - Ye, C.
+C1  - FMS:B;
+AJG:3;
+ZUFE:1A;
+C6  - DEC 2021
+DA  - JUN
+DO  - 10.1007/s10479-021-04406-4
+IS  - 1
+KW  - Carbon futures price
+EEMD
+Fuzzy entropy
+K-means clustering method
+ARMA
+Extreme learning machine
+EMPIRICAL MODE DECOMPOSITION
+ARTIFICIAL NEURAL-NETWORKS
+VOLATILITY
+PREDICTION
+MARKET
+EMISSIONS
+ARIMA
+RISK
+OPTIMIZATION
+DYNAMICS
+N1  - Times Cited in Web of Science Core Collection: 22 To - Times Cited: 23 Ci - Reference Count: 50
+PY  - 2022
+SP  - 559-601
+ST  - Forecasting carbon futures price: a hybrid method incorporating fuzzy entropy and extreme learning machine
+T2  - ANNALS OF OPERATIONS RESEARCH
+TI  - Forecasting carbon futures price: a hybrid method incorporating fuzzy entropy and extreme learning machine
+VL  - 313
+ID  - 17082
+ER  - 
+
+TY  - JOUR
+AB  - This study explores the predictive effect of climate change attention on carbon futures returns. Using climate-related Google Trends and news, we construct five dimensions of the public climate attention index and media climate attention index. After feature selection, we incorporate the optimized combination with lagged order into the machine learning model to predict EU Emission Allowance futures returns. Our empirical results show that the forecasting models with climate attention outperform the corresponding benchmark models, indicating that climate attention does provide predictive information for carbon futures returns. In addition, we carry out trading simulations to investigate the economic performance of the forecast results. It turns out that the market strategies based on the prediction models with climate attention can deliver more benefits than the counterpart market strategies. More specifically, the cumulative returns reach 140% during the out-of-sample period, much higher than 79% of the cumulative returns of the buy-and-hold strategy.
+AU  - Gong, X.
+AU  - Li, M. J.
+AU  - Guan, K. Q.
+AU  - Sun, C. W.
+C1  - FMS:B;
+AJG:3;
+ZUFE:1A;
+C6  - JUN 2023
+DA  - SEP
+DO  - 10.1002/fut.22443
+IS  - 9
+KW  - carbon futures
+climate attention
+Google Trends index
+machine learning
+text mining
+INVESTOR ATTENTION
+FINANCIAL-MARKETS
+ECONOMIC-GROWTH
+NEURAL-NETWORK
+PRICE DRIVERS
+VOLATILITY
+IMPACTS
+COMMODITY
+DEEP
+TEMPERATURE
+N1  - Times Cited in Web of Science Core Collection: 18 To - Times Cited: 18 Ci - Reference Count: 85
+PY  - 2023
+SP  - 1261-1288
+ST  - Climate change attention and carbon futures return prediction
+T2  - JOURNAL OF FUTURES MARKETS
+TI  - Climate change attention and carbon futures return prediction
+VL  - 43
+ID  - 17091
+ER  - 
+
+TY  - JOUR
+AB  - Due to the uncertainty surrounding the coupling and decoupling of natural gas, oil, and energy commodity futures prices, the current study seeks to investigate the interactions between energy commodity futures, oil price futures, and carbon emission futures from a forecasting perspective with implications for environmental sustainability. We employed daily data on natural gas futures prices, crude oil futures prices, carbon futures prices, and Dow Jones energy commodity futures prices from January 2018 to October 2021. For empirical analysis, we applied machine learning tools including traditional multiple linear regression (MLR), artificial neural network (ANN), support vector regression (SVR), and long short-term memory (LSTM). The machine learning analysis provides two key findings. First, the nonlinear frameworks outperform linear models in developing the relationships between future oil prices (crude oil and heating oil) and carbon emission futures prices. Second, the machine learning findings establish that when oil prices and natural gas prices display extreme movement, carbon emission futures prices react nonlinearly. Understanding the nonlinear dynamics of extreme movements can help policymakers design climate and environmental policies, as well as adjust natural gas and oil futures prices. We discuss important implications to sustainable development goals mainly SDG 7 and SDG 12.
+AU  - Shahzad, U.
+AU  - Sengupta, T.
+AU  - Rao, A. M.
+AU  - Cui, L. B.
+C1  - FMS:B;
+AJG:3;
+ZUFE:1A;
+C6  - FEB 2023
+DA  - JUN
+DO  - 10.1007/s10479-023-05188-7
+IS  - SUPPL 1
+KW  - Carbon emission futures
+Natural gas futures
+Machine learning
+Dow Jones energy commodity
+Sustainable development goals
+SUPPORT VECTOR REGRESSION
+ENERGY FUTURES
+TERM STRUCTURE
+VOLATILITY
+ALGORITHM
+POVERTY
+PERFORMANCE
+NETWORKS
+MODELS
+NEXUS
+N1  - Times Cited in Web of Science Core Collection: 22 To - Times Cited: 22 Ci - Reference Count: 95
+PY  - 2024
+SP  - 11-11
+ST  - Forecasting carbon emissions future prices using the machine learning methods
+T2  - ANNALS OF OPERATIONS RESEARCH
+TI  - Forecasting carbon emissions future prices using the machine learning methods
+VL  - 337
+ID  - 17081
+ER  - 
+

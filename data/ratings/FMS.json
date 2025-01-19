@@ -1,0 +1,4710 @@
+[
+    {
+        "Paper_name": "American Economic Journal: Applied Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Development Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Public Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "RAND Journal of Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "American Economic Journal: Economic Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Brookings Papers on Economic Activity",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "China Economic Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Economic Development and Cultural Change",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Gender and Education",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Industrial Organization",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Comparative Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Development Studies",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Economic Growth",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Economics & Management Strategy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Industrial Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Real Estate Finance and Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Regulatory Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Real Estate Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Review of Income and Wealth",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "World Bank Economic Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "World Development",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "B.E. Journal of Economic Analysis & Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "China & World Economy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economics & Politics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economics of Transition",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Fiscal Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Information Economics and Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of the Economics of Business",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of African Economies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Economic Inequality",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Housing Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of International Development",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Real Estate Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Revenue and Pricing Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Managerial and Decision Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Manchester School",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "National Tax Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Oxford Development Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Post Communist Economies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Development Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Economics of the Household",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Industrial Organization",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Network Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Telecommunications Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Asian Economic Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "China Economic Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Comparative Economic Studies",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Economic Change and Restructuring",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Strategic Property Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Property Investment & Finance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Entrepreneurship Theory and Practice",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Business Venturing",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Strategic Entrepreneurship Journal",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Entrepreneurship and Regional Development",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Family Business Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Small Business Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Small Business Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Small Business Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Entrepreneurship Research Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Entrepreneurship and Management Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Entrepreneurial Behaviour & Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Entrepreneurial Venturing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Family Business Strategy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Entrepreneurship and Innovation",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Entrepreneurship and Innovation Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Entrepreneurship and Small Business",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Gender and Entrepreneurship",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Globalisation and Small Business",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Enterprising Culture",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Entrepreneurship",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of International Entrepreneurship",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Small Business & Entrepreneurship",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Small Business and Enterprise Development",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Risk and Uncertainty",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Risk Analysis",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Accident Analysis and Prevention",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Disasters",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Risk",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Safety Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Proceedings of the Institution of Mechanical Engineers Part O-Journal of Risk and Reliability",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Reliability Engineering & System Safety",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Safety Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Security Dialogue",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Disaster Prevention and Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Disaster Risk Reduction",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Disaster Risk Science ",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Operational Risk",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Risk Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Credit Risk",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Loss Prevention in the Process Industries",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Risk Model Validation",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Safety Science and Resilience",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Risk Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "IEEE Transactions on Engineering Management",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Construction Management and Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Frontiers of Engineering Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Project Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Civil Engineering and Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Construction Engineering and Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Management in Engineering",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Building Research and Information",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Construction Innovation",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Engineering Construction and Architectural Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Computing in Civil Engineering",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Infrastructure Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Project Management Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Engineering Management Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Engineering Sustainability",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Construction Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Managing Projects in Business",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Governance",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Public Administration Research and Theory",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Public Administration",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Public Administration Review",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Public Management Review",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Administration & Society",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "American Review of Public Administration",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Government Information Quarterly",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Public Management Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Policy Analysis and Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Nonprofit and Voluntary Sector Quarterly",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Policy and Politics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Public Opinion Quarterly",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Regulation & Governance",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Australian Journal of Public Administration",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Financial Accountability & Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Public Administration",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Public Opinion Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Review of Administrative Sciences",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Chinese Governance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Comparative Policy Analysis",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Contemporary China",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Policy Modeling",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Public Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Local Government Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Nonprofit Management & Leadership",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Policy Sciences",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Policy Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Policy Studies Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Public Administration and Development",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Public Administration Quarterly",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Public Money & Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Public Performance & Management Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Public Policy and Administration",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Social Policy & Administration",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Voluntas",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "eJournal of Tax Research",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Public Sector Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Review of Public Administration",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Non Profit and Public Sector Marketing",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Review of Policy Research",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of International Business Studies",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of World Business",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Asia Pacific Journal of Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Australian Journal of International Affairs",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Economy and Society",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "European Journal of International Relations",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Foreign Affairs",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Affairs",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Business Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Studies Quarterly",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Conflict Resolution",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of European Public Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of International Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Social Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Management International Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Review of International Political Economy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Socio-Economic Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "African Affairs",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Business and Politics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Capital Markets Law Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "China Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "China Quarterly",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Chinese Management Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Competition and Change",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Development and Change",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Europe-Asia Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Common Market Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of European Social Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of International Economic Law",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of World Investment & Trade",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of World Trade",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Legal Issues of Economic Integration",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "New Political Economy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Public Relations Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Social Economy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Studies in Comparative International Development",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Third World Quarterly",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Venture Capital",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Asia Pacific Business Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Asian Business & Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Critical Perspectives on International Business",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Cross Cultural & Strategic Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "European Journal of International Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Cross Cultural Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Negotiation",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Trade Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of East European Management Studies",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Multinational Business Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Nankai Business Review International",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Review of African Political Economy",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Thunderbird International Business Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Transnational Corporations",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "American Economic Journal: Macroeconomics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of International Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Monetary Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Economic Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "IMF Economic Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Economic Dynamics and Control",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Macroeconomic Dynamics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "NBER Macroeconomics Annual",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Oxford Bulletin of Economics and Statistics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Review of Economic Dynamics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Review of International Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Applied Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "B.E. Journal of Macroeconomics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Bulletin of Economic Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economic Modelling",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economic Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Empirical Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Economic Surveys",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Macroeconomics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of the Japanese and International Economies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Open Economies Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Pacific Economic Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of World Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Scottish Journal of Political Economy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Structural Change and Economic Dynamics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "World Economy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Applied Economics Letters",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Australian Economic Papers",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Frontiers of Economics in China",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Economic Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Asian Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Economic Integration",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of International Trade and Economic Development",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Metroeconomica",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Portuguese Economic Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Accounting Organizations and Society",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Accounting Review",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Contemporary Accounting Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Accounting and Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Accounting Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Review of Accounting Studies",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Abacus",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Accounting and Business Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Accounting Auditing & Accountability Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Accounting Horizons",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Auditing",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Behavioral Research in Accounting",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "British Accounting Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Critical Perspectives on Accounting",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "European Accounting Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Accounting",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Accounting and Public Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Accounting Literature",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Accounting, Auditing & Finance",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Business Finance & Accounting",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of International Accounting Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of International Accounting, Auditing and Taxation",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Management Accounting Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of the American Taxation Association",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Management Accounting Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Accounting and Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Accounting and the Public Interest",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Accounting Forum",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Accounting in Europe",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Accounting Research Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Accounting, Economics, and Law: A Convivium",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Advances in Accounting",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Advances in Accounting Behavioral Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Advances in Management Accounting",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Asia-Pacific Journal of Accounting & Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Australian Accounting Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "British Tax Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "China Journal of Accounting Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Corporate Governance: An International Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Foundations and Trends® in Accounting",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Accounting Information Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Auditing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Managerial and Financial Accounting",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Accounting & Organizational Change",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Applied Accounting Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Contemporary Accounting & Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Forensic and Investigative Accounting",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Information Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of International Financial Management & Accounting",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Management Control",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Qualitative Research in Accounting & Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Research in Accounting Regulation",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Sustainability Accounting Management and Policy Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "China Journal of Accounting Studies",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Comptabilite Controle Audit",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Accounting, Auditing and Performance Evaluation",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Management Accounting Quarterly",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Managerial Auditing Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Social and Environmental Accountability Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "World Tax Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Annals of Statistics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Biometrika",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Econometric Theory",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Business & Economic Statistics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Econometrics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of the American Statistical Association",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of the Royal Statistical Society Series B-Stastistical Methodology",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Annals of Applied Statistics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Biostatistics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Computational Statistics & Data Analysis",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Econometric Reviews",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Econometrics Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Applied Econometrics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Computational and Graphical Statistics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Multivariate Analysis",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of the Royal Statistical Society Series A-Statistics in society",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of the Royal Statistical Society Series C-Applied statistics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Time Series Analysis",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Scandinavian Journal of Statistics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Statistica Sinica",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Statistical Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Annals of the Institute of Statistical Mathematics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Australian & New Zealand Journal of Statistics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Canadian Journal of Statistics-Revue Canadienne De Statistique",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Electronic Journal of Statistics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Statistical Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Applied Statistics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Statistical Planning and Inference",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Multivariate Behavioral Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Statistica Neerlandica",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Statistics and Computing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Statistics in Medicine",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Structural Equation Modeling",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Studies in Nonlinear Dynamics and Econometrics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Review of Applied Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Statistical Analysis and Data Mining",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Statistical papers",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Statistics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Transport Policy",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Transportation Research Part A: Policy and Practice",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Transportation Research Part B: Methodological",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Transportation Science",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "IEEE Transactions on Intelligent Transportation Systems",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Transport Geography",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Transport Reviews",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Transportation Research Part C: Emerging Technologies",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Transportation Research Part D: Transport and Environment",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Transportation Research Part E: Logistics and Transportation Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Transportation Research Part F: Traffic Psychology and Behaviour",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "EURO Journal on Transportation and Logistics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "IEEE Intelligent Transportation Systems Magazine",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "IET Intelligent Transport Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Air Transport Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Intelligent Transportation Systems ",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Transport Economics and Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Maritime Policy & Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Networks & Spatial Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Research in Transportation Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Transportation",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Transportmetrica A: Transport Science",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Transportmetrica B: Transport Dynamics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "European Transport Research Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Sustainable Transportation",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Advanced Transportation",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Transportation Engineering Part A-Systems",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Promet-Traffic & Transportation",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Transport",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Transportation Letters: The International Journal of Transportation Research",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Transportation Planning and Technology",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Transportation Safety and Environment",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Travel Behaviour and Society",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Academy of Management Learning & Education",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Economics of Education Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Economic Education",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Management Education",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Studies in Higher Education",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Accounting Education",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "British Educational Research Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "British Journal of Educational Technology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Environmental Education Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Higher Education",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "INFORMS Transactions on Education",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Issues in Accounting Education",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Accounting Education",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Higher Education",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of School Psychology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Vocational Education and Training",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Education Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Higher Education Quarterly",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Information and Learning Sciences",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Hospitality, Leisure, Sport & Tourism Education",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Management Development",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Marketing Education",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Finance",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Financial and Quantitative Analysis",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Financial Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Money Credit and Banking",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Review of Finance",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Review of Financial Studies",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "European Financial Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Finance and Stochastics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Financial Analysts Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Financial Innovation",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Financial Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Insurance: Mathematics and Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Review of Financial Analysis",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Banking & Finance",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Commodity Markets",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Corporate Finance",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Empirical Finance",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Financial Econometrics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Financial Intermediation",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Financial Markets",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Financial Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Financial Stability",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Futures Markets",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of International Money and Finance",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Portfolio Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Risk and Insurance",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Mathematical Finance",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Quantitative Finance",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Review of Asset Pricing Studies",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Review of Corporate Finance Studies",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Review of Quantitative Finance and Accounting",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Annals of Actuarial Science",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Annals of Economics and Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Annual Review of Financial Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Asia Pacific Financial Markets",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "ASTIN Bulletin",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "China Finance Review International",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Corporate Governance: The International Journal of Business in Society",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Emerging Markets Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "European Journal of Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Finance Research Letters",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Financial Markets and Portfolio Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Financial Markets, Institutions & Instruments",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Financial Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Geneva Papers on Risk and Insurance Issues and Practice",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Geneva Risk and Insurance Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Central Banking",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Finance & Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Theoretical and Applied Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Review of Economics & Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Review of Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Tax and Public Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Behavioral Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Computational Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Derivatives",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Economics and Business",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Financial Services Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Fixed Income",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of International Financial Markets, Institutions & Money",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "North American Actuarial Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Pacific-Basin Finance Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Public Finance Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Quarterly Review of Economics and Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Derivatives Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Financial Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Scandinavian Actuarial Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "SIAM Journal on Financial Mathematics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Annals of Finance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Applied Mathematical Finance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Credit and Capital Markets",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Critical Finance Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Finanzarchiv",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Global Finance Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Financial Engineering",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Applied Corporate Finance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Asset Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Multinational Financial Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Prediction Markets",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Risk Finance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Managerial Finance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Multinational Finance Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Qualitative Research in Financial Markets",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Research in International Business and Finance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Review of Accounting and Finance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Economic History",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Economic Literature",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Business History",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Business History Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Economic History Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "European Review of Economic History",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Explorations in Economic History",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Accounting Historians Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Accounting History",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Accounting History Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Australian Economic History Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Cliometrica",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Enterprise & Society",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "European Journal of the History of Economic Thought",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Financial History Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "History of Political Economy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Economic Methodology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Management History",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Post Keynesian Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of the History of Economic Thought",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Labor History",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Labour History",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Politics, Philosophy & Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of European Economic History",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Historical Research in Marketing",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Management and Organizational History",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Scandinavian Economic History Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Product Innovation Management",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Research Policy",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Industrial and Corporate Change",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Technology Transfer",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "R & D Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Science, Technology & Human Values",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Technological Forecasting and Social Change",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Technovation",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Creativity and Innovation Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economics of Innovation and New Technology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "European Journal of Innovation Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Evaluation",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Futures",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Industry and Innovation",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Innovation-Organization & Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Technology Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Engineering and Technology Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Research Evaluation",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Research Technology Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Science and Public Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Science Technology and Society",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Technology Analysis & Strategic Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Innovation and Development Policy ",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Innovation and Technology Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Innovation Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Innovation Studies",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Technology Intelligence and Planning",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of High Technology Management Research",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Labor Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Demography",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Migration Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Human Capital",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Human Resources",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Population Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Population Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Labour Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Population and Development Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Demographic Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economics & Human Biology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Feminist Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Migration",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "IZA Journal of Labor Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Population",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Population Research and Policy Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Population Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "American Economic Journal: Microeconomics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Games and Economic Behavior",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Economic Theory",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Theoretical Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Economic Theory",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Experimental Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Behavioral Decision Making",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Economic Behavior & Organization",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Mathematical Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Social Choice and Welfare",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "B.E. Journal of Theoretical Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Dynamic Games and Applications",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Economic Theory",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Game Theory",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Behavioral and Experimental Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Economic Psychology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Institutional and Theoretical Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Mathematical Social Sciences",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Economic Design",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Theory and Decision",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Computational Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Decisions in Economics and Finance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Game Theory Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Choice Modelling",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Economic Interaction and Coordination",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Annals of Tourism Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Travel Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Tourism Management",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Cornell Hospitality Quarterly",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Current Issues in Tourism",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "European Sport Management Quarterly",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Contemporary Hospitality Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Hospitality Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Hospitality & Tourism Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Leisure Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Sustainable Tourism",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Asia Pacific Journal of Tourism Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Event Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Tourism Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Destination Marketing & Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Hospitality and Tourism Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Hospitality Marketing & Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Sport Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Travel & Tourism Marketing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Vacation Marketing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Leisure Sciences",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Leisure Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Sport Management Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Tourism Analysis",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Tourism Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Tourism Geographies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Tourism Management Perspectives",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Tourism Recreation Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Arts Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Sports Marketing and Sponsorship",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of China Tourism Research",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Hospitality and Tourism Technology",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Quality Assurance in Hospitality & Tourism",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Tourism and Cultural Change",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Sport Marketing Quarterly",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Tourism Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "American Journal of Agricultural Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Agricultural Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "European Review of Agricultural Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Food Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Agricultural Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Applied Economic Perspectives and Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Australian Journal of Agricultural and Resource Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Canadian Journal of Agricultural Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "China Agricultural Economic Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Agricultural and Resource Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Marine Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Marine Resource Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Agribusiness",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Agricultural and Resource Economics Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Economic Geography",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Urban Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "European Urban and Regional Studies",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Global Networks",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Economic Geography",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Regional Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Rural Studies",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Urban Affairs",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Papers in Regional Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Regional Science and Urban Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Regional Studies",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Urban Studies",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Annals of Regional Science",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Cambridge Journal of Regions Economy and Society",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economic Development Quarterly",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economic Systems Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Growth and Change",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Urban and Regional Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Regional Science Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Evolutionary Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Productivity Analysis",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Progress in Human Geography",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Spatial Economic Analysis",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Human Resource Management",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Human Resource Management Journal",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Industrial Relations",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "British Journal of Industrial Relations",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Business Ethics Quarterly",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Human Communication Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Human Resource Management Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "ILR Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Industrial Law Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Industrial Relations Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Human Resource Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Business Ethics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "New Technology Work and Employment",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Work and Occupations",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Work Employment and Society",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Asia Pacific Journal of Human Resources",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Business Ethics: A European Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economic and Industrial Democracy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Employee Relations",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "European Journal of Industrial Relations",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Human Resource Development International",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Human Resource Development Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Manpower",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Selection and Assessment",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Labour Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Industrial Relations",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "LABOUR: Review of Labour Economics and Industrial Relations",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Personnel Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Public Personnel Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Relations Industrielles-Industrial Relations ",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Public Personnel Administration",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of the Association for Information Science and Technology",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Information Processing & Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Documentation",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Information Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Informetrics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Library & Information science Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Scientometrics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Academic Librarianship",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Scholarly Publishing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Learned Publishing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Library Hi Tech",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Library Quarterly",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Online Information Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Quantitative Science Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Data and Information Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Electronic Library",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Data and Information Science",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Librarianship and Information Science",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Health Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Health Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "American Journal of Health Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "American Journal of Public Health",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Health Services Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Medical Decision Making",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Social Science & Medicine",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Sociology of Health & Illness",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "European Journal of Health Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Health Care Management Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Health Care Management Science",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Health Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Health Economics and Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Medical Informatics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Technology Assessment in Health Care",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Health Politics, Policy and Law",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Health Services Research & Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of the American Medical Informatics Association",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Medical Care",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Milbank Quarterly",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Occupational and Environmental Medicine",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "PharmacoEconomics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Quality of Life Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Scandinavian Journal of Work, Environment & Health",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Applied Health Economics and Health Policy",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "BMJ Quality & Safety",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Health Economics Policy and Law",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Health Promotion International",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Health Services Management Research",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Applied Psychology",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Organizational Behavior and Human Decision Processes",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Personnel Psychology",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Psychological Science",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Annual Review of Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Applied Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "British Journal of Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "British Journal of Social Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Current Directions in Psychological Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "European Journal of Social Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Business and Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Experimental Psychology Applied",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Experimental Social Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Occupational and Organizational Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Occupational Health Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Personality and Social Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Vocational Behavior",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Personality and Social Psychology Bulletin",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Psychological Bulletin",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Psychology of Women Quarterly",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Work and Stress",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Acta Psychologica",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Advances in Experimental Social Psychology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Cognitive Psychology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Ergonomics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Group Dynamics-Theory research and practice",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Human Performance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Intercultural Relations",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Career Assessment",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Cross-Cultural Psychology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Managerial Psychology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Personality and Individual Differences",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Psychological Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Psychometrika",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Quarterly Journal of Experimental Psychology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Small Group Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Stress and Health",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "American Behavioral Scientist",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Happiness Studies",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "European Journal of Information Systems",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Information Systems Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Management Information Systems",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of the Association for Information Systems",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "MIS Quarterly",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "ACM Transactions on Computer-Human Interaction",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "ACM Transactions on Information Systems",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "ACM Transactions on Knowledge Discovery from Data",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "ACM Transactions on Management Information Systems",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Communications of the ACM",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Computers in Human Behavior",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Data Base for Advances in Information Systems",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Decision Support Systems",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "IEEE Transactions on Software Engineering",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Information & Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Information and Organization",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Information and Software Technology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Information Sciences",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Information Society",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Information Systems Frontiers",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Information Systems Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Information Technology & People",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Electronic Commerce",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Information Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Internet Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Information Technology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Knowledge Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Strategic Information Systems",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "MIS Quarterly Executive",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "ACM Computing Surveys",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "AIS Transactions on Human Computer Interaction",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Behaviour & Information Technology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Business & Information Systems Engineering",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Communications of the Association for Information Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Computer Supported Cooperative Work",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Computers & Security",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Computers in Industry",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Data & Knowledge Engineering",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Electronic Commerce Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Electronic Commerce Research and Applications",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Electronic Markets",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Enterprise Information Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Expert Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Expert Systems with Applications",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Human-Computer Interaction",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Industrial Management & Data Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Information Communication and Society",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Information Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Information Systems and e-Business Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Information Systems Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Information Technology and Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Information Technology for Development",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Human-Computer Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Compute-Mediated Communication",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Computer Information Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Electronic Commerce Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Enterprise Information Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Global Information Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Information Technology Theory and Application",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Manufacturing Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Organizational Computing and Electronic Commerce",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of the ACM",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Knowledge Management Research & Practice",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Knowledge-Based Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Scandinavian Journal of Information Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Annals of Data Science",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Australasian Journal of Information Systems",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Data Science and Management ",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "e-Service Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Information Resources Management Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Knowledge Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Knowledge Management Studies",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Decision Systems",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Electronic Commerce in Organizations",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Organizational and End User Computing",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Academy of Management Annals",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Academy of Management Journal",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Academy of Management Review",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Administrative Science Quarterly",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Management",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Management Studies",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Academy of Management Discoveries",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Academy of Management Perspectives",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "British Journal of Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Business & Society",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Business Strategy and the Environment",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "California Management Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Gender & Society",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Harvard Business Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Management Reviews",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Business Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "MIT Sloan Management Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Australian Journal of Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "BRQ Business Research Quarterly",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Business Horizons",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Canadian Journal of Administrative Sciences",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Corporate Social Responsibility and Environmental Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "European Business Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "European Management Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "European Management Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Studies of Management & Organization",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Business Law",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of General Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Intellectual Capital",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Management Inquiry",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Management Decision",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Managerial Science",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Scandinavian Journal of Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Schmalenbach Journal of Business Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Sex Roles",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Society and Business Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Baltic Journal of Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "European Business Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Frontiers of Business Research in China",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Corporate Citizenship",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Management and Governance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Management Research Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "American Economic Review",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Econometrica",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Economic Journal",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "International Economic Review",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Economic Perspectives",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Political Economy",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of the European Economic Association",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Quarterly Journal of Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Review of Economic Studies",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Review of Economics and Statistics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "American Economic Review Insights",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Cambridge Journal of Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Canadian Journal of Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Economic Inquiry",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Economica",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Economics Letters",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "European Economic Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Law & Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Law, Economics & Organization",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Kyklos",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Oxford Economic Papers",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Quantitative Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "American Law and Economics Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Annals of Economics and Statistics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Annual Review of Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Contemporary Economic Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Defence and Peace Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economic Record",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economics and Philosophy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "European Journal of Political Economy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "German Economic Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Review of Law and Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Business Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Cultural Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Economic Issues",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Institutional Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Pension Economics & Finance",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Public Economic Theory",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Oxford Review of Economic Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Public Choice",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Review of Political Economy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Scandinavian Journal of Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Southern Economic Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Australian Economic Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Australian Tax Forum",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Canadian Tax Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "De Economist",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Eastern Economic Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Economics of Governance",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "European Journal of Economics and Economic Policies: Intervention",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "European Journal of Law and Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Management Practice",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Political Economy",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Japanese Economic Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Competition Law & Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Media Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Research in Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Review of Austrian Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Review of Law & Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Review of Radical Political Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "SERIEs: Journal of the Spanish Economic Association",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Consumer Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Marketing",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Marketing Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Marketing Science",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "European Journal of Marketing",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Industrial Marketing Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Research in Marketing",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Marketing Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Advertising",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Advertising Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Consumer Psychology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Interactive Marketing",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of International Marketing",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Public Policy & Marketing",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Retailing",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Service Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of the Academy of Marketing Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Marketing Letters",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Marketing Theory",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Psychology & Marketing",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Quantitative Marketing and Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Advances in Consumer Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Business Process Management Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Consumption Markets & Culture",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Advertising",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Consumer Studies",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Market Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Retail & Distribution Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Brand Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Business & Industrial Marketing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Business-to-Business Marketing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Communication",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Consumer Affairs",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Consumer Behaviour",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Consumer Marketing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Global Marketing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Macromarketing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Marketing Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Marketing Theory and Practice",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Personal Selling and Sales Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Retailing and Consumer Services",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Service Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Service Theory and Practice",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Services Marketing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Strategic Marketing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Service Industries Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Advances in International Marketing",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Australasian Marketing Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Corporate Reputation Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Bank Marketing",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Internet Marketing and Advertising",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Nonprofit and Voluntary Sector Marketing",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Review of Retail, Distribution and Consumer Research",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Review on Public and Nonprofit Marketing",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Consumer Policy",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Customer Behaviour",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Financial Services Marketing",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Inter-Organizational Relationships",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Marketing Communications",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Product and Brand Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Relationship Marketing",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Marketing Intelligence and Planning",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Qualitative Market Research",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Review of Marketing Science",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Service Business",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "European Journal of Operational Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "INFORMS Journal on Computing",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Management Science",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Mathematical Programming",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Mathematics of Operations Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Operations Research",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "ACM Transactions on Modeling and Computer Simulation",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Annals of Operations Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Computers & Industrial Engineering",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Computers & Operations Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Decision Analysis",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Decision Sciences",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Fuzzy Optimization and Decision Making",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Group Decision and Negotiation",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "IEEE Transactions on Cybernetics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "IEEE Transactions on Evolutionary Computation",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "IEEE Transactions on Systems, Man and Cybernetics: Systems",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "IISE Transactions",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "INFORMS Journal on Applied Analytics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "INFORMS Journal on Optimization",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Forecasting",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Information Technology & Decision Making",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Heuristics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Management Science and Engineering",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Optimization Theory and Applications",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Scheduling",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of the Operational Research Society",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Judgment and Decision Making",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Naval Research Logistics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Omega",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Operations Research Letters",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "OR Spectrum",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "SIAM Journal on Optimization",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "4OR",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Asia-Pacific Journal of Operational Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Computational Optimization and Applications",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Decision",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Evolutionary Computation",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Flexible Services and Manufacturing Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Grey Systems:Theory and Application",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Transactions in Operational Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Forecasting",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Global Optimization",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Grey System",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Management Analytics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Systems Engineering and Electronics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Systems Science and Complexity",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Systems Science and Systems Engineering",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Mathematical Methods of Operations Research",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "SIAM Journal on Computing",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Stochastic Systems",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "System Dynamics Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Systems Research and Behavioral Science",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Central European Journal of Operations Research",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Computational Management Science",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "INFOR",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of General Systems",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Management Science and Engineering Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Operations and Quantitative Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Data, Information and Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Multi-Criteria Decision Analysis",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Systems Science and Information",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of the Operations Research Society of China",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Optimization",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Operations Management",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Manufacturing & Service Operations Management",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Production and Operations Management",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "International Journal of Operations & Production Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Physical Distribution & Logistics Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Production Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Production Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Business Logistics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Purchasing and Supply Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Quality Technology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Supply Chain Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Production Planning and Control",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Service Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Supply Chain Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "International Journal of Logistics Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Logistics Research and Applications",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Quality & Reliability Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Total Quality Management & Business Excellence",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "International Journal of Business Performance Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Productivity and Performance Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Services and Operations Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Manufacturing Technology Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Modern Supply Chain Research and Applications",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Supply Chain Forum: An International Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "TQM Journal",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Strategic Management Journal",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Global Strategy Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Long Range Planning",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Strategic Organization",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Strategy Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Advances in Strategic Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Benchmarking",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Business Strategy Review",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Business Strategy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "M@n@gement",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Change Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Strategy and Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Strategic Change",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Strategy & Leadership",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Ecological Economics",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Journal of Environmental Economics and Management",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Climate Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Energy Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Energy Journal",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Energy Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Environment and Development Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Environment and Planning A: Economy and Space",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Environment and Planning B: Urban Analytics and City Science",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Environment and Planning D: Society and Space",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Environmental and Resource Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Environmental Science & Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Global Environmental Change",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Environmental Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Environmental Planning and Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of Industrial Ecology",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Journal of the Association of Environmental and Resource Economists",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Land Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Resource and Energy Economics",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Review of Environmental Economics and Policy",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Water Resources Research",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Annual Review of Resource Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Australasian Journal of Environmental Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Carbon Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Climate Change Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Economics of Energy and Environmental Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Environment and Planning C: Politics and Space",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Cleaner Production",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Forest Economics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Land Use Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Resources Policy",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Chinese Journal of Population, Resources and Environment ",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Energy and Climate Change",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Energy, Ecology and Environment",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Environmental and Ecological Statistics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Environmental Economics and Policy Studies",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Environmental Impact Assessment Review",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Environmental Modeling & Assessment",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Environmental Agreements : Politics , Law and Economics",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "International Journal of Energy Sector Management",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Journal of Organizational Behavior",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Leadership Quarterly",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Organization Science",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Organization Studies",
+        "Level": "A"
+    },
+    {
+        "Paper_name": "Gender Work and Organization",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Group & Organization Management",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Human Relations",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Management and Organization Review",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Management Learning",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Organization",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Organization & Environment",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Organizational Research Methods",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Research in Organizational Behavior",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "Research in the Sociology of Organizations",
+        "Level": "B"
+    },
+    {
+        "Paper_name": "European Journal of Work and Organizational Psychology",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Group Processes & Intergroup Relations",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Human Factors",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Applied Behavioral Science",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Organizational Behavior Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Organizational Change Management",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Journal of Professions and Organization",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Management Communication Quarterly",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Negotiation Journal",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Organizational Dynamics",
+        "Level": "C"
+    },
+    {
+        "Paper_name": "Culture and Organization",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Leadership",
+        "Level": "D"
+    },
+    {
+        "Paper_name": "Learning Organization",
+        "Level": "D"
+    }
+]

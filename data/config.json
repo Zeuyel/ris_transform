@@ -1,0 +1,58 @@
+{
+    "rating_systems": {
+        "CCF": {
+            "name": "CCF期刊/会议分类",
+            "description": "中国计算机学会推荐期刊会议目录"
+        },
+        "FMS": {
+            "name": "FMS期刊分类",
+            "description": "金融管理科学期刊目录"
+        },
+        "AJG": {
+            "name": "AJG期刊分类",
+            "description": "Academic Journal Guide"
+        },
+        "ZUFE": {
+            "name": "ZUFE期刊分类",
+            "description": "浙江财经大学期刊目录"
+        },
+        "zdy": {
+            "name": "ceshi",
+            "description": "ceshi"
+        }
+    },
+    "rating_file_paths": {
+        "CCF": "ratings\\ccf_data.json",
+        "FMS": "ratings\\FMS.json",
+        "AJG": "ratings\\ajg_2024.json",
+        "ZUFE": "ratings\\zufe.json",
+        "zdy": "ratings\\zdy_ajg_all.json"
+    },
+    "json_attribute_mapping": {
+        "CCF": {
+            "paper_name": "fullname",
+            "level": "rank",
+            "type": "type"
+        },
+        "FMS": {
+            "paper_name": "Paper_name",
+            "level": "Level"
+        },
+        "AJG": {
+            "paper_name": "Paper_name",
+            "level": "Level"
+        },
+        "ZUFE": {
+            "paper_name": "Paper_name",
+            "level": "Level"
+        },
+        "zdy": {
+            "paper_name": "title",
+            "level": "ajg_2021"
+        }
+    },
+    "token_missuo": "",
+    "token_linuxdo": "",
+    "output_directory": "C:/Users/epictus/Desktop/ris_transform/test_output",
+    "subfolder": "asdf"
+}

@@ -3,10 +3,10 @@
 
 a = Analysis(
     ['app.py'],
-    pathex=[],
+    pathex=['.'],
     binaries=[],
-    datas=[('data\\ccf_data.json', 'data'), ('data\\FMS.json', 'data'), ('data\\ajg_2024.json', 'data'), ('data\\zufe.json', 'data'), ('resources\\filter.ico', 'resources'), ('resources\\scopus.ris', 'resources')],
-    hiddenimports=[],
+    datas=[('data\\config.json', 'data'), ('data\\ratings\\ajg_2024.json', 'data\\ratings'), ('data\\ratings\\ccf_data.json', 'data\\ratings'), ('data\\ratings\\FMS.json', 'data\\ratings'), ('data\\ratings\\zdy_ajg_all.json', 'data\\ratings'), ('data\\ratings\\zufe.json', 'data\\ratings'), ('data\\criteria\\abs3+.json', 'data\\criteria'), ('data\\profiles\\zufe.json', 'data\\profiles'), ('resources\\filter.ico', 'resources'), ('resources\\scopus.ris', 'resources')],
+    hiddenimports=['PyQt5.QtCore', 'PyQt5.QtGui', 'PyQt5.QtWidgets', 'core', 'core.data_manager', 'core.data_types', 'core.paper_processor', 'gui', 'gui.main_window', 'utils', 'utils.translator'],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
