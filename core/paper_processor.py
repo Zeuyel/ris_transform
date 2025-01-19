@@ -155,7 +155,7 @@ def get_paper_criteria(entries,
                     entry['C2'].append(system + ':' + str(rating) + ";")
 
                 if system in criteria_dict.keys(): 
-                    if str(rating) in criteria_dict[system]:
+                    if rating in criteria_dict[system]:
                         selected_criteria_entries[criteria].append(entry)
 
                 # if system in criteria_dict.keys():  # 一般情况
@@ -371,7 +371,10 @@ def main():
     # 测试用例
     test_file = os.path.join("resources", "scopus.ris")
     test_folder = "test_output"
+    sub_folder = "ceshi1"
     
+    output_directory = os.path.join(test_folder, sub_folder)
+
     # 获取当前脚本所在目录
     current_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(current_dir)
@@ -415,7 +418,7 @@ def main():
             path_rating_file=path_rating_file,
             json_attribute_title=json_attribute_title,
             json_attribute_rating=json_attribute_rating,
-            output_directory=test_folder
+            output_directory=output_directory
         )
         
     except Exception as e:

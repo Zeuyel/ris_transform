@@ -1,0 +1,1882 @@
+﻿TY  - JOUR
+AU  - Hassan Anik, B.M.T.
+AU  - Abdel-Aty, M.
+AU  - Islam, Z.
+TI  - Can we realize seamless traffic safety at smart intersections by predicting and preventing impending crashes?
+PY  - 2025
+T2  - Accident Analysis and Prevention
+VL  - 211
+C7  - 107908
+DO  - 10.1016/j.aap.2024.107908
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85213567305&doi=10.1016%2fj.aap.2024.107908&partnerID=40&md5=8f9fe32797ab8c8bf5baa2fcf8de0054
+AB  - Intersections are frequently identified as crash hotspots for roadways in major cities, leading to significant human casualties. We propose crash likelihood prediction as an effective strategy to proactively prevent intersection crashes. So far, no reliable models have been developed for intersections that effectively account for the variation in crash types and the cyclical nature of Signal Phasing and Timing (SPaT) and traffic flow. Moreover, the limited research available has primarily relied on sampling techniques to address data imbalance, without exploring alternative solutions. We develop an anomaly detection framework by integrating Generative Adversarial Networks (GANs) and Transformers to predict the likelihood of cycle-level crashes at intersections. The model is built using high-resolution event data extracted from Automated Traffic Signal Performance Measures (ATSPM), including SPaT and traffic flow insights from 11 intersections in Seminole County, Florida. Our framework demonstrates a sensitivity of 76% in predicting crash events using highly imbalanced crash data along with real-world SPaT and traffic data, highlighting its potential for deployment at smart intersections. Overall, the results provide a roadmap for city-wide implementation at smart intersections, with the potential for multiple real-time solutions for impending crashes. These include adjustments in signal timing, driver warnings using various means, and more efficient emergency response, all with major implications for creating more livable and safe cities. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Hassan Anik2025Can
+ER  -
+
+TY  - JOUR
+AU  - Sun, K.
+AU  - Liu, H.
+TI  - Attention-aware semantic relevance predicting Chinese sentence reading
+PY  - 2025
+T2  - Cognition
+VL  - 255
+C7  - 105991
+DO  - 10.1016/j.cognition.2024.105991
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85210133018&doi=10.1016%2fj.cognition.2024.105991&partnerID=40&md5=aba498dbb3e9ebf2669cbc0d0447ddd5
+AB  - In recent years, several influential computational models and metrics have been proposed to predict how humans comprehend and process sentence. One particularly promising approach is contextual semantic similarity. Inspired by the attention algorithm in Transformer and human memory mechanisms, this study proposes an “attention-aware” approach for computing contextual semantic relevance. This new approach takes into account the different contributions of contextual parts and the expectation effect, allowing it to incorporate contextual information fully. The attention-aware approach also facilitates the simulation of existing reading models and their evaluation. The resulting “attention-aware” metrics of semantic relevance can more accurately predict fixation durations in Chinese reading tasks recorded in an eye-tracking corpus than those calculated by existing approaches. The study's findings further provide strong support for the presence of semantic preview benefits in Chinese naturalistic reading. Furthermore, the attention-aware metrics of semantic relevance, being memory-based, possess high interpretability from both linguistic and cognitive standpoints, making them a valuable computational tool for modeling eye-movements in reading and further gaining insight into the process of language comprehension. Our approach emphasizes the potential of these metrics to advance our understanding of how humans comprehend and process language. © 2024 The Authors
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - AJG:4; zdy:4; 
+LB  - Sun2025Attention-aware
+ER  -
+
+TY  - JOUR
+AU  - Mhamed, M.
+AU  - Zhang, Z.
+AU  - Hua, W.
+AU  - Yang, L.
+AU  - Huang, M.
+AU  - Li, X.
+AU  - Bai, T.
+AU  - Li, H.
+AU  - Zhang, M.
+TI  - Apple varieties and growth prediction with time series classification based on deep learning to impact the harvesting decisions
+PY  - 2025
+T2  - Computers in Industry
+VL  - 164
+C7  - 104191
+DO  - 10.1016/j.compind.2024.104191
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85205136372&doi=10.1016%2fj.compind.2024.104191&partnerID=40&md5=574b16c32522c7023f3cd7288e8359a4
+AB  - Apples are among the most popular fruits globally due to their health and nutritional benefits for humans. Artificial intelligence in agriculture has advanced, but vision, which improves machine efficiency, speed, and production, still needs to be improved. Managing apple development from planting to harvest affects productivity, quality, and economics. In this study, by establishing a vision system platform with a range of camera types that conforms with orchard standard specifications for data gathering, this work provides two new apple collections: Orchard Fuji Growth Stages (OFGS) and Orchard Apple Varieties (OAV), with preliminary benchmark assessments. Secondly, this research proposes the orchard apple vision transformer method (POA-VT), incorporating novel regularization techniques (CRT) that assist us in boosting efficiency and optimizing the loss functions. The highest accuracy scores are 91.56 % for OFGS and 94.20 % for OAV. Thirdly, an ablation study will be conducted to demonstrate the importance of CRT to the proposed method. Fourthly, the CRT outperforms the baselines by comparing it with the standard regularization functions. Finally, time series analyses predict the ‘Fuji’ growth stage, with the outstanding training and validation RMSE being 19.29 and 19.26, respectively. The proposed method offers high efficiency via multiple tasks and improves the automation of apple systems. It is highly flexible in handling various tasks related to apple fruits. Furthermore, it can integrate with real-time systems, such as UAVs and sorting systems. This research benefits the growth of apple's robotic vision, development policies, time-sensitive harvesting schedules, and decision-making. © 2024 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 1
+C2  - FMS:C; AJG:3; zdy:3; 
+LB  - Mhamed2025Apple
+ER  -
+
+TY  - JOUR
+AU  - Xu, Z.
+AU  - Gan, S.
+AU  - Hua, X.
+AU  - Xiong, Y.
+TI  - Can the sentiment of the official media predict the return volatility of the Chinese crude oil futures?
+PY  - 2024
+T2  - Energy Economics
+VL  - 140
+C7  - 107967
+DO  - 10.1016/j.eneco.2024.107967
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207084196&doi=10.1016%2fj.eneco.2024.107967&partnerID=40&md5=f0d8399b5e0100870eacbaa90649f89d
+AB  - This study investigates whether the sentiment of Chinese official media towards crude oil influences price volatility of the Chinese crude oil futures (SC). By leveraging textual analysis through Bidirectional Encoder Representations from Transformers (BERT), we quantify the sentiment of oil-related articles published by the primary official media in China. Our main finding, building on both in-sample and out-of-sample analyses, robustly reveals that this sentiment significantly forecasts the one-day-ahead intraday return volatility of SC. Moreover, we extend the analysis to different time horizons (i.e., one-week and one-month-ahead) and find the prominent forecasting power of the official media sentiment as well. We also find that the official media sentiment fails to forecast the price volatility of WTI oil futures, implying that the official media sentiment contains some unique Chinese information. Overall, our study contributes to the existing literature on predicting the return volatility of the Chinese crude oil futures, and offers fresh insights into an essential yet underexplored sentiment, i.e., official media sentiment. © 2024
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Xu2024Can
+ER  -
+
+TY  - JOUR
+AU  - Wang, X.
+AU  - Wang, L.
+AU  - An, W.
+TI  - Probability density prediction for carbon allowance prices based on TS2Vec and distribution Transformer
+PY  - 2024
+T2  - Energy Economics
+VL  - 140
+C7  - 107986
+DO  - 10.1016/j.eneco.2024.107986
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208476352&doi=10.1016%2fj.eneco.2024.107986&partnerID=40&md5=bf36cda489f98a54ab43b2b92856de9b
+AB  - Carbon allowance price is an important tool to reduce carbon emissions and achieve carbon neutrality. It is necessary to establish a predictive model to provide accurate and reliable information to managers and participants in the carbon trading market. Therefore, a novel probability density prediction model, called TS2Vec-based distribution Transformer (TDT), is proposed. TDT consists of two stages: contrastive unsupervised pre-training and supervised training. In the contrastive unsupervised training stage, time series to vector (TS2Vec) is used to represent the dynamic trends and unique features of the data. Then, these representations are fed into the distribution Transformer (DT) to fit the hypothetical probability distribution. Experimental results show that the prediction results of the proposed TDT are more accurate and reliable than other benchmark models. In addition, our research indicates reliable probability density predictions provide enterprises with opportunities to control carbon emission costs and increase economic returns, thereby improving the competitiveness of enterprises and promoting carbon emission reduction. © 2024 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Wang2024Probability
+ER  -
+
+TY  - JOUR
+AU  - Chen, Z.
+AU  - Wang, Z.
+AU  - Wu, W.
+AU  - Xia, T.
+AU  - Pan, E.
+TI  - A hybrid battery degradation model combining arrhenius equation and neural network for capacity prediction under time-varying operating conditions
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 252
+C7  - 110471
+DO  - 10.1016/j.ress.2024.110471
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203013002&doi=10.1016%2fj.ress.2024.110471&partnerID=40&md5=0e76de2174b890f426f904c94901ebf5
+AB  - Capacity degradation modeling and remaining useful life (RUL) prediction play a pivotal role in enhancing the safety of battery energy storage systems. Lithium-ion batteries utilized in the systems are subjected to intricate and variable operating conditions, including temperature, charging/discharging rates and depth, which result in time-varying degradation rates. However, most existing models for battery capacity prediction have the limitation of ignoring the quantitative effects of time-varying operating conditions on degradation. Therefore, a hybrid battery capacity degradation model combining Arrhenius equation and lightweight Transformer is constructed. The effects of operating conditions on capacity degradation rates are introduced by an improved Arrhenius degradation equation. The coordinate ascent method embedded with Newton descent is used for estimating the model parameters. Then, the unknown mapping relationships between the degradation statistical features extracted from monitoring data and the degradation factors are captured by the light-weight Transformer. Finally, a novel framework consisting of future capacity and RUL predicting is constructed based on sequential importance resampling (SIR). For the purpose of verification, the cyclic charge-discharge experiments of eight battery cells under two distinct operating profiles are designed and conducted. Compared with other models, the proposed model achieves the best prognostics performance on the tested cells. © 2024
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 2
+C2  - AJG:3; zdy:3; 
+LB  - Chen2024hybrid
+ER  -
+
+TY  - JOUR
+AU  - Umair, M.
+AU  - Mertens, J.B.
+AU  - Warnke, L.
+AU  - de Ruiter, J.P.
+TI  - Can Language Models Trained on Written Monologue Learn to Predict Spoken Dialogue?
+PY  - 2024
+T2  - Cognitive Science
+VL  - 48
+IS  - 11
+C7  - e70013
+DO  - 10.1111/cogs.70013
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85210419638&doi=10.1111%2fcogs.70013&partnerID=40&md5=8cac336ffb3a0e27a694e141a39705b9
+AB  - Transformer-based Large Language Models (LLMs) have recently increased in popularity, in part due to their impressive performance on a number of language tasks. While LLMs can produce human-like writing, the extent to which these models can learn to predict spoken language in natural interaction remains unclear. This is a nontrivial question, as spoken and written language differ in syntax, pragmatics, and norms that interlocutors follow. Previous work suggests that while LLMs may develop an understanding of linguistic rules based on statistical regularities, they fail to acquire the knowledge required for language use. This implies that LLMs may not learn the normative structure underlying interactive spoken language, but may instead only model superficial regularities in speech. In this paper, we aim to evaluate LLMs as models of spoken dialogue. Specifically, we investigate whether LLMs can learn that the identity of a speaker in spoken dialogue influences what is likely to be said. To answer this question, we first fine-tuned two variants of a specific LLM (GPT-2) on transcripts of natural spoken dialogue in English. Then, we used these models to compute surprisal values for two-turn sequences with the same first-turn but different second-turn speakers and compared the output to human behavioral data. While the predictability of words in all fine-tuned models was influenced by speaker identity information, the models did not replicate humans' use of this information. Our findings suggest that although LLMs may learn to generate text conforming to normative linguistic structure, they do not (yet) faithfully replicate human behavior in natural conversation. © 2024 Cognitive Science Society LLC.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - AJG:3; zdy:3; 
+LB  - Umair2024Can
+ER  -
+
+TY  - JOUR
+AU  - Pourbehzadi, M.
+AU  - Javidi, G.
+AU  - Howell, C.J.
+AU  - Kamar, E.
+AU  - Sheybani, E.
+TI  - Enhanced (cyber) situational awareness: Using interpretable principal component analysis (iPCA) to automate vulnerability severity scoring
+PY  - 2024
+T2  - Decision Support Systems
+VL  - 186
+C7  - 114308
+DO  - 10.1016/j.dss.2024.114308
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203133481&doi=10.1016%2fj.dss.2024.114308&partnerID=40&md5=931bc984689f65da24ec09990f4428cf
+AB  - The Common Vulnerability Scoring System (CVSS) is widely used in the cybersecurity industry to assess the severity of vulnerabilities. However, manual assessments and human error can lead to delays and inconsistencies. This study employs situational awareness theory to develop an automated decision support system, integrating perception, comprehension, and projection components to enhance effectiveness. Specifically, an interpretable principal component analysis (iPCA) combined with machine learning is utilized to forecast CVSS scores using text descriptions from the Common Vulnerabilities and Exposures (CVE) database. Different forecasting approaches, including traditional machine learning models, Long-Short Term Memory Neural Networks, and Transformer architectures (ChatGPT) are compared to determine the best performance. The results show that iPCA combined with support vector regression achieves a high performance (R2 = 98%) in predicting CVSS scores using CVE text descriptions. The results indicate that the variability, length, and details in the vulnerability description contribute to the performance of the transformer model. These findings are consistent across vulnerability descriptions from six companies between 2017 and 2019. The study's outcomes have the potential to enhance organizations' security posture, improving situational awareness and enabling better managerial decision-making in cybersecurity. © 2024 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - CCF:C期刊; FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Pourbehzadi2024Enhanced
+ER  -
+
+TY  - JOUR
+AU  - Kim, S.
+AU  - Seo, Y.-H.
+AU  - Park, J.
+TI  - Transformer-based novel framework for remaining useful life prediction of lubricant in operational rolling bearings
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 251
+C7  - 110377
+DO  - 10.1016/j.ress.2024.110377
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199269437&doi=10.1016%2fj.ress.2024.110377&partnerID=40&md5=fe1a431c447ce3cac8dbc74de6b843d3
+AB  - Accurate prediction of the remaining useful life (RUL) of lubricants in rolling bearings is crucial for maintaining efficient operation of rotating machinery and ensuring timely lubricant replacement. We propose a comprehensive framework that integrates the temporal variation transfer function (TVTF), harmonic-sideband Matrix, and the harmonic frequency transformer (HarFT), a transformer-based model. This approach effectively utilizes vibration characteristics to enhance the accuracy of lubricant degradation prediction in rolling bearings. Validation with rolling bearings experiencing lubrication failure confirms that our framework significantly outperforms alternative methods in RUL prediction. The proposed framework excels in extracting and analyzing harmonic components from vibration responses, enabling detection of minute status variations due to lubricant degradation. By applying explainable artificial intelligence (XAI), it is possible to ascertain the rationale behind the RUL predicted by the HarFT model, facilitating evidence-based decisions. Our research provides a novel strategy for lubricant RUL assessment in rolling bearings, thereby improving reliability and maintenance efficiency in industrial applications. © 2024
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 1
+C2  - AJG:3; zdy:3; 
+LB  - Kim2024Transformer-based
+ER  -
+
+TY  - JOUR
+AU  - Zhang, M.
+AU  - He, C.
+AU  - Huang, C.
+AU  - Yang, J.
+TI  - A weighted time embedding transformer network for remaining useful life prediction of rolling bearing
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 251
+C7  - 110399
+DO  - 10.1016/j.ress.2024.110399
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200201065&doi=10.1016%2fj.ress.2024.110399&partnerID=40&md5=080b467bc5af524b7f946be23478d2df
+AB  - Data-driven remaining useful life (RUL) prediction is of vital importance to industrial equipment prognostics health management (PHM). The transformer algorithms have been applied for RUL prediction recently. RUL prediction is a typically time-correlated task. However, in most transformer-based RUL prediction methods, one of the main procedures, patch embedding, is usually implemented by linear-based or convolution-based approaches, which lacks consideration for time correlation feature extraction. Moreover, the time correlation features at different degradation states may be variable, which will make different contributions to RUL prediction. To this end, in this paper, a novel framework for RUL prediction named weighted time embedding transformer (WTE-Trans) is proposed. A WTE module is designed to enhance the capacity of the model to extract more discriminative time correlation features and impose different weights automatically. Concretely, the peak-to-peak values are calculated from input and transformed firstly to provide prior knowledge information, and then multiplied by a learnable mask to generate an adaptive weight. Afterwards, the adaptive weight is used to impose constraints on the transformed input. Secondly, multiple 3D convolution (3D-conv) modules are designed to integrate the deep features through the time axis. Finally, the shifted-window transformer block is adopted to complete the RUL prediction task. Experiments are carried out on the widely used PHM 2012 bearing dataset and an actual industrial bearing full-lifecycle dataset to verify the effectiveness and application value. The results and analysis have shown that lower prediction error can be achieved by the proposed method. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 3
+C2  - AJG:3; zdy:3; 
+LB  - Zhang2024weighted
+ER  -
+
+TY  - JOUR
+AU  - Wang, H.
+AU  - Li, C.
+AU  - Ding, P.
+AU  - Li, S.
+AU  - Li, T.
+AU  - Liu, C.
+AU  - Zhang, X.
+AU  - Hong, Z.
+TI  - A novel transformer-based few-shot learning method for intelligent fault diagnosis with noisy labels under varying working conditions
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 251
+C7  - 110400
+DO  - 10.1016/j.ress.2024.110400
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200317266&doi=10.1016%2fj.ress.2024.110400&partnerID=40&md5=1a00dceb3f0bb839f8e0e219b95a49f4
+AB  - Recent years have witnessed the success of Few-shot Learning (FSL) methods in equipment reliability enhancement and fault diagnosis, by virtue of learning from limited data and adapting to new operating conditions. However, due to sensor bias, manual collection, and mislabeling, label noise is inevitably introduced into the dataset, which further reduces the quality of supervised information contained in the few-shot dataset, posing significant challenges for accurate fault diagnosis. In this paper, the problem of Few-shot Fault Diagnosis with Noisy Labels (FFDNL) is studied for the first time, and a novel method named Enhanced Transformer with Asymmetric Loss Function (ETALF) is proposed. ETALF leverages the self-attention mechanism of the transformer to dynamically measure the similarity between fault samples in the support set to enhance the model's robustness against label noise, then naturally aggregates the similar samples into corresponding correct prototypes. Furthermore, an asymmetric loss function is designed, which adaptively assigns the model with larger penalties for incorrect category predictions and smaller penalties for correct category predictions, thereby enhancing fault diagnostic performance through inherent asymmetry. Comprehensive experiments are conducted on two benchmark datasets, and the compared results with representative approaches validate the effectiveness of our proposed ETALF in performing intelligent fault diagnosis using limited and noise-labeled data under varying working conditions, which achieves accuracies of 97.77% and 95.78% with 0.2 noisy-level labels during meta-training and meta-testing on the CWRU and KAIST datasets, respectively. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 9
+C2  - AJG:3; zdy:3; 
+LB  - Wang2024novel
+ER  -
+
+TY  - JOUR
+AU  - Zheng, W.
+AU  - Li, C.
+AU  - Deng, Z.
+TI  - Hotel demand forecasting with multi-scale spatiotemporal features
+PY  - 2024
+T2  - International Journal of Hospitality Management
+VL  - 123
+C7  - 103895
+DO  - 10.1016/j.ijhm.2024.103895
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202801983&doi=10.1016%2fj.ijhm.2024.103895&partnerID=40&md5=6edfb7f63ffab0d47b43ff7ac7844abb
+AB  - Accurate demand forecasting is critical to hotel revenue management and related decision-making. Considering the heterogeneity and dynamics of spatial effects across different time scales, this study introduces a novel model which can deeply extract these features to improve the forecasting performance of hotel demand. Specifically, the model constructs input variables with different periodicities and then integrates a Transformer neural network and long short-term memory to extract multi-scale and dynamic spatiotemporal features to generate accurate forecasts. The effectiveness of the model is verified through an empirical case in Xiamen, China. Results suggest our model significantly outperforms benchmarks in terms of accuracy and robustness. The findings extend the application of spatial-temporal modeling in hotel demand forecasting. Hotel managers can use our forecasts to optimize operations, improve revenues, and control risks. The extracted spatiotemporal features can also help managers examine cooperation and competition relationships with neighbor hotels. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Zheng2024Hotel
+ER  -
+
+TY  - JOUR
+AU  - Zhu, J.
+AU  - Sun, W.
+AU  - Li, S.
+AU  - Yao, K.
+AU  - Song, J.
+TI  - Threshold-based earthquake early warning for high-speed railways using deep learning
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 250
+C7  - 110268
+DO  - 10.1016/j.ress.2024.110268
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196514477&doi=10.1016%2fj.ress.2024.110268&partnerID=40&md5=d0c687ea967622ac33627319c71dcdff
+AB  - Earthquakes are disasters that threaten the operational safety of high-speed railways. To obtain reliable alerts for the earthquake monitoring and early warning systems of high-speed railways, based on magnitude and peak ground acceleration (PGA) thresholds (M = 5.5 and PGA = 40 cm/s2), an earthquake early warning (EEW) method for high-speed railways using deep learning is proposed. And the application of deep learning method in EEW for high-speed railway is explored. We design a single-station deep learning network architecture (named the CT architecture) by combining convolutional neural and transformer networks, and with that architecture, we train two separate models (CT-M and CT-PGA models) using the strong motion data recorded from the Kyoshin Network in Japan, which are used to predict whether the magnitude and PGA exceed the thresholds for issuing an alert. To verify the robustness of the method, we apply it to the M7.3 earthquake and M7.4 earthquake off the coast of Fukushima in 2021–2022. Results show that within 10 s after P-wave arrival, the accuracy of the alert reaches 90 %, and the average observed lead time reaches 18 s. The proposed method displays potential application on EEW systems for high-speed railways. © 2024
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 3
+C2  - AJG:3; zdy:3; 
+LB  - Zhu2024Threshold-based
+ER  -
+
+TY  - JOUR
+AU  - Xu, G.
+AU  - Ren, M.
+AU  - Wang, Z.
+AU  - Li, G.
+TI  - MEMF: Multi-entity multimodal fusion framework for sales prediction in live streaming commerce
+PY  - 2024
+T2  - Decision Support Systems
+VL  - 184
+C7  - 114277
+DO  - 10.1016/j.dss.2024.114277
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197270719&doi=10.1016%2fj.dss.2024.114277&partnerID=40&md5=94f1408b74744fce523e837f1033ac36
+AB  - Live streaming commerce thrives with a rich tapestry of multimodal information that intertwines with various entities, including the anchor, the commodities, and the live streaming environment. Despite the wealth of data at hand, the synthesis and analysis of this information to predict sales remains a significant challenge. This study introduces a framework for multi-entity multimodal fusion, which is characterized by the effective synthesis of multimodal data and its prioritization of entity-level fusion, thereby providing a comprehensive feature representation for improving predictive performance. In addressing the multimodal data associated with a diverse range of products, our framework improves the Transformer architecture to initially capture the intra-product modal features and subsequently integrate the inter-product features. Data experiments are conducted on a real-world dataset from Taobao Live. The framework outperforms both traditional machine learning methods and state-of-the-art multimodal fusion methods, which affirms its value as a robust decision-support tool for sales prediction, enabling more accurate pre-event predictions and strategic planning. We also examine the impact of different types of information in accurate sales prediction. It is found that harnessing a comprehensive suite of data leads to optimal performance across all evaluation metrics. Commodity-related data is primary factor in determining the prediction accuracy, followed by video data and streaming room-related data, providing insights regarding the resource allocation for collecting and analyzing multimodal data from live streaming platforms. © 2024 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 1
+C2  - CCF:C期刊; FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Xu2024MEMF
+ER  -
+
+TY  - JOUR
+AU  - Janssens, B.
+AU  - Schetgen, L.
+AU  - Bogaert, M.
+AU  - Meire, M.
+AU  - Van den Poel, D.
+TI  - 360 Degrees rumor detection: When explanations got some explaining to do
+PY  - 2024
+T2  - European Journal of Operational Research
+VL  - 317
+IS  - 2
+SP  - 366
+EP  - 381
+DO  - 10.1016/j.ejor.2023.06.024
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163863220&doi=10.1016%2fj.ejor.2023.06.024&partnerID=40&md5=a0fa02043541c9833815686aa590ee2a
+AB  - Unverified rumor detection recently received considerable academic attention due to the societal impact resulting from this potential misinformation. Previous work in this area mainly focused on textual features using a limited number of data sets and candidate algorithms, and completely disregarded model explainability. This study aims to come up with a more comprehensive social media rumor detection methodology. First, we investigate which machine or deep learning algorithm is best suited to classify tweets into rumors and non-rumors using both textual and structured features. Next, we interpret these rumor detection models with the LIME method and assess the quality of the explanations via fidelity and stability. To ensure the robustness of our methodology, it is benchmarked across the well-known PHEME data sets and two novel data sets, which are made publicly available. The results indicate that machine learners perform best on small data sets, while transformer architectures show the highest predictive accuracy for larger data sets. Unfortunately, these high accuracy transformer models are incompatible with LIME, which results in low fidelity. Moreover, our study shows that all LIME explanations are unstable across folds. Based on these results, we argue to evaluate explanation quality using fidelity and stability before explanation deployment. Our results further demonstrate that apparent model-agnostic explanations such as LIME do not seem to be completely model-agnostic and should be used with caution. © 2023 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 5
+C2  - FMS:A; AJG:4; ZUFE:1A; zdy:4; 
+LB  - Janssens2024360
+ER  -
+
+TY  - JOUR
+AU  - Li, X.Y.
+AU  - Cheng, D.J.
+AU  - Fang, X.F.
+AU  - Zhang, C.Y.
+AU  - Wang, Y.F.
+TI  - A novel data augmentation strategy for aeroengine multitask prognosis based on degradation behavior extrapolation and diversity-usability trade-off
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 249
+C7  - 110238
+DO  - 10.1016/j.ress.2024.110238
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194073382&doi=10.1016%2fj.ress.2024.110238&partnerID=40&md5=e7b9ca9ffc9e0f82140df8791087afb1
+AB  - For aeroengine multitask prognosis, dataset's quantity and quality significantly affect the prediction performance. Due to the insufficiency and high redundancy of collected data, data augmentation techniques are widely utilized in industrial scenarios. However, traditional methods struggle to balance the degradation behavior diversity along with the usability of generated data. To tackle these challenges, this study proposes a novel data augmentation framework for aeroengine multitask prognosis. A novel First Predicting Time (FPT) identification method is proposed to identify the degradation starting point through Health Indictor (HI) volatility. Then, an optimal data augmentation strategy is designed based on Dual Discriminator Time-series Generative Adversarial Network (DDTGAN) and Negative Sample Elimination (NSE), which can enrich samples by extrapolating degradation behavior with multi-scale temporal features, and eliminating unqualified samples to obtain optimal generated samples through diversity-usability trade-off. Based on these, an adaptive Transformer-Multi-gate Mixture-Of-Experts (T-MMOE) multitask prognosis model with gradient normalization is constructed to predict Remaining Useful Life (RUL) and diagnose faults simultaneously with dynamic weights trade-off between two tasks. The proposed framework was compared with other models through the C-MAPSS dataset. Comparison results manifest that the proposed framework is not only able to generate realistic high-quality time-series data but also outperforms the other prognosis models. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 2
+C2  - AJG:3; zdy:3; 
+LB  - Li2024novel
+ER  -
+
+TY  - JOUR
+AU  - Peng, Z.
+AU  - Rong, Y.
+AU  - Zhu, T.
+TI  - Transformer-based choice model: A tool for assortment optimization evaluation
+PY  - 2024
+T2  - Naval Research Logistics
+VL  - 71
+IS  - 6
+SP  - 854
+EP  - 877
+DO  - 10.1002/nav.22183
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189067701&doi=10.1002%2fnav.22183&partnerID=40&md5=ef556e64837f96e490c9923c87cd86a5
+AB  - Assessing the efficacy of algorithms plays a pivotal role in advancing various fields, both in theory and practice. Unlike the predictive models, due to the intricate relationship between decisions and the underlying data-generating processes, the evaluation of decision algorithms cannot directly rely on real data. Hence, a simulator becomes indispensable for appraising decision algorithm effectiveness. In this paper, we aim to leverage assortment decisions, a widely used application in revenue management, to illustrate the utilization of a machine learning-based simulation. The process can be summarised as: we utilize the modified Transformer-based choice model, acting as a simulator, to generate a synthetic dataset that mimics consumer purchasing behavior. After training the MNL, DeepFM, and DeepFM-a models, all of which can swiftly provide assortment decisions in real-time, we utilize the simulator to evaluate the revenue generated by each assortment prescribed by different choice models. This approach mitigates the challenge of validating decision models that alter real-world observed data. To show the benefit of such a simulation approach, we have conducted various numerical studies. These studies aim to examine the impact of outside option attractiveness, data size, the number of features, and cardinality. Admittedly, due to the close alignment between the simulator and complex consumer purchase choice datasets, some numerical observations may be challenging to explain. Nevertheless, by employing the simulator, we are able to contrast the differences between the MNL and DeepFM/DeepFM-a models, shedding light on their respective model misspecifications. © 2024 Wiley Periodicals LLC.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 2
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Peng2024Transformer-based
+ER  -
+
+TY  - JOUR
+AU  - Cheng, Y.
+AU  - Qv, J.
+AU  - Feng, K.
+AU  - Han, T.
+TI  - A Bayesian adversarial probsparse Transformer model for long-term remaining useful life prediction
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 248
+C7  - 110188
+DO  - 10.1016/j.ress.2024.110188
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193028497&doi=10.1016%2fj.ress.2024.110188&partnerID=40&md5=4580aa5f2e8dc9f1fee7920161196841
+AB  - Long-term remaining useful life (RUL) prediction is essential for the maintenance of safety-crucial engineering assets. Deep learning (DL) models, especially Transformer-based models have achieved outstanding performance in long-term RUL prediction. However, existing Transformer models neglect the impact of discrepancy loss in model training. The accumulation of the discrepancy loss during the inference will hamper the generalization of prediction model, resulting in an overfitting problem. To address the problem, this paper proposes a Bayesian Adversarial Probsparse Transformer (BAPT) model for long-term RUL prediction. Firstly, the adversarial learning method is leveraged to mitigate the impact of accumulated discrepancy loss caused by varying working conditions in long-term prediction, thus diminishing the error accumulation. Secondly, the Probsparse multi-head attention is adopted to enhance the efficiency of feature extraction. The Probsparse multi-head attention focuses on the significant degradation features in long time-series to reduce the computation complexity. Lastly, the Bayesian neural network is introduced to quantify the uncertainty in RUL prediction. The effectiveness of the proposed model is verified using two commercial aircraft turbofan engine datasets. The results indicate that BAPT model for long-term RUL prediction demonstrates better performance than the existing state-of-the-art models. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 4
+C2  - AJG:3; zdy:3; 
+LB  - Cheng2024Bayesian
+ER  -
+
+TY  - JOUR
+AU  - Gao, Z.
+AU  - Jiang, W.
+AU  - Wu, J.
+AU  - Dai, T.
+AU  - Zhu, H.
+TI  - Nonlinear slow-varying dynamics-assisted temporal graph transformer network for remaining useful life prediction
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 248
+C7  - 110162
+DO  - 10.1016/j.ress.2024.110162
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192191490&doi=10.1016%2fj.ress.2024.110162&partnerID=40&md5=8486f1e7c940c6ec955b4cfa990e3389
+AB  - Remaining useful life (RUL) plays an important role in the prognostics and health management of mechanical systems. Recently, deep learning-based methods have been widely applied in the field of RUL prediction. However, there still suffer from two limitations. One is that the existing RUL prediction methods cannot capture spatial dependencies and long-term temporal dependencies. The other is that nonlinear slow-varying dynamics related to the degradation behavior have not been explored in the RUL prediction. To break these limitations, a nonlinear slow-varying dynamics-assisted temporal graph Transformer network (NSD-TGTN) is proposed in this paper for RUL prediction. NSD-TGTN can simultaneously capture and model spatiotemporal graphs and nonlinear slow-varying dynamics to achieve RUL prediction. Herein, the TGTN is developed to mine both spatial and long-term temporal dependencies for constructing the spatiotemporal features. And, nonlinear slow-varying features are built and introduced into the TGTN to enhance the RUL prediction capacity. Two datasets are utilized to validate the effectiveness and superiority of the proposed method. Compared with existing advanced methods, the average prediction accuracies of the NSD-TGTN on the C-MAPSS dataset and the wear dataset are improved by 1.70 % and 8.22 %, respectively. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 3
+C2  - AJG:3; zdy:3; 
+LB  - Gao2024Nonlinear
+ER  -
+
+TY  - JOUR
+AU  - Mena, G.
+AU  - Coussement, K.
+AU  - De Bock, K.W.
+AU  - De Caigny, A.
+AU  - Lessmann, S.
+TI  - Exploiting time-varying RFM measures for customer churn prediction with deep neural networks
+PY  - 2024
+T2  - Annals of Operations Research
+VL  - 339
+IS  - 1-2
+SP  - 765
+EP  - 787
+DO  - 10.1007/s10479-023-05259-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150436491&doi=10.1007%2fs10479-023-05259-9&partnerID=40&md5=9d2ff25f3729b6123263555a3e266049
+AB  - Deep neural network (DNN) architectures such as recurrent neural networks and transformers display outstanding performance in modeling sequential unstructured data. However, little is known about their merit to model customer churn with time-varying data. The paper provides a comprehensive evaluation of the ability of recurrent neural networks and transformers for customer churn prediction (CCP) using time-varying behavioral features in the form of recency, frequency, and monetary value (RFM). RFM variables are the backbone of CCP and, more generally, customer behavior forecasting. We examine alternative strategies for integrating time-varying and non-variant customer features in one network architecture. In this scope, we also assess hybrid approaches that incorporate the outputs of DNNs in conventional CCP models. Using a comprehensive panel data set from a large financial services company, we find recurrent neural networks to outperform transformer architectures when focusing on time-varying RFM features. This finding is confirmed when time-invariant customer features are included, independent of the specific form of feature integration. Finally, we find no statistical evidence that hybrid approaches (based on regularized logistic regression and extreme gradient boosting) improve predictive performance—highlighting that DNNs and especially recurrent neural networks are suitable standalone classifiers for CCP using time-varying RFM measures. © The Author(s) 2023.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 9
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Mena2024Exploiting
+ER  -
+
+TY  - JOUR
+AU  - Zhang, G.P.
+AU  - Xia, Y.
+AU  - Xie, M.
+TI  - Intermittent demand forecasting with transformer neural networks
+PY  - 2024
+T2  - Annals of Operations Research
+VL  - 339
+IS  - 1-2
+SP  - 1051
+EP  - 1072
+DO  - 10.1007/s10479-023-05447-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162732740&doi=10.1007%2fs10479-023-05447-7&partnerID=40&md5=901011c95349939dc6fbb5ce1fb51a0c
+AB  - Intermittent demand forecasting is an important yet challenging task in many organizations. While prior research has been focused on traditional methods such as Croston’s method and its variants, limited research has been conducted using advanced machine learning or deep learning methods. In this study, we introduce Transformer, a recently developed deep learning approach, to forecast intermittent demand. Its effectiveness is empirically tested with a dataset of 925 intermittent demand items from an airline spare parts provider and compared with that of two traditional methods such as Croston’s and the Syntetos–Boylan approximation as well as several popular neural network architectures including feedforward neural networks, recurrent neural networks, and long short-term memory. Our results based on six different forecasting performance measures show that Transformer performs very well against other methods in a variety of settings. We also examine how data sparsity impacts model performance and find that different models perform similarly when sparsity is low. Although the performance of all models generally gets worse as the sparsity level increases, the advantage of Transformer over other models increases with sparsity. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2023.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 3
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Zhang2024Intermittent
+ER  -
+
+TY  - JOUR
+AU  - Bao, H.-W.-S.
+TI  - The Fill-Mask Association Test (FMAT): Measuring Propositions in Natural Language
+PY  - 2024
+T2  - Journal of Personality and Social Psychology
+VL  - 127
+IS  - 3
+SP  - 537
+EP  - 561
+DO  - 10.1037/pspa0000396
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191325590&doi=10.1037%2fpspa0000396&partnerID=40&md5=eaeb7f726d2c3f0675090162ce267b23
+AB  - Recent advances in large language models are enabling the computational intelligent analysis of psychology in natural language. Here, the Fill-Mask Association Test (FMAT) is introduced as a novel and integrative method leveraging Masked Language Models to study and measure psychology from a propositional perspective at the societal level. The FMAT uses Bidirectional Encoder Representations from Transformers (BERT) models to compute semantic probabilities of option words filling in the masked blank of a designed query (i.e., a clozelike contextualized sentence). The current research presents 15 studies that establish the reliability and validity of the FMAT in predicting factual associations (Studies 1A–1C), measuring attitudes/ biases (Studies 2A–2D), capturing social stereotypes (Studies 3A–3D), and retrospectively delineating lay perceptions of sociocultural changes over time (Studies 4A–4D). Empirically, the FMAT replicated seminal findings previously obtained with human participants (e.g., the Implicit Association Test) and other big-data text-analytic methods (e.g., word frequency analysis, the Word Embedding Association Test), demonstrating robustness across 12 BERT model variants and diverse training text corpora. Theoretically, the current findings substantiate the propositional (vs. associative) perspective on how semantic associations are represented in natural language. Methodologically, the FMAT allows for more fine-grained language-based psychological measurement, with an R package developed to streamline its workflow for use on broader research questions. © 2024 American Psychological Association
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 2
+C2  - FMS:B; AJG:4; ZUFE:1A; zdy:4; 
+LB  - Bao2024Fill-Mask
+ER  -
+
+TY  - JOUR
+AU  - Li, X.
+AU  - Xu, Y.
+AU  - Law, R.
+AU  - Wang, S.
+TI  - Enhancing tourism demand forecasting with a transformer-based framework
+PY  - 2024
+T2  - Annals of Tourism Research
+VL  - 107
+C7  - 103791
+DO  - 10.1016/j.annals.2024.103791
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194049607&doi=10.1016%2fj.annals.2024.103791&partnerID=40&md5=47e181c735e846b4769df9ada547c475
+AB  - This study introduces an innovative framework that harnesses the most recent transformer architecture to enhance tourism demand forecasting. The proposed transformer-based model integrates the tree-structured parzen estimator for hyperparameter optimization, a robust time series decomposition approach, and a temporal fusion transformer for multivariate time series prediction. Our novel approach initially employs the decomposition method to decompose the data series to effectively mitigate the influence of outliers. The temporal fusion transformer is subsequently utilized for forecasting, and its hyperparameters are meticulously fine-tuned by a Bayesian-based algorithm, culminating in a more efficient and precise model for tourism demand forecasting. Our model surpasses existing state-of-the-art methodologies in terms of forecasting accuracy and robustness. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 5
+C2  - FMS:A; AJG:4; ZUFE:1A; zdy:4; 
+LB  - Li2024Enhancing
+ER  -
+
+TY  - JOUR
+AU  - Lin, J.
+AU  - Michailidis, G.
+TI  - A multi-task encoder-dual-decoder framework for mixed frequency data prediction
+PY  - 2024
+T2  - International Journal of Forecasting
+VL  - 40
+IS  - 3
+SP  - 942
+EP  - 957
+DO  - 10.1016/j.ijforecast.2023.08.003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172869064&doi=10.1016%2fj.ijforecast.2023.08.003&partnerID=40&md5=0cf86c642377ed476d5556438512d939
+AB  - Mixed-frequency data prediction tasks are pertinent in various application domains, in which one leverages progressively available high-frequency data to forecast/nowcast the low-frequency ones. Existing methods in the literature tailored to such tasks are mostly linear in nature; depending on the specific formulation, they largely rely on the assumption that the (latent) processes that govern the dynamics of the high- and low-frequency blocks of variables evolve at the same frequency, either the low or the high one. This paper develops a neural network-based multi-task shared-encoder-dual-decoder framework for joint multi-horizon prediction of both the low- and high-frequency blocks of variables, wherein the encoder/decoder modules can be either long short-term memory or transformer ones. It addresses forecast/nowcast tasks in a unified manner, leveraging the encoder–decoder structure that can naturally accommodate the mixed-frequency nature of the data. The proposed framework exhibited competitive performance when assessed on both synthetic data experiments and two real datasets of US macroeconomic indicators and electricity data. © 2023 The Authors
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Lin2024multi-task
+ER  -
+
+TY  - JOUR
+AU  - Zeng, H.
+AU  - Zhang, H.
+AU  - Guo, J.
+AU  - Ren, B.
+AU  - Cui, L.
+AU  - Wu, J.
+TI  - A novel hybrid STL-transformer-ARIMA architecture for aviation failure events prediction
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 246
+C7  - 110089
+DO  - 10.1016/j.ress.2024.110089
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188689245&doi=10.1016%2fj.ress.2024.110089&partnerID=40&md5=03d65b72e9997360b89937c2c93da13c
+AB  - Accurate prediction of aviation failure events helps to anticipate future safety situations and protect against further uncontrollable accidents. However, the large sample size, complex temporal characteristics, and significant long-term correlation of aviation failure events increase the operational cost of accurate prediction. To address these challenges, this paper proposes a novel approach involving seasonal-trend decomposition using Loess (STL) and a hybrid prediction model consisting of a transformer and autoregressive integrated moving average (ARIMA). First, STL decomposition is utilized to isolate trend, seasonal, and remainder components, contributing to a comprehensive understanding of the events sample characteristics. The trend component is then trained and predicted using transformer, solving the vanishing gradient problem and improving computational efficiency. ARIMA is employed to train and predict the seasonal and remainder components, maintaining accuracy while reducing complexity. Finally, a comparative evaluation between the proposed and multiple existing approaches is conducted using Aviation Safety Reporting System (ASRS) data. The results demonstrate that the STL-transformer-ARIMA provides more accurate predictions of failure events than single model. It also exhibits significant advantages in robustness and generalization capacity compared to single transformer-based predictors. This revealed that the proposed approach performed better in predicting aviation failure events. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 6
+C2  - AJG:3; zdy:3; 
+LB  - Zeng2024novel
+ER  -
+
+TY  - JOUR
+AU  - Yang, B.
+AU  - He, C.
+AU  - Wang, P.
+AU  - Chan, C.-Y.
+AU  - Liu, X.
+AU  - Chen, Y.
+TI  - TPPO: A Novel Trajectory Predictor With Pseudo Oracle
+PY  - 2024
+T2  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+VL  - 54
+IS  - 5
+SP  - 2846
+EP  - 2859
+DO  - 10.1109/TSMC.2024.3351859
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184316571&doi=10.1109%2fTSMC.2024.3351859&partnerID=40&md5=517be93530b92807965234108343b907
+AB  - Forecasting pedestrian trajectories in dynamic scenes remains a critical problem in various applications, such as autonomous driving and socially aware robots. Such forecasting is challenging due to human-human and human-object interactions and future uncertainties caused by human randomness. Generative model-based methods handle future uncertainties by sampling a latent variable. However, few studies explored the generation of the latent variable. In this work, we propose the trajectory predictor with pseudo Oracle (TPPO), which is a generative model-based trajectory predictor. The first pseudo oracle is pedestrians' moving directions, and the second one is the latent variable estimated from ground truth trajectories. A social attention module is used to aggregate neighbors' interactions based on the correlation between pedestrians' moving directions and future trajectories. This correlation is inspired by the fact that pedestrians' future trajectories are often influenced by pedestrians in front. A latent variable predictor is proposed to estimate latent variable distributions from observed and ground-truth trajectories. Moreover, the gap between these two distributions is minimized during training. Therefore, the latent variable predictor can estimate the latent variable from observed trajectories to approximate that estimated from ground-truth trajectories. We compare the performance of TPPO with related methods on several public datasets. Results demonstrate that TPPO outperforms state-of-the-art methods with low average and final displacement errors. The ablation study shows that the prediction performance will not dramatically decrease as sampling times decline during tests.  © 2013 IEEE.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 4
+C2  - CCF:B期刊; AJG:3; zdy:3; 
+LB  - Yang2024TPPO
+ER  -
+
+TY  - JOUR
+AU  - Guo, J.
+AU  - Wang, Z.
+AU  - Li, H.
+AU  - Yang, Y.
+AU  - Huang, C.-G.
+AU  - Yazdi, M.
+AU  - Kang, H.S.
+TI  - A hybrid prognosis scheme for rolling bearings based on a novel health indicator and nonlinear Wiener process
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 245
+C7  - 110014
+DO  - 10.1016/j.ress.2024.110014
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185391390&doi=10.1016%2fj.ress.2024.110014&partnerID=40&md5=e2b67a6856e6f8f7fb4a1ce90d1d87a7
+AB  - This paper proposes a novel hybrid method aiming at the fault prognosis of bearings. A nonlinear health indicator (HI) is first constructed using Complete Ensemble Empirical Mode Decomposition with Adaptive Noise and Kernel Principal Component Analysis to reflect the health state of a bearing accurately and convincingly. Subsequently, multi-domain features are extracted from vibration signals and the Dual-Channel Transformer Network with the Convolutional Block Attention Module is applied for constructing HIs of the rest bearings. Moreover, the 3σ criterion is employed to establish the condition monitoring interval of health state and detect the First Prediction Time, with which degradation modeling and probabilistic Remaining Useful Life (RUL) prediction are conducted with the assistance of nonlinear Wiener process with random effects. The superior performance of the proposed hybrid prognostic method confirms that the method contributes to the accurate RUL prediction and uncertainty quantification. © 2024 The Author(s)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 40
+C2  - AJG:3; zdy:3; 
+LB  - Guo2024hybrid
+ER  -
+
+TY  - JOUR
+AU  - Hou, D.
+AU  - Chen, J.
+AU  - Cheng, R.
+AU  - Hu, X.
+AU  - Shi, P.
+TI  - A bearing remaining life prediction method under variable operating conditions based on cross-transformer fusioning segmented data cleaning
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 245
+C7  - 110021
+DO  - 10.1016/j.ress.2024.110021
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185839146&doi=10.1016%2fj.ress.2024.110021&partnerID=40&md5=a8ebba8d1d35ca3aa3ee82b4b851b01b
+AB  - Bearing remaining useful life (RUL) prediction research based on deep learning mostly emphasizes model performance and effective feature vectors, overlooking different densities of outlier distributions in vibration signals at varying degradation stages. Moreover, forecasting models focus on capturing cross-time dependencies, ignoring the dependencies between different variables. To solve these problems, this paper proposes an unsupervised segmented data cleaning algorithm and a RUL prediction framework adaptable to variable operating conditions. The method consists of four steps: (1) Multi-domain feature extraction and selection establish a feature vector space reflecting degradation trends. (2) Segmented data cleaning divides degradation stages, using different penalty factors for outlier cleaning. (3) Cleaned vibration signals undergo a second round of multidomain feature engineering and degradation-stage division. (4) A two-stage Cross-Transformer model is used for RUL prediction. The method proposed has been validated on the prognostics and health management (PHM) bearing degradation dataset. In the constant condition prediction task, the root mean square error (RMSE) and mean absolute error (MAE) were improved to 1.88 and 5.78, respectively. In the variable condition prediction task, the proposed method outperformed existing methods, with an improvement of 59.10 % in RMSE, demonstrating strong generalization performance and practical application value. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 4
+C2  - AJG:3; zdy:3; 
+LB  - Hou2024bearing
+ER  -
+
+TY  - JOUR
+AU  - Guo, M.
+AU  - Janson, B.
+AU  - Peng, Y.
+TI  - A spatiotemporal deep learning approach for pedestrian crash risk prediction based on POI trip characteristics and pedestrian exposure intensity
+PY  - 2024
+T2  - Accident Analysis and Prevention
+VL  - 198
+C7  - 107493
+DO  - 10.1016/j.aap.2024.107493
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185306410&doi=10.1016%2fj.aap.2024.107493&partnerID=40&md5=373ef853b8d813b65307ebba6832c765
+AB  - Pedestrians represent a population of vulnerable road users who are directly exposed to complex traffic conditions, thereby increasing their risk of injury or fatality. This study first constructed a multidimensional indicator to quantify pedestrian exposure, considering factors such as Point of Interest (POI) attributes, POI intensity, traffic volume, and pedestrian walkability. Following risk interpolation and feature engineering, a comprehensive data source for risk prediction was formed. Finally, based on risk factors, the VT-NET deep learning network model was proposed, integrating the algorithmic characteristics of the VGG16 deep convolutional neural network and the Transformer deep learning network. The model involved training non-temporal features and temporal features separately. The training dataset incorporated features such as weather conditions, exposure intensity, socioeconomic factors, and the built environment. By employing different training methods for different types of causative feature variables, the VT-NET model analyzed changes in risk features and separately trained temporal and non-temporal risk variables. It was used to generate spatiotemporal grid-level predictions of crash risk across four spatiotemporal scales. The performance of the VT-NET model was assessed, revealing its efficacy in predicting pedestrian crash risks across the study area. The results indicated that areas with concentrated crash risks are primarily located in the city center and persist for several hours. These high-risk areas dissipate during the late night and early morning hours. High-risk areas were also found to cluster in the city center; this clustering behavior was more prominent during weekends compared to weekdays and coincided with commercial zones, public spaces, and educational and medical facilities. © 2024 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 3
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Guo2024spatiotemporal
+ER  -
+
+TY  - JOUR
+AU  - Hajek, P.
+AU  - Henriques, R.
+TI  - Predicting M&A targets using news sentiment and topic detection
+PY  - 2024
+T2  - Technological Forecasting and Social Change
+VL  - 201
+C7  - 123270
+DO  - 10.1016/j.techfore.2024.123270
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184992612&doi=10.1016%2fj.techfore.2024.123270&partnerID=40&md5=d75fb6ebe27dc33b8e19bae930d1d93f
+AB  - This paper uses news sentiment and topics to discuss the challenges and opportunities of predicting mergers and acquisition (M&A) targets. We explore the effect of investor sentiment on identifying M&As targets and how company-specific news articles can be used as a source of sentiment and topics to obtain richer information on various corporate events. We propose a framework incorporating news sentiment and topics into the M&A target prediction model, utilising state-of-the-art transformer-based sentiment analysis and topic modelling approaches. We evaluate the textual features' predictive power using a real-world dataset of US and UK target and non-target companies from 2020 to 2021, with several experiments conducted to reveal the contribution of sentiment and thematic focus of news to M&A target prediction. A profit-based objective function is proposed to overcome the inherent class imbalance problem in the dataset. Our findings suggest that news-based prediction models outperform traditional statistical and single machine learning methods, indicating the need for more robust and less prone to overfitting ensemble learning methods. Additionally, our study provides evidence for the positive effect of news-based negative sentiment on the likelihood of M&A. Our research has important implications for investors and analysts who seek to identify investment opportunities. © 2024 The Authors
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 4
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Hajek2024Predicting
+ER  -
+
+TY  - JOUR
+AU  - Acciaio, B.
+AU  - Kratsios, A.
+AU  - Pammer, G.
+TI  - Designing universal causal deep learning models: The geometric (Hyper)transformer
+PY  - 2024
+T2  - Mathematical Finance
+VL  - 34
+IS  - 2
+SP  - 671
+EP  - 735
+DO  - 10.1111/mafi.12389
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85148992813&doi=10.1111%2fmafi.12389&partnerID=40&md5=674180fb95770929f0face01c7a095b1
+AB  - Several problems in stochastic analysis are defined through their geometry, and preserving that geometric structure is essential to generating meaningful predictions. Nevertheless, how to design principled deep learning (DL) models capable of encoding these geometric structures remains largely unknown. We address this open problem by introducing a universal causal geometric DL framework in which the user specifies a suitable pair of metric spaces (Formula presented.) and (Formula presented.) and our framework returns a DL model capable of causally approximating any “regular” map sending time series in (Formula presented.) to time series in (Formula presented.) while respecting their forward flow of information throughout time. Suitable geometries on (Formula presented.) include various (adapted) Wasserstein spaces arising in optimal stopping problems, a variety of statistical manifolds describing the conditional distribution of continuous-time finite state Markov chains, and all Fréchet spaces admitting a Schauder basis, for example, as in classical finance. Suitable spaces (Formula presented.) are compact subsets of any Euclidean space. Our results all quantitatively express the number of parameters needed for our DL model to achieve a given approximation error as a function of the target map's regularity and the geometric structure both of (Formula presented.) and of (Formula presented.). Even when omitting any temporal structure, our universal approximation theorems are the first guarantees that Hölder functions, defined between such (Formula presented.) and (Formula presented.) can be approximated by DL models. © 2023 The Authors. Mathematical Finance published by Wiley Periodicals LLC.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 3
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Acciaio2024Designing
+ER  -
+
+TY  - JOUR
+AU  - Chang, T.-Y.
+AU  - Cha, O.
+AU  - McGugin, R.
+AU  - Tomarken, A.
+AU  - Gauthier, I.
+TI  - How general is ensemble perception?
+PY  - 2024
+T2  - Psychological Research
+VL  - 88
+IS  - 3
+SP  - 695
+EP  - 708
+DO  - 10.1007/s00426-023-01883-z
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174511658&doi=10.1007%2fs00426-023-01883-z&partnerID=40&md5=1c99c36926e8ebb02f8e0f27e2b51be9
+AB  - People can summarize features of groups of objects (e.g., the mean size of apples). Claims of dissociations or common mechanisms supporting such ensemble perception (EP) judgments have generally been made on the basis of correlations between pairs of tasks. These correlations can be inflated because they use the same stimuli, summary statistics and/or task format. Performance on EP tasks also correlates with that on object recognition (OR) tasks. Here, we seek evidence for a general EP ability that is also distinct from OR ability. Two-hundred participants completed three tasks that did not overlap in stimuli, summary statistic or task format. Participants performed a diversity comparison for arrays of nonsense blobs, a mean identity judgment with ensembles of Transformer toys, and the novel object memory task with novel objects (NOMT-Greeble). We hypothesized that EP contributes to the first two of these tasks, while OR contributes only to the last two. Performance on the two tasks suggested to tap an EP ability were correlated after controlling for the third task. Confirmatory factor analysis was used to test our predictions without the confound of measurement error. Correlations between factors assumed to share influence from EP or from OR were higher than that between the factors that we expect did not share these influences. The results provide the first clear evidence for a domain-general EP ability distinct from OR. We argue that understanding such a general ability will require a change in designs and analytical approaches in the study if individual differences in EP. © The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2023.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 1
+C2  - FMS:C; AJG:3; zdy:3; 
+LB  - Chang2024How
+ER  -
+
+TY  - JOUR
+AU  - Tuckute, G.
+AU  - Sathe, A.
+AU  - Srikant, S.
+AU  - Taliaferro, M.
+AU  - Wang, M.
+AU  - Schrimpf, M.
+AU  - Kay, K.
+AU  - Fedorenko, E.
+TI  - Driving and suppressing the human language network using large language models
+PY  - 2024
+T2  - Nature Human Behaviour
+VL  - 8
+IS  - 3
+SP  - 544
+EP  - 561
+DO  - 10.1038/s41562-023-01783-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181495375&doi=10.1038%2fs41562-023-01783-7&partnerID=40&md5=c6afd022842ccb84147b4cfa6e69e639
+AB  - Transformer models such as GPT generate human-like language and are predictive of human brain responses to language. Here, using functional-MRI-measured brain responses to 1,000 diverse sentences, we first show that a GPT-based encoding model can predict the magnitude of the brain response associated with each sentence. We then use the model to identify new sentences that are predicted to drive or suppress responses in the human language network. We show that these model-selected novel sentences indeed strongly drive and suppress the activity of human language areas in new individuals. A systematic analysis of the model-selected sentences reveals that surprisal and well-formedness of linguistic input are key determinants of response strength in the language network. These results establish the ability of neural network models to not only mimic human language but also non-invasively control neural activity in higher-level cortical areas, such as the language network. © The Author(s), under exclusive licence to Springer Nature Limited 2024.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 15
+C2  - AJG:4; zdy:None; 
+LB  - Tuckute2024Driving
+ER  -
+
+TY  - JOUR
+AU  - Chen, D.
+AU  - Hu, N.
+AU  - Liang, P.
+AU  - Swink, M.
+TI  - Understanding the impact of trade policy effect uncertainty on firm-level innovation investment
+PY  - 2024
+T2  - Journal of Operations Management
+VL  - 70
+IS  - 2
+SP  - 316
+EP  - 340
+DO  - 10.1002/joom.1285
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178390274&doi=10.1002%2fjoom.1285&partnerID=40&md5=a7bf3ab0152b3f4a71c626f5dca30d43
+AB  - Drawing on real options and resource dependence theories, this study examines how firms adjust their innovation investments to address trade policy effect uncertainty (TPEU), a type of firm-specific, perceived environmental uncertainty capturing managers' difficulty in predicting the impacts of potential policy changes on business operations. To develop a context-dependent, time-varying measure of TPEU, we apply bidirectional encoder representations from transformers, an advanced deep learning technique. We analyze the texts of mandatory management discussion and analysis sections of annual reports from 3181 publicly listed Chinese firms. Our sample comprises 22,669 firm-year observations spanning the years 2007 to 2019. The econometric analyses show that firms experiencing higher TPEU will reduce innovation investments. This effect is stronger for firms facing lower competition, involving more foreign sales, and not owned by the state. These findings provide clarity on previously inconclusive results by showcasing the significant influence of policy effect uncertainty, as opposed to policy state uncertainty, on firms' decisions regarding innovation investments. Additionally, these findings underscore the importance of resource dependence factors as crucial contextual factors in this decision-making process. © 2023 Association for Supply Chain Management, Inc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 10
+C2  - FMS:A; AJG:5; ZUFE:TOP; zdy:5; 
+LB  - Chen2024Understanding
+ER  -
+
+TY  - JOUR
+AU  - Pu, B.
+AU  - Liu, J.
+AU  - Kang, Y.
+AU  - Chen, J.
+AU  - Yu, P.S.
+TI  - MVSTT: A Multiview Spatial-Temporal Transformer Network for Traffic-Flow Forecasting
+PY  - 2024
+T2  - IEEE Transactions on Cybernetics
+VL  - 54
+IS  - 3
+SP  - 1582
+EP  - 1595
+DO  - 10.1109/TCYB.2022.3223918
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144768753&doi=10.1109%2fTCYB.2022.3223918&partnerID=40&md5=d61a0231ea5ee5661dd965abd3bee2a8
+AB  - Accurate traffic-flow prediction remains a critical challenge due to complicated spatial dependencies, temporal factors, and unpredictable events. Most existing approaches focus on single- or dual-view learning and thus face limitations in systematically learning complex spatial-temporal features. In this work, we propose a novel multiview spatial-temporal transformer (MVSTT) network that can effectively learn complex spatial-temporal domain correlations and potential patterns from multiple views. First, we examine a temporal view and design a short-range gated convolution component from a short-term subview, and a long-range gated convolution component from a long-term subview. These two components effectively aggregate knowledge of the temporal domain at multiple granularities and mine patterns of node evolution across time steps. Meanwhile, in the spatial view, we design a dual-graph spatial learning module that captures fixed and dynamic spatial dependencies of nodes, as well as the evolution patterns of edges, from the static and dynamic graph subviews, respectively. In addition, we further design a spatial-temporal transformer to mine different levels of spatial-temporal features through multiview knowledge fusion. Extensive experiments on four real-world traffic datasets show that our method consistently outperforms the state-of-the-art baseline. The code of MVSTT is available at https://github.com/JianSoL/MVSTT.  © 2013 IEEE.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 25
+C2  - CCF:B期刊; FMS:B; AJG:3; zdy:3; 
+LB  - Pu2024MVSTT
+ER  -
+
+TY  - JOUR
+AU  - Shahinmoghadam, M.
+AU  - Kahou, S.E.
+AU  - Motamedi, A.
+TI  - Neural semantic tagging for natural language-based search in building information models: Implications for practice
+PY  - 2024
+T2  - Computers in Industry
+VL  - 155
+C7  - 104063
+DO  - 10.1016/j.compind.2023.104063
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180946909&doi=10.1016%2fj.compind.2023.104063&partnerID=40&md5=d47135f5f6b7324a6c958fbcd6ec145b
+AB  - While the adoption of open Building Information Modeling (open BIM) standards continues to grow, the inherent complexity and multifaceted nature of the built asset lifecycle data present a critical bottleneck for effective information retrieval. To address this challenge, the research community has started to investigate advanced natural language-based search for building information models. However, the accelerated pace of advancements in deep learning-based natural language processing research has introduced a complex landscape for domain-specific applications, making it challenging to navigate through various design choices that accommodate an effective balance between prediction accuracy and the accompanying computational costs. This study focuses on the semantic tagging of user queries, which is a cardinal task for the identification and classification of references related to building entities and their specific descriptors. To foster adaptability across various applications and disciplines, a semantic annotation scheme is introduced that is firmly rooted in the Industry Foundation Classes (IFC) schema. By taking a comparative approach, we conducted a series of experiments to identify the strengths and weaknesses of traditional and emergent deep learning architectures for the task at hand. Our findings underscore the critical importance of domain-specific and context-dependent embedding learning for the effective extraction of building entities and their respective descriptions. © 2023 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 4
+C2  - FMS:C; AJG:3; zdy:3; 
+LB  - Shahinmoghadam2024Neural
+ER  -
+
+TY  - JOUR
+AU  - Vairetti, C.
+AU  - Aránguiz, I.
+AU  - Maldonado, S.
+AU  - Karmy, J.P.
+AU  - Leal, A.
+TI  - Analytics-driven complaint prioritisation via deep learning and multicriteria decision-making
+PY  - 2024
+T2  - European Journal of Operational Research
+VL  - 312
+IS  - 3
+SP  - 1108
+EP  - 1118
+DO  - 10.1016/j.ejor.2023.08.027
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171162315&doi=10.1016%2fj.ejor.2023.08.027&partnerID=40&md5=50533b37c9e380abca955c4b4a5c1fe3
+AB  - Complaint analysis is an essential business analytics application because complaints have a strong influence on customer satisfaction (CSAT). However, the process of categorising and prioritising complaints manually can be extremely time consuming for large companies. In this paper, we propose a framework for automatic complaint labelling and prioritisation using text analytics and operational research techniques. The labelling step of the training set is performed using a simple weighting approach from the multiple-criteria decision-making (MCDM) literature, while transformer-based deep learning (DL) techniques are used for text classification. We define two priority classes, namely, urgent complaints and other claims, and develop a system for automatic complaint categorisation. Our experimental results show that excellent predictive performance can be achieved with state-of-the-art text classification models. In particular, BETO, a bidirectional encoder representations from transformers (BERT) model trained on a large Spanish corpus, reaches an accuracy (ACCU) and area under the curve (AUC) of 92.1% and 0.9785, respectively. This positive result translates into a successful complaint prioritisation scheme, which improves CSAT and reduces the churn rate. © 2023 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 12
+C2  - FMS:A; AJG:4; ZUFE:1A; zdy:4; 
+LB  - Vairetti2024Analytics-driven
+ER  -
+
+TY  - JOUR
+AU  - Li, Y.
+AU  - Li, J.
+AU  - Wang, H.
+AU  - Liu, C.
+AU  - Tan, J.
+TI  - Knowledge enhanced ensemble method for remaining useful life prediction under variable working conditions
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 242
+C7  - 109748
+DO  - 10.1016/j.ress.2023.109748
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175034687&doi=10.1016%2fj.ress.2023.109748&partnerID=40&md5=054e1d29ed8c4d0436c4a157e0824734
+AB  - Remaining useful life (RUL) prediction is essential in enhancing the safety and reliability of rotating machinery. Deep learning techniques have been extensively researched and demonstrated promising results in RUL prediction tasks. But most existing models are designed for machinery equipment in a specific condition. In this case, a novel prediction method, knowledge-enhanced convolutional Transformer ensemble model (KE-CTEM), is proposed in this study. First, a feature extraction neural network (FENN) is introduced to extract features and transfer the working conditions information of existing datasets as knowledge to downstream RUL prediction tasks. Then, a convolutional Transformer model is leveraged to capture the input data degradation patterns and predict RUL values. Finally, knowledge-enhanced strategy and ensemble strategy are proposed to enhance the robustness of the model and improve the prediction accuracy. To verify the practicality and effectiveness of the proposed method, run-to-failure data of bearings from PRONOSTIA platform are utilized for RUL prognostics. Compared with several representative and state-of-the-art methods, the experimental results demonstrate the superiority and feasibility of the proposed method. And ablation study indicates the high efficiency and robustness of each module within the proposed model. Compared with representative RUL prediction methods, the proposed KE-CTEM demonstrates superior performance in terms of RMSE and MAPE with a reduction of 32.0% and 16.2%, respectively. © 2023 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 11
+C2  - AJG:3; zdy:3; 
+LB  - Li2024Knowledge
+ER  -
+
+TY  - JOUR
+AU  - Hong, S.
+AU  - Choi, Y.
+AU  - Jeon, J.-J.
+TI  - Interpretable water level forecaster with spatiotemporal causal attention mechanisms
+PY  - 2024
+T2  - International Journal of Forecasting
+DO  - 10.1016/j.ijforecast.2024.10.003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85210076987&doi=10.1016%2fj.ijforecast.2024.10.003&partnerID=40&md5=5efc4aa5215cdf570da9c48e22b02515
+AB  - Accurate forecasting of river water levels is vital for effectively managing traffic flow and mitigating the risks associated with natural disasters. This task presents challenges due to the intricate factors influencing the flow of a river. Recent advances in machine learning have introduced numerous effective forecasting methods. However, these methods lack interpretability due to their complex structure, resulting in limited reliability. Addressing this issue, this study proposes a deep learning model that quantifies interpretability, with an emphasis on water level forecasting. This model focuses on generating quantitative interpretability measurements, which align with the common knowledge embedded in the input data. This is facilitated by the utilization of a transformer architecture that is purposefully designed with masking, incorporating a multi-layer network that captures spatiotemporal causation. We perform a comparative analysis on the Han River dataset obtained from Seoul, South Korea, from 2016 to 2021. The results illustrate that our approach offers enhanced interpretability consistent with common knowledge, outperforming competing methods. The approach also enhances robustness against distribution shift. © 2024 The Author(s)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Hong2024Interpretable
+ER  -
+
+TY  - JOUR
+AU  - Zhang, L.
+AU  - Wang, B.
+AU  - Zhao, Y.
+AU  - Yuan, Y.
+AU  - Zhou, T.
+AU  - Li, Z.
+TI  - Collaborative Multimodal Fusion Network for Multiagent Perception
+PY  - 2024
+T2  - IEEE Transactions on Cybernetics
+DO  - 10.1109/TCYB.2024.3491756
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85209947163&doi=10.1109%2fTCYB.2024.3491756&partnerID=40&md5=8b9b1b556991f70e61e805891ad184da
+AB  - With the increasing popularity of autonomous driving systems and their applications in complex transportation scenarios, collaborative perception among multiple intelligent agents has become an important research direction. Existing single-agent multimodal fusion approaches are limited by their inability to leverage additional sensory data from nearby agents. In this article, we present the collaborative multimodal fusion network (CMMFNet) for distributed perception in multiagent systems. CMMFNet first extracts modality-specific features from LiDAR point clouds and camera images for each agent using dual-stream neural networks. To overcome the ambiguity in-depth prediction, we introduce a collaborative depth supervision module that projects dense fused point clouds onto image planes to generate more accurate depth ground truths. We then present modality-aware fusion strategies to aggregate homogeneous features across agents while preserving their distinctive properties. To align heterogeneous LiDAR and camera features, we introduce a modality consistency learning method. Finally, a transformer-based fusion module dynamically captures cross-modal correlations to produce a unified representation. Comprehensive evaluations on two extensive multiagent perception datasets, OPV2V and V2XSet, affirm the superiority of CMMFNet in detection performance, establishing a new benchmark in the field.  © 2013 IEEE.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - CCF:B期刊; FMS:B; AJG:3; zdy:3; 
+LB  - Zhang2024Collaborative
+ER  -
+
+TY  - JOUR
+AU  - Tran, T.V.T.
+AU  - Hy, T.S.
+TI  - Protein Design by Directed Evolution Guided by Large Language Models
+PY  - 2024
+T2  - IEEE Transactions on Evolutionary Computation
+SP  - 1
+EP  - 1
+DO  - 10.1109/TEVC.2024.3439690
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200825151&doi=10.1109%2fTEVC.2024.3439690&partnerID=40&md5=bdac6ac3c132fb7d3f5f62c01058878a
+AB  - Directed evolution, a strategy for protein engineering, optimizes protein properties (i.e., fitness) by a rigorous and resource-intensive process of screening or selecting among a vast range of mutations. By conducting an in silico screening of sequence properties, machine learning-guided directed evolution (MLDE) can expedite the optimization process and alleviate the experimental workload. In this work, we propose a general MLDE framework in which we apply recent advancements of Deep Learning in protein representation learning and protein property prediction to accelerate the searching and optimization processes. In particular, we introduce an optimization pipeline that utilizes Large Language Models (LLMs) to pinpoint the mutation hotspots in the sequence and then suggest replacements to improve the overall fitness. Our experiments have shown the superior efficiency and efficacy of our proposed framework in the conditional protein generation, in comparision with other state-of-the-art baseline algorithms. We expect this work will shed a new light on not only protein engineering but also on solving combinatorial problems using data-driven methods. IEEE
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - CCF:B期刊; FMS:B; AJG:4; zdy:4; 
+LB  - Tran2024Protein
+ER  -
+
+TY  - JOUR
+AU  - Gonsior, J.
+AU  - Falkenberg, C.
+AU  - Magino, S.
+AU  - Reusch, A.
+AU  - Hartmann, C.
+AU  - Thiele, M.
+AU  - Lehner, W.
+TI  - Comparing and Improving Active Learning Uncertainty Measures for Transformer Models by Discarding Outliers
+PY  - 2024
+T2  - Information Systems Frontiers
+DO  - 10.1007/s10796-024-10503-z
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197103717&doi=10.1007%2fs10796-024-10503-z&partnerID=40&md5=9a5f6909b7df4e90853d8fc70580bbc2
+AB  - Despite achieving state-of-the-art results in nearly all Natural Language Processing applications, fine-tuning Transformer-encoder based language models still requires a significant amount of labeled data to achieve satisfying work. A well known technique to reduce the amount of human effort in acquiring a labeled dataset is Active Learning (AL): an iterative process in which only the minimal amount of samples is labeled. AL strategies require access to a quantified confidence measure of the model predictions. A common choice is the softmax activation function for the final Neural Network layer. In this paper, we compare eight alternatives on seven datasets and show that the softmax function provides misleading probabilities. Our finding is that most of the methods primarily identify hard-to-learn-from samples (commonly called outliers), resulting in worse than random performance, instead of samples, which actually reduce the uncertainty of the learned language model. As a solution, this paper proposes Uncertainty-Clipping, a heuristic to systematically exclude samples, which results in improvements for most methods compared to the softmax function. © The Author(s) 2024.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 0
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Gonsior2024Comparing
+ER  -
+
+TY  - JOUR
+AU  - Zhao, J.
+AU  - Dong, Z.
+AU  - Yao, X.
+AU  - Xi, X.
+TI  - Optimizing collaboration decisions in technological innovation through machine learning: identify trend and partners in collaboration-knowledge interdependent networks
+PY  - 2024
+T2  - Annals of Operations Research
+DO  - 10.1007/s10479-024-05867-z
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185259238&doi=10.1007%2fs10479-024-05867-z&partnerID=40&md5=51a83173cda7ad256e63bf7c43fc413e
+AB  - Technological innovation, which is exemplified by the convergence of diverse knowledge domains and collaborative efforts across industries, has emerged as the primary catalyst for organizations seeking to enhance their business operations and attain competitive advantages. Consequently, optimizing decision-making processes is imperative for organizations to adeptly forecast technological convergence trends and strategically identify suitable collaboration partners. Since a firm is embedded in both a collaboration network and a knowledge network, it is necessary to consider a dual network structure and the interdependence of the two subnetworks in terms of technological convergence. Regrettably, limited attention has been given to this aspect and the evolving nature of knowledge networks in the existing studies. To address these issues, this study proposes an innovative research framework for technological convergence, combining a dynamic link prediction model using a transformer with the theory of interdependent networks, which enhances predictive algorithms regarding the convergence of new technologies and simultaneously identifies potential collaborative partners. Patent data from the medical device field are collected to conduct experiments. The results indicate that the proposed approach yields a 15% improvement in the area under the curve (AUC) metric over that of the recurrent neural network (RNN)-based dynamic model and a gain of more than 25% compared to the machine learning-based static model. Our study has important theoretical and practical implications for improving business operations and innovation strategies. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2024.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 1
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Zhao2024Optimizing
+ER  -
+
+TY  - JOUR
+AU  - Kim, S.
+AU  - Yun, S.-B.
+AU  - Bae, H.-O.
+AU  - Lee, M.
+AU  - Hong, Y.
+TI  - Physics-informed convolutional transformer for predicting volatility surface
+PY  - 2024
+T2  - Quantitative Finance
+VL  - 24
+IS  - 2
+SP  - 203
+EP  - 220
+DO  - 10.1080/14697688.2023.2294799
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184242176&doi=10.1080%2f14697688.2023.2294799&partnerID=40&md5=91ee6f08a942455f97ecef18f3dd6a5d
+AB  - Predicting volatility is important for asset predicting, option pricing and hedging strategies because it cannot be directly observed in the financial market. The dynamics of the volatility surface is difficult to estimate. In this paper, we establish a novel architecture based on physics-informed neural networks and convolutional transformers. The performance of the new architecture is directly compared to other well-known deep-learning architectures, such as standard physics-informed neural networks, convolutional long-short term memory (ConvLSTM), and self-attention ConvLSTM. Numerical evidence indicates that the proposed physics-informed convolutional transformer network achieves a superior performance than other methods. © 2024 Informa UK Limited, trading as Taylor & Francis Group.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 2
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Kim2024Physics-informed
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Y.
+AU  - Su, C.
+AU  - Wu, J.
+AU  - Liu, H.
+AU  - Xie, M.
+TI  - Trend-augmented and temporal-featured Transformer network with multi-sensor signals for remaining useful life prediction
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 241
+C7  - 109662
+DO  - 10.1016/j.ress.2023.109662
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172000571&doi=10.1016%2fj.ress.2023.109662&partnerID=40&md5=741b0cfe7b023e4623903c2efe0b05a2
+AB  - Deep learning method has obtained abundant achievements in remaining useful life (RUL) prediction, which can steer the preventive maintenance decision-making for improving the reliability of industrial systems. However, the existing deep models often fail to consider mechanical degradation rules, and can not capture the temporal and featured dependencies effectively. To address such issues, this study proposes an improved Transformer network for RUL prediction with multi-sensor signals. Specifically, the trend augmentation module (TAM) and time-feature attention module (TFAM) are embedded into the traditional Transformer model. In TAM, a bidirectional gated recurrent unit (Bi-GRU) network is used to extract the hidden temporal information and a novel distance function is presented to improve the attention distribution. In TFAM, attention calculations are performed sequentially in both the feature and time dimensions to synthetically capture both the feature and time dependencies. Two benchmark experiments are conducted with the CMAPSS and Milling datasets respectively. The results indicate that the proposed approach outperforms state-of-the-art approaches and possesses deep interpretability. © 2023 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 31
+C2  - AJG:3; zdy:3; 
+LB  - Zhang2024Trend-augmented
+ER  -
+
+TY  - JOUR
+AU  - Gao, D.
+AU  - Zhu, Y.
+AU  - Yan, K.
+AU  - Soares, C.G.
+TI  - Deep learning–based framework for regional risk assessment in a multi–ship encounter situation based on the transformer network
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 241
+C7  - 109636
+DO  - 10.1016/j.ress.2023.109636
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171786619&doi=10.1016%2fj.ress.2023.109636&partnerID=40&md5=4d3a753bc6412c396d4ee0568dcf8d1d
+AB  - A method based on the predictable Transformer network associated with a clustering method is introduced to build a framework for the regional collision risk assessment, which is an alternative to the traditional methods that have two problems: 1) The indicators are calculated based on the current navigation status of ships, not considering the dynamic characteristics and the variability of the ship's trajectory, which makes the calculated indicators inaccurate not allowing an accurate risk assessment. 2) Many deep learning–based algorithms used in ship trajectory prediction are not easy to be trained, as the model structure makes the features unable to be processed in parallel. First, the ships with potential collision risk are clustered by the Density–Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm to divide the hotspots. Then, the possible locations of ships in the near future are calculated by a multi–step prediction model, i.e., the designed Transformer network. Finally, the ship pairs' collision risk and the regional collision risk are evaluated based on the predicted results. Based on the AIS data from the Yangtze River, the effectiveness of the proposed framework is verified through regional risk assessment for 41 moments and specific interpretation for three moments. © 2023
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 7
+C2  - AJG:3; zdy:3; 
+LB  - Gao2024Deep
+ER  -
+
+TY  - JOUR
+AU  - Wang, Y.
+AU  - Li, Y.
+AU  - Zhang, Y.
+AU  - Lei, J.
+AU  - Yu, Y.
+AU  - Zhang, T.
+AU  - Yang, Y.
+AU  - Zhao, H.
+TI  - Incorporating prior knowledge into self-supervised representation learning for long PHM signal
+PY  - 2024
+T2  - Reliability Engineering and System Safety
+VL  - 241
+C7  - 109602
+DO  - 10.1016/j.ress.2023.109602
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171868554&doi=10.1016%2fj.ress.2023.109602&partnerID=40&md5=4c33694f43525cd99107cfadf39683be
+AB  - Prognostics and Health Management (PHM) is a discipline that monitors, diagnoses, and predicts the health status of complex systems. Representation learning plays a pivotal role in converting sensor data into informative features that accurately reflect the system's health status. However, PHM datasets pose unique challenges, including long and nonlinear signal data, limited quantity, and inferior quality. To overcome these challenges, we introduce the Prior Knowledge Enhanced Self-Supervised Learning Framework (PKESSLF). PKESSLF employs the Patch Long Signal Transformer (PLST) as an encoder, effectively mitigating the impact of signal nonlinearity and nonstationarity. This is achieved by maintaining local features through a patch-based approach, resulting in improved efficiency when handling long signals.Furthermore, the framework integrates self-supervised learning enhanced by prior knowledge (PKESSL), synchronizing masked pretraining and contrast learning to align data representation with prior knowledge. PKESSL adeptly captures localized and broad-ranging characteristics inherent in the data. The inclusion of a Prior Attention Pooler assigns dynamic weights to signal patches based on prior knowledge, enhancing the model's aggregation effect on long sequences. PKESSLF achieves effective modeling and extraction of system representation information, providing a flexible and efficient approach for pretraining and finetuning PLST in scenarios with functional prior knowledge. Incorporating prior knowledge holds great promise in addressing the limitations of data-driven methods in PHM, as evidenced by significant performance enhancements on the N-CMAPPS datasets. © 2023
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 11
+C2  - AJG:3; zdy:3; 
+LB  - Wang2024Incorporating
+ER  -
+
+TY  - JOUR
+AU  - Beyer Díaz, S.
+AU  - Coussement, K.
+AU  - De Caigny, A.
+AU  - Pérez, L.F.
+AU  - Creemers, S.
+TI  - Do the US president's tweets better predict oil prices? An empirical examination using long short-term memory networks
+PY  - 2024
+T2  - International Journal of Production Research
+VL  - 62
+IS  - 6
+SP  - 2158
+EP  - 2175
+DO  - 10.1080/00207543.2023.2217286
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85161382629&doi=10.1080%2f00207543.2023.2217286&partnerID=40&md5=7898c98102b8161138dacb570d959f4b
+AB  - The price of oil is highly complex to predict as it is impacted by global demand and supply, geopolitical events, and market sentiment. The accuracy of such predictions, however, has far-reaching implications for supply chain performance, portfolio management, and expected stock market returns. This paper contributes to the oil price prediction literature by evaluating the predictive impact of the US President's communication on Twitter, while benchmarking various Natural Language Processing (NLP) techniques, including Term Frequency-Inverse Document Frequency (TF-IDF), Word2Vec, Doc2Vec, Global Vectors for Word Representation (GloVe), and Bidirectional Encoder Representations from Transformers (BERT). These techniques are combined with a deep neural network Long Short-Term Memory (LSTM) architecture using a five-day lag for both the oil price and the textual Twitter data. The data was collected during the term of US President Donald Trump, resulting in 1449 days of crude oil price prediction and a total of 16,457 tweets. The study is validated for Brent and West Texas Intermediate blends, using the daily price of a barrel of crude oil as the target variable. The results confirm that including the US President's tweets significantly increases the predictive power of oil price prediction models, and that an LSTM architecture with BERT as NLP technique has the best performance. © 2023 Informa UK Limited, trading as Taylor & Francis Group.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 2
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Beyer Díaz2024Do
+ER  -
+
+TY  - JOUR
+AU  - Nadler, E.O.
+AU  - Darragh-Ford, E.
+AU  - Desikan, B.S.
+AU  - Conaway, C.
+AU  - Chu, M.
+AU  - Hull, T.
+AU  - Guilbeault, D.
+TI  - Divergences in color perception between deep neural networks and humans
+PY  - 2023
+T2  - Cognition
+VL  - 241
+C7  - 105621
+DO  - 10.1016/j.cognition.2023.105621
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171358370&doi=10.1016%2fj.cognition.2023.105621&partnerID=40&md5=d347de6d59bee31c5bcc677ad893aeab
+AB  - Deep neural networks (DNNs) are increasingly proposed as models of human vision, bolstered by their impressive performance on image classification and object recognition tasks. Yet, the extent to which DNNs capture fundamental aspects of human vision such as color perception remains unclear. Here, we develop novel experiments for evaluating the perceptual coherence of color embeddings in DNNs, and we assess how well these algorithms predict human color similarity judgments collected via an online survey. We find that state-of-the-art DNN architectures — including convolutional neural networks and vision transformers — provide color similarity judgments that strikingly diverge from human color judgments of (i) images with controlled color properties, (ii) images generated from online searches, and (iii) real-world images from the canonical CIFAR-10 dataset. We compare DNN performance against an interpretable and cognitively plausible model of color perception based on wavelet decomposition, inspired by foundational theories in computational neuroscience. While one deep learning model — a convolutional DNN trained on a style transfer task — captures some aspects of human color perception, our wavelet algorithm provides more coherent color embeddings that better predict human color judgments compared to all DNNs we examine. These results hold when altering the high-level visual task used to train similar DNN architectures (e.g., image classification versus image segmentation), as well as when examining the color embeddings of different layers in a given DNN architecture. These findings break new ground in the effort to analyze the perceptual representations of machine learning algorithms and to improve their ability to serve as cognitively plausible models of human vision. Implications for machine learning, human perception, and embodied cognition are discussed. © 2023
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 4
+C2  - AJG:4; zdy:4; 
+LB  - Nadler2023Divergences
+ER  -
+
+TY  - JOUR
+AU  - Zhang, X.
+AU  - Sun, J.
+AU  - Wang, J.
+AU  - Jin, Y.
+AU  - Wang, L.
+AU  - Liu, Z.
+TI  - PAOLTransformer: Pruning-adaptive optimal lightweight Transformer model for aero-engine remaining useful life prediction
+PY  - 2023
+T2  - Reliability Engineering and System Safety
+VL  - 240
+C7  - 109605
+DO  - 10.1016/j.ress.2023.109605
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85169825726&doi=10.1016%2fj.ress.2023.109605&partnerID=40&md5=5a2f7c46862c78ac8bc5f9364f241b25
+AB  - Aero-engines are core equipment in aerospace field, and their remaining useful life (RUL) prediction is a critical aspect in spacecraft monitoring and maintenance. Transformer model demonstrates remarkable performance in this domain, but its construction heavily relies on a sizeable number of parameters and the excessive model redundancy may adversely affect its prediction performance. To address this issue, a pruning-adaptive optimal lightweight Transformer (PAOLTransformer) is proposed. The method employs norm information to evaluate the contribution of each element within the model to the outputs and subsequently utilizes structured pruning to eliminate unimportant redundant elements. The pruning procedure is executed automatically by seeking out the optimal compression rate via reinforcement learning with a reward score combining the accuracy and efficiency of RUL prediction. Experimental analysis on the C-MAPSS aero-engine dataset shows that PAOLTransformer significantly improves the performance metrics, including a 7% reduction in prediction error and a 33% reduction in computational complexity compared to the standard Transformer. It follows that the proposed model can achieve an optimal equilibrium between model performance and pruning rate. Furthermore, PAOLTransformer outperforms several advanced models in predicting long and complex time series. Therefore, this study holds significant implications for the implementation of preventive maintenance strategies for aero-engines. © 2023 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 19
+C2  - AJG:3; zdy:3; 
+LB  - Zhang2023PAOLTransformer
+ER  -
+
+TY  - JOUR
+AU  - Yu, X.
+AU  - Bai, C.
+AU  - Wang, C.
+AU  - Yu, D.
+AU  - Chen, C.L.P.
+AU  - Wang, Z.
+TI  - Self-Supervised Imitation for Offline Reinforcement Learning With Hindsight Relabeling
+PY  - 2023
+T2  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+VL  - 53
+IS  - 12
+SP  - 7732
+EP  - 7743
+DO  - 10.1109/TSMC.2023.3297711
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168736234&doi=10.1109%2fTSMC.2023.3297711&partnerID=40&md5=cc7a6a532626c041e2acf36686e44126
+AB  - Reinforcement learning (RL) requires a lot of interactions with the environment, which is usually expensive or dangerous in real-world tasks. To address this problem, offline RL considers learning policies from fixed datasets, which is promising in utilizing large-scale datasets, but still suffers from the unstable estimation for out-of-distribution data. Recent developments in RL via supervised learning methods offer an alternative to learning effective policies from suboptimal datasets while relying on oracle information from the environment. In this article, we present an offline RL algorithm that combines hindsight relabeling and supervised regression to predict actions without oracle information. We use hindsight relabeling on the original dataset and learn a command generator and command-conditional policies in a supervised manner, where the command represents the desired return or goal location according to the corresponding task. Theoretically, we illustrate that our method optimizes the lower bound of the goal-conditional RL objective. Empirically, our method achieves competitive performance in comparison with existing approaches in the sparse reward setting and favorable performance in continuous control tasks.  © 2013 IEEE.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 1
+C2  - CCF:B期刊; AJG:3; zdy:3; 
+LB  - Yu2023Self-Supervised
+ER  -
+
+TY  - JOUR
+AU  - Hernandez, I.
+AU  - Nie, W.
+TI  - The AI-IP: Minimizing the guesswork of personality scale item development through artificial intelligence
+PY  - 2023
+T2  - Personnel Psychology
+VL  - 76
+IS  - 4
+SP  - 1011
+EP  - 1035
+DO  - 10.1111/peps.12543
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140015986&doi=10.1111%2fpeps.12543&partnerID=40&md5=534080dc0524434579dc6e975b1fbd26
+AB  - We propose a framework for integrating various modern natural language processing (NLP) models to assist researchers with developing valid psychological scales. Transformer-based deep neural networks offer state-of-the-art performance on various natural language tasks. This project adapts the transformer model GPT-2 to learn the structure of personality items, and generate the largest openly available pool of personality items, consisting of one million new items. We then use that artificial intelligence-based item pool (AI-IP) to provide a subset of potential scale items for measuring a desired construct. To better recommend construct-related items, we train a paired neural network-based classification BERT model to predict the observed correlation between personality items using only their text. We also demonstrate how zero-shot models can help balance desired content domains within the scale. In combination with the AI-IP, these models narrow the large item pool to items most correlated with a set of initial items. We demonstrate the ability of this multimodel framework to develop longer cohesive scales from a small set of construct-relevant items. We found reliability, validity, and fit equivalent for AI-assisted scales compared to scales developed and optimized by traditional methods. By leveraging neural networks’ ability to generate text relevant to a given topic and infer semantic similarity, this project demonstrates how to support creative and open-ended elements of the scale development process to increase the likelihood of one's initial scale being valid, and minimize the need to modify and revalidate the scale. © 2022 The Authors. Personnel Psychology published by Wiley Periodicals LLC.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 6
+C2  - FMS:A; AJG:5; ZUFE:1A; zdy:5; 
+LB  - Hernandez2023AI-IP
+ER  -
+
+TY  - JOUR
+AU  - Huang, W.
+AU  - Gao, T.
+AU  - Hao, Y.
+AU  - Wang, X.
+TI  - Transformer-based forecasting for intraday trading in the Shanghai crude oil market: Analyzing open-high-low-close prices
+PY  - 2023
+T2  - Energy Economics
+VL  - 127
+C7  - 107106
+DO  - 10.1016/j.eneco.2023.107106
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174439649&doi=10.1016%2fj.eneco.2023.107106&partnerID=40&md5=ce6ad980c9198f83c300fc8222bdecdb
+AB  - The Shanghai crude oil futures market exudes distinct speculative attributes, underscoring the pivotal significance of precise price forecasts. Accurate forecasting of Shanghai crude oil futures prices assumes vital importance for investors to optimize their portfolios profitably, for producers to mitigate production risks in the crude oil spot market, and for providing cogent decision-making support to government entities. This study implements a groundbreaking unbiased structural forecasting for Shanghai crude oil futures' open-high-low-close (OHLC) prices leveraging the Transformer framework coupled with the model-driven and penalty term-based loss function designs. Based on OHLC forecasts, this study devises three intraday trading strategies. Notably, our results evince that the forecasting accuracy of the Transformer outperforms the Naïve method, vector autoregression (VAR) and vector error correction model (VECM), multiple linear regression (MLR), support vector regression (SVR), and long short-term memory (LSTM) neural network when applied to different temporal granularities of Shanghai crude oil futures OHLC data. Furthermore, the three proposed intraday trading strategies exhibit higher annualized return rates and Sharpe ratios, alongside lower maximum drawdowns and standard deviations of returns in comparison to the conventional close-to-close strategy relying solely on the close price. Remarkably, the forecasting process and intraday trading strategies explicated in this study can equally apply to other futures products in the energy sector, including electricity, coal, and natural gas. © 2023 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 12
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Huang2023Transformer-based
+ER  -
+
+TY  - JOUR
+AU  - Ma, T.
+AU  - Wang, W.
+AU  - Chen, Y.
+TI  - Attention is all you need: An interpretable transformer-based asset allocation approach
+PY  - 2023
+T2  - International Review of Financial Analysis
+VL  - 90
+C7  - 102876
+DO  - 10.1016/j.irfa.2023.102876
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166905036&doi=10.1016%2fj.irfa.2023.102876&partnerID=40&md5=d3377944a8159ee3d788e046d8056c1b
+AB  - Deep learning technology is rapidly adopted in financial market settings. Using a large data set from the Chinese stock market, we propose a return-risk trade-off strategy via a new transformer model. The empirical findings show that these updates, such as the self-attention mechanism in technology, can improve the use of time-series information related to returns and volatility, increase predictability, and capture more economic gains than other nonlinear models, such as LSTM. Our model employs Shapley additive explanations (SHAP) to measure the “economic feature importance” and tabulates the different important features in the prediction process. Finally, we document several economic explanations for the TF model. This paper sheds light on the burgeoning field on asset allocation in the age of big data. © 2023 Elsevier Inc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 13
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Ma2023Attention
+ER  -
+
+TY  - JOUR
+AU  - Yu, J.
+AU  - Ma, T.
+AU  - Chen, H.
+AU  - Lai, M.
+AU  - Ju, Z.
+AU  - Xu, Y.
+TI  - Marrying Global-Local Spatial Context for Image Patches in Computer-Aided Assessment
+PY  - 2023
+T2  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+VL  - 53
+IS  - 11
+SP  - 7099
+EP  - 7111
+DO  - 10.1109/TSMC.2023.3290205
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165309391&doi=10.1109%2fTSMC.2023.3290205&partnerID=40&md5=8e47b2f706f5df3b035fff3f376d5b58
+AB  - Computer-aided assessment using whole slide images (WSIs) is one of the critical steps in clinical procedures. How do doctors recognize cancer in a WSI? A quick answer is that they consider the spatial structure of a WSI rather than only considering single patches. We argue that two clues are essential for computer-aided deep learning: 1) global spatial context and 2) local semantic information. This is because local, semi-local, and global tissue observing are the principal assessment means of pathologists, perfectly corresponding with both clues. However, most existing methods only consider local spatial information learning within each patch rather than developing an effective local-to-global reaction, leading to an incapable of capturing robust and enriched representation. Toward a new area for computer-aided assessment, we propose novel neural networks to learn the global-local spatial context in WSIs, called GLSCL. The GLSCL is among the first trials that understand both clues for WSI understanding. Furthermore, the proposed novel operators enable the GLSCL to learn spatial semantic representation sufficiently. We evaluate the GLSCL using renal cell carcinoma (RCC) samples with synthetic ambiguity collected from the public benchmark and clinical procedures. Enhanced by global and local spatial information, the GLSCL achieves state-of-the-art performance, including classification accuracy, survival prediction index, and cancer tissue attention rate.  © 2013 IEEE.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 4
+C2  - CCF:B期刊; AJG:3; zdy:3; 
+LB  - Yu2023Marrying
+ER  -
+
+TY  - JOUR
+AU  - Zhang, W.
+AU  - Zeng, Y.
+AU  - Wang, J.
+AU  - Ma, H.
+AU  - Zhang, Q.
+AU  - Fan, S.
+TI  - Multi-scale feature pyramid approach for melt track classification in laser powder bed fusion via coaxial high-speed imaging
+PY  - 2023
+T2  - Computers in Industry
+VL  - 151
+C7  - 103975
+DO  - 10.1016/j.compind.2023.103975
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163165618&doi=10.1016%2fj.compind.2023.103975&partnerID=40&md5=1aa21d1f9afb5919eef941580b38d806
+AB  - The randomness and low frequency of laser powder bed fusion defects are two important characteristics that can impact the quality and reliability of parts. Therefore, effectively detecting the forming quality of parts during the manufacturing process has become an important research problem in the field of intelligent additive manufacturing technology. In this study, the use of multi-scale and multi-feature manifold learning methods first demonstrated that the global optimal solution for predicting the forming morphology of the melt track cannot be obtained when the number of process phenomenon features in the laser powder bed fusion process is unknown. As an alternative, a multi-scale feature pyramid network is used for processing long sequence high-speed videos and predicting the forming morphology. Specifically, to address the randomness issue, this study used a coaxial high-speed imaging system to monitor the entire forming process and designed a 2D Transformer-based video understanding model to process high-speed video data and recognize key process phenomena. To solve the low frequency issue, physics-based simulation can quickly understand how process parameters affect the forming quality of parts to provide guidance for constructing multi-mode category datasets. The experimental results indicate that the model can accurately predict the forming morphology of the melt track, better control the entire forming process, and thus improve manufacturing quality and efficiency. © 2023 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 3
+C2  - FMS:C; AJG:3; zdy:3; 
+LB  - Zhang2023Multi-scale
+ER  -
+
+TY  - JOUR
+AU  - Shi, Y.
+AU  - Zhang, L.
+TI  - Modelling long- and short-term multi-dimensional patterns in predictive maintenance with accumulative attention
+PY  - 2023
+T2  - Reliability Engineering and System Safety
+VL  - 237
+C7  - 109306
+DO  - 10.1016/j.ress.2023.109306
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85154031894&doi=10.1016%2fj.ress.2023.109306&partnerID=40&md5=d23d083fa55ce971f8a1275f832921cf
+AB  - Predictive Maintenance (PdM) plays a pivotal role in safety management by planning necessary maintenance in advance to avoid future serious breakdown. Predicting the Remaining useful life (RUL) based on historical running data is an important task in PdM. One challenge of this issue is to capture both the temporal and spatial complex patterns especially in ultra-long sequences. Recent studies have demonstrated the superiority of Transformer model in capturing long-term dependencies. However, in the research field of PdM, the canonical Transformer faces with difficulties to deploy due to its limited input length, neglect of local correlations, insensitivity to input pattern and high computational cost. To tackle this, a novel lightweight RUL prediction model called TCNASA integrating temporal convolution network (TCN), accumulative self-attention layer (ASA) and autoregressive component is proposed. It uses TCN firstly to capture local correlations, prunes the redundant short-term cases when matching pairs in attention layers, accumulates global patterns through stacked self-attention layers, and lastly integrates an autoregressive component to enhance the robustness. The experimental results on several real-world PdM datasets have verified the effectiveness and efficiency of the proposed TCNASA model. © 2023 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 6
+C2  - AJG:3; zdy:3; 
+LB  - Shi2023Modelling
+ER  -
+
+TY  - JOUR
+AU  - Zhou, K.-L.
+AU  - Cheng, D.-J.
+AU  - Zhang, H.-B.
+AU  - Hu, Z.-T.
+AU  - Zhang, C.-Y.
+TI  - Deep learning-based intelligent multilevel predictive maintenance framework considering comprehensive cost
+PY  - 2023
+T2  - Reliability Engineering and System Safety
+VL  - 237
+C7  - 109357
+DO  - 10.1016/j.ress.2023.109357
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159228546&doi=10.1016%2fj.ress.2023.109357&partnerID=40&md5=bf3633b8c6766680be501b1b1424eebf
+AB  - Due to the increase in the series-parallel multi-state system (MSS) complexity caused by the nonlinear change of parameters, the traditional model-based maintenance methods are becoming less effective and obsolete. This study proposes a novel deep learning-based intelligent multilevel predictive maintenance (MPM) framework for series-parallel MSS considering comprehensive cost. A new adaptive convolution-transformer (C-Transformer) was constructed to predict component remaining useful life (RUL) through extracting features adaptively. Based on this, the component failure probability was obtained through convolutional neural network (CNN). Then, to directly reflect the operating conditions of MSSs, multilevel maintenance was customized with multilevel failure through the trial-and-error learning method. During the intermission breaks, an intelligent dynamic decision-making optimization model was proposed by introducing multilevel maintenance to improve the system's state in a future mission, which was solved by a new artificial bee colony algorithm (called MDU-ABC-K) to minimize the comprehensive cost under economic dependence and critical component constraints, thus simultaneously balancing maintenance time and cost. The proposed approach was compared with other models through turbofan engine data set by NASA. The comparison results indicate that the proposed intelligent MPM framework can offer a more reasonable and superior maintenance strategy. © 2023 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 9
+C2  - AJG:3; zdy:3; 
+LB  - Zhou2023Deep
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Z.
+AU  - Chen, X.
+AU  - Zio, E.
+AU  - Li, L.
+TI  - Multi-task learning boosted predictions of the remaining useful life of aero-engines under scenarios of working-condition shift
+PY  - 2023
+T2  - Reliability Engineering and System Safety
+VL  - 237
+C7  - 109350
+DO  - 10.1016/j.ress.2023.109350
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159156403&doi=10.1016%2fj.ress.2023.109350&partnerID=40&md5=57aacc406143a87e178833ad681c1c1c
+AB  - The aero-engine is a typical equipment operating under variable working conditions. Changes in the working conditions of an aero-engine can cause data distribution divergence, making the remaining useful life (RUL) prediction task more challenging. Previous domain adaptation (DA) approaches have the limitation on the prerequisite of data availability in the target domain when handling the domain discrepancy and arranging data alignment. The target working condition is more likely to be unseen, resulting in the unavailability of the corresponding condition monitoring data of this working scenario. This study presents the research topic: the RUL prediction of aero-engines under working-condition shift scenarios in the absence of target domain data. To this end, we propose a multi-task learning-boosted method (MTLTrans) for the cross-domain RUL prediction of aero-engines. The MTLTrans is built upon the Transformer backbone in a hierarchical sharing style with two auxiliary prognostics tasks, i.e., state of health (SOH) assessment and performance degradation (PD) prediction. The trade-off learning of these three tasks facilitates producing reliable RUL prediction results robust against the data shift. Experiments on 12 cross-domain scenarios have shown that the proposed method significantly outperforms state-of-the-art methods, with an improvement of 18.83% of the root mean square error (RMSE). © 2023 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 15
+C2  - AJG:3; zdy:3; 
+LB  - Zhang2023Multi-task
+ER  -
+
+TY  - JOUR
+AU  - Korangi, K.
+AU  - Mues, C.
+AU  - Bravo, C.
+TI  - A transformer-based model for default prediction in mid-cap corporate markets
+PY  - 2023
+T2  - European Journal of Operational Research
+VL  - 308
+IS  - 1
+SP  - 306
+EP  - 320
+DO  - 10.1016/j.ejor.2022.10.032
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143550150&doi=10.1016%2fj.ejor.2022.10.032&partnerID=40&md5=bf3c81e595f7896a3367391bc7df9610
+AB  - In this paper, we study mid-cap companies, i.e. publicly traded companies with less than US$10 billion in market capitalisation. Using a large dataset of US mid-cap companies observed over 30 years, we look to predict the default probability term structure over the short to medium term and understand which data sources (i.e. fundamental, market or pricing data) contribute most to the default risk. Whereas existing methods typically require that data from different time periods are first aggregated and turned into cross-sectional features, we frame the problem as a multi-label panel data classification problem. To tackle it, we then employ transformer models, a state-of-the-art deep learning model emanating from the natural language processing domain. To make this approach suitable to the given credit risk setting, we use a loss function for multi-label classification, to deal with the term structure, and propose a multi-channel architecture with differential training that allows the model to use all input data efficiently. Our results show that the proposed deep learning architecture produces superior performance, resulting in a sizeable improvement in AUC (Area Under the receiver operating characteristic Curve) over traditional models. In order to interpret the model, we also demonstrate how to produce an importance ranking for the different data sources and their temporal relationships, using a Shapley approach for feature groups. © 2022 The Author(s)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 19
+C2  - FMS:A; AJG:4; ZUFE:1A; zdy:4; 
+LB  - Korangi2023transformer-based
+ER  -
+
+TY  - JOUR
+AU  - Stanojević, M.
+AU  - Brennan, J.R.
+AU  - Dunagan, D.
+AU  - Steedman, M.
+AU  - Hale, J.T.
+TI  - Modeling Structure-Building in the Brain With CCG Parsing and Large Language Models
+PY  - 2023
+T2  - Cognitive Science
+VL  - 47
+IS  - 7
+C7  - e13312
+DO  - 10.1111/cogs.13312
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164272338&doi=10.1111%2fcogs.13312&partnerID=40&md5=b4f2762aa80a856aa4b93da78c1abcb9
+AB  - To model behavioral and neural correlates of language comprehension in naturalistic environments, researchers have turned to broad-coverage tools from natural-language processing and machine learning. Where syntactic structure is explicitly modeled, prior work has relied predominantly on context-free grammars (CFGs), yet such formalisms are not sufficiently expressive for human languages. Combinatory categorial grammars (CCGs) are sufficiently expressive directly compositional models of grammar with flexible constituency that affords incremental interpretation. In this work, we evaluate whether a more expressive CCG provides a better model than a CFG for human neural signals collected with functional magnetic resonance imaging (fMRI) while participants listen to an audiobook story. We further test between variants of CCG that differ in how they handle optional adjuncts. These evaluations are carried out against a baseline that includes estimates of next-word predictability from a transformer neural network language model. Such a comparison reveals unique contributions of CCG structure-building predominantly in the left posterior temporal lobe: CCG-derived measures offer a superior fit to neural signals compared to those derived from a CFG. These effects are spatially distinct from bilateral superior temporal effects that are unique to predictability. Neural effects for structure-building are thus separable from predictability during naturalistic listening, and those effects are best characterized by a grammar whose expressive power is motivated on independent linguistic grounds. © 2023 The Authors. Cognitive Science published by Wiley Periodicals LLC on behalf of Cognitive Science Society (CSS).
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 10
+C2  - AJG:3; zdy:3; 
+LB  - Stanojević2023Modeling
+ER  -
+
+TY  - JOUR
+AU  - Du, N.H.
+AU  - Long, N.H.
+AU  - Ha, K.N.
+AU  - Hoang, N.V.
+AU  - Huong, T.T.
+AU  - Tran, K.P.
+TI  - Trans-Lighter: A light-weight federated learning-based architecture for Remaining Useful Lifetime prediction
+PY  - 2023
+T2  - Computers in Industry
+VL  - 148
+C7  - 103888
+DO  - 10.1016/j.compind.2023.103888
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150052299&doi=10.1016%2fj.compind.2023.103888&partnerID=40&md5=bbfaf3ac7bcb08c63104baeb73abaf04
+AB  - Predictive maintenance (PdM) plays an important role in industrial manufacturing. One of the most fundamental ideas underlying many PdM solutions is to estimate Remaining Useful Life (RUL) of machines. Recently, advanced deep learning models like convolutional neural network (CNN) and long short-term memory (LSTM) have been widely used for RUL prediction. However, these models also have certain limitations because of the difficulty in dealing with long-term dependencies in time series data. In this study, we propose a novel model based on transformer networks to overcome this difficulty. Rather than using the full structure of a transformer model, we exploit only the encoder combined with a linear layer. The Bayesian Optimization algorithm is applied to find optimal hyperparameters for the encoder. Experiments on widely used turbofan engine datasets show that our proposed method significantly outperforms the state-of-the-art RUL prediction methods by up to 25% in terms of predicting remaining usable life. We also provide a solution for the problem of preserving the privacy and security of data in smart manufacturing by designing a Federated Learning-based architecture for RUL using the proposed transformer-based model. © 2023 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 25
+C2  - FMS:C; AJG:3; zdy:3; 
+LB  - Du2023Trans-Lighter
+ER  -
+
+TY  - JOUR
+AU  - Kamei, S.
+AU  - Taghipour, S.
+TI  - A comparison study of centralized and decentralized federated learning approaches utilizing the transformer architecture for estimating remaining useful life
+PY  - 2023
+T2  - Reliability Engineering and System Safety
+VL  - 233
+C7  - 109130
+DO  - 10.1016/j.ress.2023.109130
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147329236&doi=10.1016%2fj.ress.2023.109130&partnerID=40&md5=a0ff7d60a39f8413f837bfbd65469ac5
+AB  - The current prognostics approaches for a network of assets are centralized and reliant on the availability of assets’ sensors, failures, and anomaly data. To address this, the data from similar assets are usually aggregated to make a richer dataset for prognosis. However, if similar assets are located at different enterprises, business owners may not be willing to share their raw data with each other. One solution is decentralized Federated Learning (FL), where local client data and training is preserved on-site rather than being shared with a central server. Since FL theoretically addresses the challenges faced by the traditional centralized learning approaches, its performance needs to be investigated and compared with the centralized methods. The current paper aims to compare the performance of a centralized model with two decentralized FL algorithms to predict the remaining useful life (RUL) of an asset. Two prediction models, a long short-term memory (LSTM) and the Transformer architecture were developed to predict RUL. The comparison has been conducted using NASA C-MAPSS dataset where the results indicated that FedProx performed better than FedAvg generally, and Transformer architecture performed better overall than LSTM across all datasets in the centralized and decentralized scenarios. © 2023 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 32
+C2  - AJG:3; zdy:3; 
+LB  - Kamei2023comparison
+ER  -
+
+TY  - JOUR
+AU  - Zhang, J.
+AU  - Li, X.
+AU  - Tian, J.
+AU  - Luo, H.
+AU  - Yin, S.
+TI  - An integrated multi-head dual sparse self-attention network for remaining useful life prediction
+PY  - 2023
+T2  - Reliability Engineering and System Safety
+VL  - 233
+C7  - 109096
+DO  - 10.1016/j.ress.2023.109096
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146626846&doi=10.1016%2fj.ress.2023.109096&partnerID=40&md5=3f2b1e6933e82d1233efadb32a1593c3
+AB  - Committed to accident prevention, prediction of remaining useful life (RUL) plays a crucial role in prognostics health management technology. Conventional convolutional neural network and long-short-term memory network have notable limitations in the size of convolution in processing temporal data and the associations between non-adjacent data when predicting the RUL, respectively. Although the proposal of the Transformer provides an opportunity to solve the shortcomings mentioned above, Transformer still has some limitations. Precisely, the Transformer model awaits in-depth research focusing on vital local regions and decreasing computational complexity. In this sense, this paper proposes a novel integrated multi-head dual sparse self-attention network (IMDSSN) based on a modified Transformer to predict the RUL. From two sparse perspectives, the proposed IMDSSN includes a multi-head ProbSparse self-attention network (MPSN) and a multi-head LogSparse self-attention network (MLSN). Specifically, MPSN is designed to filter out the primary function of the dot product operation, thereby improving computational efficiency. Furthermore, considering the data inside the whole time window, a comprehensive logarithmic-based sparse strategy in MLSN is proposed to reduce the amount of computation. An aircraft turbofan engine dataset is used to verify the proposed IMDSSN, which demonstrates that the IMDSSN is better than some conventional approaches. © 2023 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 107
+C2  - AJG:3; zdy:3; 
+LB  - Zhang2023integrated
+ER  -
+
+TY  - JOUR
+AU  - Borchert, P.
+AU  - Coussement, K.
+AU  - De Caigny, A.
+AU  - De Weerdt, J.
+TI  - Extending business failure prediction models with textual website content using deep learning
+PY  - 2023
+T2  - European Journal of Operational Research
+VL  - 306
+IS  - 1
+SP  - 348
+EP  - 357
+DO  - 10.1016/j.ejor.2022.06.060
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134723297&doi=10.1016%2fj.ejor.2022.06.060&partnerID=40&md5=250b32572ff3788bb3de6b809ddc99e8
+AB  - Business failure prediction (BFP) is an important instrument in assessing the risk of corporate failure. While a large body of research has focused on BFP, recent research in operations research and analytics acknowledges the beneficial effect of incorporating textual data for predictive modelling. However, extant BFP research that incorporates textual company information is very scarce. Based on a dataset containing 13,571 European companies provided by the largest European data aggregator, this study investigates the added value of extending traditional BFP models with textual website content. We further benchmark various feature extraction techniques in natural language processing (i.e. the vector-space approach, neural networks-based approaches and transformers) and assess the best way of representing and integrating textual website features for BFP modelling. The results confirm that including textual website data improves BFP predictive performance, and that textual features extracted by transformers add the most value to the BFP models in this benchmark setting. © 2022 The Author(s)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 31
+C2  - FMS:A; AJG:4; ZUFE:1A; zdy:4; 
+LB  - Borchert2023Extending
+ER  -
+
+TY  - JOUR
+AU  - Liu, Y.
+AU  - Chen, J.
+AU  - Wang, T.
+AU  - Li, A.
+AU  - Pan, T.
+TI  - A variational transformer for predicting turbopump bearing condition under diverse degradation processes
+PY  - 2023
+T2  - Reliability Engineering and System Safety
+VL  - 232
+C7  - 109074
+DO  - 10.1016/j.ress.2022.109074
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85145261562&doi=10.1016%2fj.ress.2022.109074&partnerID=40&md5=d31b12812b8e3f1639b080c3a808fcf7
+AB  - Accurate condition prediction is necessary to ensure the reliability of the turbopump components. Meanwhile, with the ever-increasing complexity of the turbopump system, the corresponding degradation processes of the turbopump bearings are also increasingly diverse. Consequently, the investigation into the prediction of the turbopump bearing condition is of great significance. However, current research mostly reported on the remaining useful life prediction and neglected the predictive analysis based on the object's health condition. To address the problem, this paper proposed a combinational framework for the turbopump bearing condition monitoring and prediction. Firstly, a multi-branch residual network is designed to construct the health indicators (HIs), which are intended to indicate the health condition of the objects. Then, a Transformer model-based predictor is proposed to predict the constructed HIs accurately. By implanting the variational mechanism in the network, the predictor can achieve high accuracy under diverse degradation processes. To demonstrate the effectiveness of the proposed approach, a public whole-lifetime bearing dataset and a turbopump bearing dataset are utilized in the contrast experiments. Compared with some existing approaches, the proposed framework can obtain more reliable HIs and achieve higher prediction accuracy under diverse degradation processes. © 2022 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 16
+C2  - AJG:3; zdy:3; 
+LB  - Liu2023variational
+ER  -
+
+TY  - JOUR
+AU  - Wang, Y.
+AU  - Wang, J.
+AU  - Cao, Y.
+AU  - Li, S.
+AU  - Kwan, O.
+TI  - Integrated Inspection on PCB Manufacturing in Cyber-Physical-Social Systems
+PY  - 2023
+T2  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+VL  - 53
+IS  - 4
+SP  - 2098
+EP  - 2106
+DO  - 10.1109/TSMC.2022.3229096
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146234481&doi=10.1109%2fTSMC.2022.3229096&partnerID=40&md5=19c7fd43bb6eb7627dbc03479877265c
+AB  - The printed circuit boards (PCBs) industry is one of the fastest-growing industries in recent decades. The PCB manufacturing process is highly complicated and severely affected by social factors, which makes it very important to conduct integrated inspection, assuring and improving the production quality. In this article, we propose an artificial systems, computational experiments, and parallel execution-based integrated inspection method in cyber-physical-social systems (CPSS) to realize smart manufacturing. In this inspection system, rather than simply performing modeling, analysis, and control, we perform descriptive intelligence to construct production processes with limited multimodal information, perform predictive intelligence to conduct defect detection and defect prediction, and perform prescriptive intelligence to achieve defect diagnosis and defect management. In this way, our inspection system could offer a learning and training platform for workers to master professional inspection skills, provide an experimentation and evaluation platform for product defect monitoring and early warnings, and supply guidance about defect management and control to improve manufacturing processes. For technical implementation, we leverage a Transformer-based foundation model to achieve knowledge reasoning and human-computer interaction. As a result, we provide an innovative solution to cope with the challenges of quality inspection in current smart manufacturing, and expect its further applications in the PCB industry.  © 2013 IEEE.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 19
+C2  - CCF:B期刊; AJG:3; zdy:3; 
+LB  - Wang2023Integrated
+ER  -
+
+TY  - JOUR
+AU  - Ding, N.
+AU  - Li, H.
+AU  - Xin, Q.
+AU  - Wu, B.
+AU  - Jiang, D.
+TI  - Multi-source domain generalization for degradation monitoring of journal bearings under unseen conditions
+PY  - 2023
+T2  - Reliability Engineering and System Safety
+VL  - 230
+C7  - 108966
+DO  - 10.1016/j.ress.2022.108966
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141916384&doi=10.1016%2fj.ress.2022.108966&partnerID=40&md5=0b6c15fbbaccaa17b072298a79c5ee9c
+AB  - Degradation detection and remaining useful life (RUL) prediction are the essential tasks of Prognostics and Health Management (PHM) designed to increase the reliability of key components and reduce unpredictable maintenance costs. Due to the lack of enough degradation monitoring data under unseen working conditions or equipment conditions in practical applications, the performance of most existing deep learning and transfer learning RUL prediction models will deteriorate. To address this problem, this paper combines the advantages of Gated Recurrence Unit (GRU) and Transformer structures to propose a multi-source domain generalization learning method. The proposed method can extract the generalized degradation feature representations from multiple available offline run-to-failure datasets under different known working conditions or equipment conditions to assist the prognosis tasks for practical application scenarios. The run-to-failure datasets of internal combustion engine journal bearings are used for case studies to validate the proposed method. The calculation results prove the superiority and effectiveness of the proposed method. © 2022
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 27
+C2  - AJG:3; zdy:3; 
+LB  - Ding2023Multi-source
+ER  -
+
+TY  - JOUR
+AU  - Sprangers, O.
+AU  - Schelter, S.
+AU  - de Rijke, M.
+TI  - Parameter-efficient deep probabilistic forecasting
+PY  - 2023
+T2  - International Journal of Forecasting
+VL  - 39
+IS  - 1
+SP  - 332
+EP  - 345
+DO  - 10.1016/j.ijforecast.2021.11.011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122963685&doi=10.1016%2fj.ijforecast.2021.11.011&partnerID=40&md5=0aeadf8b24a7988f76aba0e848968f3c
+AB  - Probabilistic time series forecasting is crucial in many application domains, such as retail, ecommerce, finance, and biology. With the increasing availability of large volumes of data, a number of neural architectures have been proposed for this problem. In particular, Transformer-based methods achieve state-of-the-art performance on real-world benchmarks. However, these methods require a large number of parameters to be learned, which imposes high memory requirements on the computational resources for training such models. To address this problem, we introduce a novel bidirectional temporal convolutional network that requires an order of magnitude fewer parameters than a common Transformer-based approach. Our model combines two temporal convolutional networks: the first network encodes future covariates of the time series, whereas the second network encodes past observations and covariates. We jointly estimate the parameters of an output distribution via these two networks. Experiments on four real-world datasets show that our method performs on par with four state-of-the-art probabilistic forecasting methods, including a Transformer-based approach and WaveNet, on two point metrics (sMAPE and NRMSE) as well as on a set of range metrics (quantile loss percentiles) in the majority of cases. We also demonstrate that our method requires significantly fewer parameters than Transformer-based methods, which means that the model can be trained faster with significantly lower memory requirements, which as a consequence reduces the infrastructure cost for deploying these models. © 2021 The Author(s)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 8
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Sprangers2023Parameter-efficient
+ER  -
+
+TY  - JOUR
+AU  - Xu, D.
+AU  - Xiao, X.
+AU  - Liu, J.
+AU  - Sui, S.
+TI  - Spatio-temporal degradation modeling and remaining useful life prediction under multiple operating conditions based on attention mechanism and deep learning
+PY  - 2023
+T2  - Reliability Engineering and System Safety
+VL  - 229
+C7  - 108886
+DO  - 10.1016/j.ress.2022.108886
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139879334&doi=10.1016%2fj.ress.2022.108886&partnerID=40&md5=154ed5a80ca8fb7885a0c5b88d10544f
+AB  - Accurately predicting the Remaining Useful Life (RUL) is useful to avoid unexpected significant failure of engineering system and reduce maintenance costs effectively. Meanwhile, the diverse operating conditions and high-dimensional feature variables from diverse sensors spatially located in the system are two main obstacles for building an accurate and stable RUL prediction model. Considering that these two obstacles have not been fully considered in the state-of-art work, a novel RUL prediction method based on the improved Transformer model is proposed in this work, which resorts to the attention mechanism and deep learning considering spatio-temporal characteristics and multiple operating conditions. First, the difference of the original sequence data caused by operating conditions is eliminated by clustering and standardization in the data preprocessing process. The future condition information is also considered in RUL prediction calculation. Meanwhile, spatio-temporal feature is extracted by self-attention to realize the information fusion of multi-dimensional sensors and long-term series, in which position encoding is designed to retain the sequence information in the original sequence data. Finally, experimental results on the C-MAPSS and N-CMAPSS datasets show that the proposed method achieves a better performance compared with other existing methods. © 2022 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 47
+C2  - AJG:3; zdy:3; 
+LB  - Xu2023Spatio-temporal
+ER  -
+
+TY  - JOUR
+AU  - Xu, S.
+AU  - Zhang, C.
+AU  - Hong, D.
+TI  - BERT-based NLP techniques for classification and severity modeling in basic warranty data study
+PY  - 2022
+T2  - Insurance: Mathematics and Economics
+VL  - 107
+SP  - 57
+EP  - 67
+DO  - 10.1016/j.insmatheco.2022.07.013
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135392813&doi=10.1016%2fj.insmatheco.2022.07.013&partnerID=40&md5=d92d7a32fc355a2e38078244b845d58c
+AB  - This paper is to explore data-driven models based on a newly developed natural language processing (NLP) tool called Bidirectional Encoder Representations from Transformer (BERT) to incorporate textural data information for group classification and loss amount prediction on truck's basic warranty claims. In group classification modeling, multiple-class logistic regression is compared with BERT-based back-propagation neural networks (NN). In group loss severity modeling, direct NN regression is compared with BERT-based NN regression prediction. Furthermore, based on the results from a so-called optimal bin-width algorithm, the severity distribution is fitted in Gamma and its parameters are then estimated using maximum likelihood estimation (MLE). The data experiments show that the BERT framework for NLP improves the classification of the warranty claims as well as the loss severity prediction both in accuracy and stability. © 2022 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 27
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Xu2022BERT-based
+ER  -
+
+TY  - JOUR
+AU  - Bhatia, S.
+AU  - Richie, R.
+TI  - Transformer Networks of Human Conceptual Knowledge
+PY  - 2022
+T2  - Psychological Review
+VL  - 131
+IS  - 1
+SP  - 271
+EP  - 306
+DO  - 10.1037/rev0000319
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142275891&doi=10.1037%2frev0000319&partnerID=40&md5=a49c26cdd25435d9a12793a5fe6c2e12
+AB  - We present a computational model capable of simulating aspects of human knowledge for thousands of real-world concepts. Our approach involves a pretrained transformer network that is further fine-tuned on large data sets of participant-generated feature norms. We show that such a model can successfully extrapolate from its training data, and predict human knowledge for new concepts and features. We apply our model to stimuli from 25 previous experiments in semantic cognition research and show that it reproduces many findings on semantic verification, concept typicality, feature distribution, and semantic similarity. We also compare our model against several variants, and by doing so, establish the model properties that are necessary for good prediction. The success of our approach shows how a combination of language data and (laboratory-based) psychological data can be used to build models with rich world knowledge. Such models can be used in the service of new psychological applications, such as the modeling of naturalistic semantic verification and knowledge retrieval, as well as the modeling of real-world categorization, decision-making, and reasoning. © 2022 American Psychological Association
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 16
+C2  - AJG:4; zdy:4; 
+LB  - Bhatia2022Transformer
+ER  -
+
+TY  - JOUR
+AU  - Chang, Y.
+AU  - Li, F.
+AU  - Chen, J.
+AU  - Liu, Y.
+AU  - Li, Z.
+TI  - Efficient temporal flow Transformer accompanied with multi-head probsparse self-attention mechanism for remaining useful life prognostics
+PY  - 2022
+T2  - Reliability Engineering and System Safety
+VL  - 226
+C7  - 108701
+DO  - 10.1016/j.ress.2022.108701
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133268610&doi=10.1016%2fj.ress.2022.108701&partnerID=40&md5=d2f690499bc48de86c32875f41369dfa
+AB  - Predictive maintenance, such as remaining useful life (RUL) prognostics, requires precise long time-series forecasting, which demands a higher predictive capability of data-driven models. Nevertheless, the typical convolution and recurrent frameworks are still inadequate in the feature extraction and temporal complexity analysis, which makes them difficult to efficiently capture the precise long-term dependency coupling. Recent research has demonstrated the potential of Transformer-based framework to improve the prediction capability by the massive success in sequence processing. Inspired by the above, this paper proposes an efficient end-to-end Temporal Flow Transformer (TFT) for RUL prognostics of rolling bearings. Its main framework is composed of multi-layer encoders, which can directly extract effective degradation features from the time-frequency representations of raw signals, with two distinctive characteristics: (1) Specially designed multi-head probsparse self-attention mechanism can effectively highlight the dominant attention, which makes the TFT have considerable performance in reducing the computational complexity of extremely long time-series; (2) The TFT trained by knowledge-induced distillation strategy can significantly improve its domain adaptability, making it possible to achieve accurate RUL prediction under cross-operating conditions. Extensive experiments on two life-cycle bearing datasets indicate that the TFT greatly outperforms the existing state-of-the-art methods and provides a new solution for RUL prognostics. © 2022 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 52
+C2  - AJG:3; zdy:3; 
+LB  - Chang2022Efficient
+ER  -
+
+TY  - JOUR
+AU  - Aizpurua, J.I.
+AU  - Stewart, B.G.
+AU  - McArthur, S.D.J.
+AU  - Penalba, M.
+AU  - Barrenetxea, M.
+AU  - Muxika, E.
+AU  - Ringwood, J.V.
+TI  - Probabilistic forecasting informed failure prognostics framework for improved RUL prediction under uncertainty: A transformer case study
+PY  - 2022
+T2  - Reliability Engineering and System Safety
+VL  - 226
+C7  - 108676
+DO  - 10.1016/j.ress.2022.108676
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133326669&doi=10.1016%2fj.ress.2022.108676&partnerID=40&md5=68daa79bca82513011f9cdc63920da21
+AB  - The energy transition towards resilient and sustainable power plants requires moving from periodic health assessment to condition-based lifetime planning, which in turn, creates new challenges and opportunities for health estimation and prediction. Probabilistic forecasting models are being widely employed to predict the likely evolution of power grid parameters, such as weather prediction models and probabilistic load forecasting models, that precisely impact on the health state of power and energy components. These models synthesize forecasting knowledge and associated uncertainty information, and their integration within asset management practice would improve lifetime estimation under uncertainty through uncertainty-aware probabilistic predictions. Accordingly, this paper presents a probabilistic prognostics method for lifetime planning under uncertainty integrating data-driven probabilistic forecasting models with expert-knowledge based Bayesian filtering methods. The proposed concepts are applied and validated with power transformers operated in two different power generation systems and obtained results confirm that the proposed probabilistic transformer lifetime estimate aids in the decision-making process with informative lifetime distributions and associated confidence intervals. © 2022 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 18
+C2  - AJG:3; zdy:3; 
+LB  - Aizpurua2022Probabilistic
+ER  -
+
+TY  - JOUR
+AU  - Kriebel, J.
+AU  - Stitz, L.
+TI  - Credit default prediction from user-generated text in peer-to-peer lending using deep learning
+PY  - 2022
+T2  - European Journal of Operational Research
+VL  - 302
+IS  - 1
+SP  - 309
+EP  - 323
+DO  - 10.1016/j.ejor.2021.12.024
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123016411&doi=10.1016%2fj.ejor.2021.12.024&partnerID=40&md5=83a66e0239624d936757e138fadbb49a
+AB  - Digital technologies produce vast amounts of unstructured data that can be stored and accessed by traditional banks and fintech companies. We employ deep learning and several other techniques to extract credit-relevant information from user-generated text on Lending Club. Our results show that even short pieces of user-generated text can improve credit default predictions significantly. The importance of text is further supported by an information fusion analysis. Compared with other approaches that use text, deep learning outperforms them in almost all cases. However, machine learning models combined with word frequencies or topic models also extract substantial credit-relevant information. A comparison of six deep neural network architectures, including state-of-the-art transformer models, finds that the architectures mostly provide similar performance. This means that simpler methods (such as average embedding neural networks) offer performance comparable to more complex methods (such as the transformer networks BERT and RoBERTa) in this credit scoring setting. © 2021 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 46
+C2  - FMS:A; AJG:4; ZUFE:1A; zdy:4; 
+LB  - Kriebel2022Credit
+ER  -
+
+TY  - JOUR
+AU  - Bittar, T.
+AU  - Carpentier, P.
+AU  - Chancelier, J.-P.
+AU  - Lonchampt, J.
+TI  - A decomposition method by interaction prediction for the optimization of maintenance scheduling
+PY  - 2022
+T2  - Annals of Operations Research
+VL  - 316
+IS  - 1
+SP  - 229
+EP  - 267
+DO  - 10.1007/s10479-021-04460-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122866825&doi=10.1007%2fs10479-021-04460-y&partnerID=40&md5=9ff0bd3e93aecd4e3f33f1b70f98eec4
+AB  - Optimizing maintenance scheduling is a major issue to improve the performance of hydropower plants. We study a system of several physical components of the same family: either a set of turbines, a set of transformers or a set of generators. The components share a common stock of spare parts and experience random failures that occur according to known failure distributions. We seek a deterministic preventive maintenance strategy that minimizes an expected cost depending on maintenance and forced outages of the system. The Auxiliary Problem Principle is used to decompose the original large-scale optimization problem into a sequence of independent subproblems of smaller dimension while ensuring their coordination. Each subproblem consists in optimizing the maintenance on a single component. Decomposition-coordination techniques are based on variational techniques but the maintenance optimization problem is a mixed-integer problem. Therefore, we relax the dynamics and the cost functions of the system. The resulting algorithm iteratively solves the subproblems on the relaxed system with a blackbox method and coordinates the components. Relaxation parameters have an important influence on the optimization and must be appropriately chosen. An admissible maintenance strategy is then derived from the resolution of the relaxed problem. We apply the decomposition algorithm on a system with 80 components. It outperforms the reference blackbox method applied directly on the original problem. © 2021, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 1
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Bittar2022decomposition
+ER  -
+
+TY  - JOUR
+AU  - Liu, L.
+AU  - Song, X.
+AU  - Zhou, Z.
+TI  - Aircraft engine remaining useful life estimation via a double attention-based data-driven architecture
+PY  - 2022
+T2  - Reliability Engineering and System Safety
+VL  - 221
+C7  - 108330
+DO  - 10.1016/j.ress.2022.108330
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123884781&doi=10.1016%2fj.ress.2022.108330&partnerID=40&md5=127fb66763800ae59c35eaba18005cb6
+AB  - Remaining useful life (RUL) estimation has been intensively studied, given its important role in prognostics and health management (PHM) of industry. Recently, data-driven structures such as convolutional neural networks (CNNs), have achieved outstanding RUL prediction performance. However, conventional CNNs do not include an adequate mechanism for adaptively weighing input features. In this paper, we propose a double attention-based data-driven framework for aircraft engine RUL prognostics. Specifically, a channel attention-based CNN was utilized to apply greater weights to more significant features. Next, a Transformer was used to focus attention on these features at critical time steps. We validated the effectiveness of the proposed framework on benchmark datasets for aircraft engine RUL estimation. The experimental results indicate that the proposed double attention-based architecture outperformed the existing state-of-the-art (SOTA) algorithms. The double attention-based RUL prediction method can detect the risk of equipment failure and reduce loss. © 2022 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 151
+C2  - AJG:3; zdy:3; 
+LB  - Liu2022Aircraft
+ER  -
+
+TY  - JOUR
+AU  - Chang, Y.-C.
+AU  - Ku, C.-H.
+AU  - Nguyen, D.-D.L.
+TI  - Predicting aspect-based sentiment using deep learning and information visualization: The impact of COVID-19 on the airline industry
+PY  - 2022
+T2  - Information and Management
+VL  - 59
+IS  - 2
+C7  - 103587
+DO  - 10.1016/j.im.2021.103587
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122150763&doi=10.1016%2fj.im.2021.103587&partnerID=40&md5=2e168c1b473d76696a8d3708c689f01b
+AB  - This study investigates customer satisfaction through aspect-level sentiment analysis and visual analytics. We collected and examined the flight reviews on TripAdvisor from January 2016 to August 2020 to gauge the impact of COVID-19 on passenger travel sentiment in several aspects. Till now, information systems, management, and tourism research have paid little attention to the use of deep learning and word embedding techniques, such as bidirectional encoder representations from transformers, especially for aspect-level sentiment analysis. This paper aims to identify perceived aspect-based sentiments and predict unrated sentiments for various categories to address this research gap. Ultimately, this study complements existing sentiment analysis methods and extends the use of data-driven and visual analytics approaches to better understand customer satisfaction in the airline industry and within the context of the COVID-19. Our proposed method outperforms baseline comparisons and therefore contributes to the theoretical and managerial literature. © 2021 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 58
+C2  - CCF:C期刊; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Chang2022Predicting
+ER  -
+
+TY  - JOUR
+AU  - Stevenson, M.
+AU  - Mues, C.
+AU  - Bravo, C.
+TI  - The value of text for small business default prediction: A Deep Learning approach
+PY  - 2021
+T2  - European Journal of Operational Research
+VL  - 295
+IS  - 2
+SP  - 758
+EP  - 771
+DO  - 10.1016/j.ejor.2021.03.008
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103544993&doi=10.1016%2fj.ejor.2021.03.008&partnerID=40&md5=672fbd733353a8b301ba93614f30a408
+AB  - Compared to consumer lending, Micro, Small and Medium Enterprise (mSME) credit risk modelling is particularly challenging, as, often, the same sources of information are not available. Therefore, it is standard policy for a loan officer to provide a textual loan assessment to mitigate limited data availability. In turn, this statement is analysed by a credit expert alongside any available standard credit data. In our paper, we exploit recent advances from the field of Deep Learning and Natural Language Processing (NLP), including the BERT (Bidirectional Encoder Representations from Transformers) model, to extract information from 60,000 textual assessments provided by a lender. We consider the performance in terms of the AUC (Area Under the receiver operating characteristic Curve) and Brier Score metrics and find that the text alone is surprisingly effective for predicting default. However, when combined with traditional data, it yields no additional predictive capability, with performance dependent on the text's length. Our proposed Deep Learning model does, however, appear to be robust to the quality of the text and therefore suitable for partly automating the mSME lending process. We also demonstrate how the content of loan assessments influences performance, leading us to a series of recommendations on a new strategy for collecting future mSME loan assessments. © 2021 Elsevier B.V.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 56
+C2  - FMS:A; AJG:4; ZUFE:1A; zdy:4; 
+LB  - Stevenson2021value
+ER  -
+
+TY  - JOUR
+AU  - Pamuksuz, U.
+AU  - Yun, J.T.
+AU  - Humphreys, A.
+TI  - A Brand-New Look at You: Predicting Brand Personality in Social Media Networks with Machine Learning
+PY  - 2021
+T2  - Journal of Interactive Marketing
+VL  - 56
+SP  - 55
+EP  - 69
+DO  - 10.1016/j.intmar.2021.05.001
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110120421&doi=10.1016%2fj.intmar.2021.05.001&partnerID=40&md5=2b4b64f0510709deb3c6ba221d4cfc13
+AB  - Tools for analyzing social media text data to gain marketing insight have recently emerged. While a wealth of research has focused on automated human personality assessment, little research has focused on advancing methods for obtaining brand personality from social media content. Brand personality is a nuanced aspect of brands that has a consistent set of traits aside from its functional benefits. In this study, we introduce a novel, automated, and generalizable data analytics approach to extract near real-time estimates of brand personalities in social media networks. This method can be used to track attempts to change brand personality over time, measure brand personality of competitors, and assess congruence in brand personality. Applied to consumer data, firms can assess how consumers perceive brand personality and study the effects of brand–consumer congruence in personality. Our approach develops a novel hybrid machine learning algorithmic design (LDA2Vec), which bypasses often extensive manual coding tasks, thus providing an adaptable and scalable tool that can be used for a range of management studies. Our approach enhances the theoretical understanding of channeled and perceived brand personality as it is represented in social media networks and provides practitioners with the ability to foster branding strategies by using big data resources. © 2021
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 18
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Pamuksuz2021Brand-New
+ER  -
+
+TY  - JOUR
+AU  - Puranam, D.
+AU  - Kadiyali, V.
+AU  - Narayan, V.
+TI  - The impact of increase in minimum wages on consumer perceptions of service: a transformer model of online restaurant reviews
+PY  - 2021
+T2  - Marketing Science
+VL  - 40
+IS  - 5
+SP  - 985
+EP  - 1004
+DO  - 10.1287/mksc.2021.1294
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118220280&doi=10.1287%2fmksc.2021.1294&partnerID=40&md5=162ae33122d2e30988c252ade6470a07
+AB  - We study the impact of a mandated increase in minimum wages on consumer perceptions of multiple dimensions of service quality in the restaurant industry. When faced with higher minimum wages, firms might reduce the number of employees, resulting in poorer consumer service. Alternatively, higher-paid workers might be more motivated to improve consumer service. Using a combination of human annotation and several transformer models, we estimate the incidence of discussion of several service quality attributes (and their valence) in a textual data set of 97,242 online reviews of 1,752 restaurants posted over two years. We exploit a natural experiment in the County of Santa Clara, California, wherein only the city of San Jose legislated a 25% minimum wage increase in 2013. By comparing restaurant reviews in San Jose with those of synthetic controls, we find an improvement in the perceived service quality of San Jose restaurants. Specifically, we find reduced negative discussion of the courtesy and friendliness of workers. This decrease is present in independent restaurants and not in chains. This finding appears to be consistent with agency theory–based predictions of greater incentives to improve service in independent restaurants. We discuss alternative mechanisms for our results. We also discuss implications for consumers, restaurants, and policy makers. © 2021 INFORMS.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 13
+C2  - FMS:A; AJG:5; ZUFE:TOP; zdy:5; 
+LB  - Puranam2021impact
+ER  -
+
+TY  - JOUR
+AU  - Lim, B.
+AU  - Arık, S.Ö.
+AU  - Loeff, N.
+AU  - Pfister, T.
+TI  - Temporal Fusion Transformers for interpretable multi-horizon time series forecasting
+PY  - 2021
+T2  - International Journal of Forecasting
+VL  - 37
+IS  - 4
+SP  - 1748
+EP  - 1764
+DO  - 10.1016/j.ijforecast.2021.03.012
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107952273&doi=10.1016%2fj.ijforecast.2021.03.012&partnerID=40&md5=acb2f4682854c52ef442cc80bd9123b9
+AB  - Multi-horizon forecasting often contains a complex mix of inputs – including static (i.e. time-invariant) covariates, known future inputs, and other exogenous time series that are only observed in the past – without any prior information on how they interact with the target. Several deep learning methods have been proposed, but they are typically ‘black-box’ models that do not shed light on how they use the full range of inputs present in practical scenarios. In this paper, we introduce the Temporal Fusion Transformer (TFT) – a novel attention-based architecture that combines high-performance multi-horizon forecasting with interpretable insights into temporal dynamics. To learn temporal relationships at different scales, TFT uses recurrent layers for local processing and interpretable self-attention layers for long-term dependencies. TFT utilizes specialized components to select relevant features and a series of gating layers to suppress unnecessary components, enabling high performance in a wide range of scenarios. On a variety of real-world datasets, we demonstrate significant performance improvements over existing benchmarks, and highlight three practical interpretability use cases of TFT. © 2021 The Authors
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 848
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Lim2021Temporal
+ER  -
+
+TY  - JOUR
+AU  - Casalnuovo, C.
+AU  - Lee, K.
+AU  - Wang, H.
+AU  - Devanbu, P.
+AU  - Morgan, E.
+TI  - Do Programmers Prefer Predictable Expressions in Code?
+PY  - 2020
+T2  - Cognitive Science
+VL  - 44
+IS  - 12
+C7  - e12921
+DO  - 10.1111/cogs.12921
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85097922656&doi=10.1111%2fcogs.12921&partnerID=40&md5=6b54f30ddf0c0771eac6b7b09bc60f97
+AB  - Source code is a form of human communication, albeit one where the information shared between the programmers reading and writing the code is constrained by the requirement that the code executes correctly. Programming languages are more syntactically constrained than natural languages, but they are also very expressive, allowing a great many different ways to express even very simple computations. Still, code written by developers is highly predictable, and many programming tools have taken advantage of this phenomenon, relying on language model surprisal as a guiding mechanism. While surprisal has been validated as a measure of cognitive load in natural language, its relation to human cognitive processes in code is still poorly understood. In this paper, we explore the relationship between surprisal and programmer preference at a small granularity—do programmers prefer more predictable expressions in code? Using meaning-preserving transformations, we produce equivalent alternatives to developer-written code expressions and run a corpus study on Java and Python projects. In general, language models rate the code expressions developers choose to write as more predictable than these transformed alternatives. Then, we perform two human subject studies asking participants to choose between two equivalent snippets of Java code with different surprisal scores (one original and transformed). We find that programmers do prefer more predictable variants, and that stronger language models like the transformer align more often and more consistently with these preferences. © 2020 Cognitive Science Society (CSS)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 7
+C2  - AJG:3; zdy:3; 
+LB  - Casalnuovo2020Do
+ER  -
+
+TY  - JOUR
+AU  - Ariannik, M.
+AU  - Razi-Kazemi, A.A.
+AU  - Lehtonen, M.
+TI  - An approach on lifetime estimation of distribution transformers based on degree of polymerization
+PY  - 2020
+T2  - Reliability Engineering and System Safety
+VL  - 198
+C7  - 106881
+DO  - 10.1016/j.ress.2020.106881
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85080094743&doi=10.1016%2fj.ress.2020.106881&partnerID=40&md5=2848d5a33feccb037743a06155c8d018
+AB  - Lifetime of oil-immersed transformers is highly dependent on condition of paper insulation. This contribution is aimed to quantify the deterioration and ageing process of the paper insulation of distribution transformers based on degree of polymerization (DP). The proposed approach involves real operating conditions of a transformer such as variable ambient temperature, load factor, and moisture content of the paper insulation through calculation of hot-spot temperature to estimate remaining lifetime of the transformers. The results indicate that a DP profile obtained based on actual conditions is completely different to that usually discussed in other researches under completely constant conditions. Consequently, the proposed dynamic DP model could predict lifetime of the transformers more precisely based on real-time measurable quantities. In addition to the remnant lifetime estimation, the proposed dynamic DP profile is utilized to suggest the optimum time for implementing reductions in moisture content of the paper insulation through three scenarios regarding the practical limitations. Finally, reliability of the transformer is evaluated based on statistical data. © 2020 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 22
+C2  - AJG:3; zdy:3; 
+LB  - Ariannik2020approach
+ER  -
+
+TY  - JOUR
+AU  - Tófoli, M.F.
+AU  - Soler, E.M.
+AU  - Balbo, A.R.
+AU  - Baptista, E.C.
+AU  - Nepomuceno, L.
+TI  - Interior/exterior-point methods with inertia correction strategy for solving optimal reactive power flow problems with discrete variables
+PY  - 2020
+T2  - Annals of Operations Research
+VL  - 286
+IS  - 1-2
+SP  - 243
+EP  - 263
+DO  - 10.1007/s10479-018-3012-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052641341&doi=10.1007%2fs10479-018-3012-y&partnerID=40&md5=bfbc6591ed2f6c6a84c8661cd3f7f631
+AB  - Interior/exterior-point methods have been widely used for solving Optimal Reactive Power Flow problems (ORPF). However, the utilization of such methods becomes difficult when transformer taps and/or capacitor/reactor banks are more rigorously represented in the problem formulation by means of discrete control variables. This work investigates the solution of the ORPF problem when transformer tap ratios are modeled as discrete variables. The solution method proposed handles discrete variables by means of sinusoidal penalty function, while the penalized problems are solved by an exterior-point method. An inertia correction strategy is proposed in order to assure that only local minima are obtained for the penalized problems. New search directions are also investigated that combine predictor and corrector directions. Numerical simulations are performed involving the IEEE 14, 30 and 57 bus systems. The results show the efficiency of the proposed inertia correction strategy and also reveals that the proposed exterior-point method outperforms traditional interior-point methods in terms of the number of iterations and computation times. © 2018, Springer Science+Business Media, LLC, part of Springer Nature.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 3
+C2  - FMS:B; AJG:3; ZUFE:1A; zdy:3; 
+LB  - Tófoli2020Interior/exterior-point
+ER  -
+
+TY  - JOUR
+AU  - de Oliveira, C.C.F.
+AU  - Firmino, P.R.A.
+AU  - Cristino, C.T.
+TI  - A tool for evaluating repairable systems based on Generalized Renewal Processes
+PY  - 2019
+T2  - Reliability Engineering and System Safety
+VL  - 183
+SP  - 281
+EP  - 297
+DO  - 10.1016/j.ress.2018.11.025
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057776427&doi=10.1016%2fj.ress.2018.11.025&partnerID=40&md5=5f623eaab3feb8e9bccf9478a129433e
+AB  - Generalized Renewal Processes -GRP- have been in the kernel of modelling repairable systems. Via a virtual age function, they extend classical reliability engineering formalisms, such as renewal and Poisson processes. Via point estimation, GRP practitioners have evaluated intervention crews as well as forecasted the occurrence of undesirable events underlying the system. Assuming an interval estimation perspective, this paper introduces a hypothesis testing framework for GRP. Thus, it makes possible to measure the uncertainty when inferring the stage of the system (e.g. whether stable or deteriorating) and the quality of the interventions. The approach focus on the Weibull-based GRP, notably the main GRP found in the literature. The usefulness of the method is illustrated via real world cases involving offshore, windshield, and transformer facilities. Simulated cases are also studied. © 2018
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 4
+C2  - AJG:3; zdy:3; 
+LB  - de Oliveira2019tool
+ER  -
+
+TY  - JOUR
+AU  - Boedker, C.
+TI  - Ostensive versus performative approaches for theorising accounting-strategy research
+PY  - 2010
+T2  - Accounting, Auditing and Accountability Journal
+VL  - 23
+IS  - 5
+SP  - 595
+EP  - 625
+DO  - 10.1108/09513571011054909
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-77954018695&doi=10.1108%2f09513571011054909&partnerID=40&md5=d723d1244daeb991773018b3f379c5e8
+AB  - Purpose: This paper seeks to inquire into the theoretical assumptions that underpin much accounting-strategy research and to develop an alternative way to approach such study. Design/methodology/approach: Two theoretical lenses are discussed and contrasted. These are the ostensive and performative lenses. Findings: Hitherto, most accounting-strategy research has drawn on an ostensive lens, whilst only a few approach research from a performative perspective. Whilst the ostensive approach is beneficial and reduces the complexity and messiness of research sites, it also assumes that stability, orderliness and predictability characterise social life (e.g. strategy is "ready made" and remains constant during implementation). Furthermore, in this approach, accounting assumes a subordinate role and its main aim is to ensure "correct" implementation of predefined intents. This limits accounting to being an output of strategy, as opposed to, for example, an input and transformer. Greater diversity of definitions and new investigative approaches are needed. To this end, and as a key contribution, the paper develops an alternative approach drawing on Latour's performative theory. This proposes that strategy and accounting are somewhat fragile, even unstable, objects, which change depending on the hands through which they travel and the network within which they are located. Furthermore, accounting is not merely designed to follow or implement predefined intents. It is also a catalyst of expansion, transformation, even surprise. Research limitations/implications: The paper does not offer primary data. Originality/value: The paper offers to scholars the possibility of studying accounting-strategy as "relations" rather than "objects", illustrates how this may be done, and proposes research questions to this end. It identifies a space of inquiry that needs further attention and that can provide new insights into the accounting-strategy relationship. © Emerald Group Publishing Limited.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 50
+C2  - AJG:3; zdy:3; 
+LB  - Boedker2010Ostensive
+ER  -
+
+TY  - JOUR
+AU  - Tsili, M.A.
+AU  - Kladas, A.G.
+AU  - Georgilakis, P.S.
+TI  - Computer aided analysis and design of power transformers
+PY  - 2008
+T2  - Computers in Industry
+VL  - 59
+IS  - 4
+SP  - 338
+EP  - 350
+DO  - 10.1016/j.compind.2007.09.005
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-39749198599&doi=10.1016%2fj.compind.2007.09.005&partnerID=40&md5=c49791df1a5b9fab496ae3652e4d952d
+AB  - In this paper, an integrated, three-dimensional, finite element package for the analysis and design of power transformers is developed, requiring no prior user experience in numerical methods and magnetic field simulation. The package consists of an automated pre-processor, magnetostatic solver and post-processor. High accuracy, low computational cost, minimization of user interaction and functional interface are the main advantages of the software, rendering it a powerful computational tool for characteristics prediction of single and dual voltage transformers, suitable for an automated design environment. For the development of the package, a particular scalar potential formulation was adopted. This method, in conjunction with the detailed representation of the real transformer geometry enables the achievement of high accuracy with the use of meshes of low density. The computational efficiency is also enhanced by the use of Morse technique for the storage of finite element matrices and Preconditioned Conjugate Gradient method for the solution of the finite element equations. The software has been incorporated in the design process of a transformer manufacturing industry for the evaluation of the leakage field and short-circuit impedance. The comparison of its results with measured values indicates the improvement of accuracy in comparison to the existing methodology, resulting in reduction of the design margin. Moreover, its employment has contributed to the decrease of the transformer industrial cycle and production cost. © 2007 Elsevier B.V. All rights reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 16
+C2  - FMS:C; AJG:3; zdy:3; 
+LB  - Tsili2008Computer
+ER  -
+
+TY  - JOUR
+AU  - Barrios, E.
+TI  - Soil biota, ecosystem services and land productivity
+PY  - 2007
+T2  - Ecological Economics
+VL  - 64
+IS  - 2
+SP  - 269
+EP  - 285
+DO  - 10.1016/j.ecolecon.2007.03.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-36549064652&doi=10.1016%2fj.ecolecon.2007.03.004&partnerID=40&md5=be13442afa1ff3720627db3fe90bd659
+AB  - The soil environment is likely the most complex biological community. Soil organisms are extremely diverse and contribute to a wide range of ecosystem services that are essential to the sustainable function of natural and managed ecosystems. The soil organism community can have direct and indirect impacts on land productivity. Direct impacts are those where specific organisms affect crop yield immediately. Indirect effects include those provided by soil organisms participating in carbon and nutrient cycles, soil structure modification and food web interactions that generate ecosystem services that ultimately affect productivity. Recognizing the great biological and functional diversity in the soil and the complexity of ecological interactions it becomes necessary to focus in this paper on soil biota that have a strong linkage to functions which underpin 'soil based' ecosystem services. Selected organisms from different functional groups (i.e. microsymbionts, decomposers, elemental transformers, soil ecosystem engineers, soil-borne pest and diseases, and microregulators) are used to illustrate the linkages of soil biota and ecosystem services essential to life on earth as well as with those associated with the provision of goods and the regulation of ecosystem processes. These services are not only essential to ecosystem function but also a critical resource for the sustainable management of agricultural ecosystems. Research opportunities and gaps related to methodological, experimental and conceptual approaches that may be helpful to address the challenge of linking soil biodiversity and function to the provision of ecosystem services and land productivity are discussed. These include: 1) integration of spatial variability research in soil ecology and a focus on 'hot spots' of biological activity, 2) using a selective functional group approach to study soil biota and function, 3) combining new and existing methodological approaches that link selected soil organisms, the temporal and spatial dynamics of their function, and their contribution to the provision of selected 'soil based' ecosystem services, 4) using understanding about hierarchical relationships to manage soil biota and function in cropping systems, 5) using local knowledge about plants as indicators of soil quality, remote sensing and GIS technologies, and plant-soil biota interactions to help understand the impacts of soil biota at landscape scale, and 6) developing land quality monitoring systems that inform land users about their land's ecosystem service performance, improve capacities to predict and adapt to environmental changes, and support policy and decision-making. © 2007 Elsevier B.V. All rights reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 684
+C2  - FMS:A; AJG:3; zdy:3; 
+LB  - Barrios2007Soil
+ER  -
+
+TY  - JOUR
+AU  - Pedregal, D.J.
+AU  - Young, P.C.
+TI  - Modulated cycles, an approach to modelling periodic components from rapidly sampled data
+PY  - 2006
+T2  - International Journal of Forecasting
+VL  - 22
+IS  - 1
+SP  - 181
+EP  - 194
+DO  - 10.1016/j.ijforecast.2005.03.001
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-31744433149&doi=10.1016%2fj.ijforecast.2005.03.001&partnerID=40&md5=0adfec3cdd8c61004d461f9d1f9fe2a7
+AB  - Unobserved components models provide a natural framework for the estimation and forecasting of periodic components embedded in the time series, such as business cycles or seasonality. However, periodic behaviour can be complicated to analyse when dealing with rapidly sampled data of the kind encountered in electricity demand forecast problems. Data of this nature tend to show a multiplicity of superimposed periodic patterns, including annual, weekly and daily cycles. In this paper, we present a new seasonal component model based on modulated periodic components, which is capable of replicating multiplicative periodic components in an efficient manner, in the sense that the number of parameters in the model is much lower than in a standard unobserved components model without modulation. The model performance compares favourably with respect to standard techniques on a rolling forecasting exercise based on actual hourly electricity load demand data at a certain transformer in the UK. © 2005 International Institute of Forecasters. Published by Elsevier B.V. All rights reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 12 January 2025; Cited By: 24
+C2  - FMS:B; AJG:3; zdy:3; 
+LB  - Pedregal2006Modulated
+ER  -

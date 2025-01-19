@@ -1743,12 +1743,21 @@ class MainWindow(QMainWindow):
             self.save_config()
 
     def update_file_list(self):
-        self.file_list.clear()
-        subfolder_name = self.subfolder_input.text().strip()
-        if self.output_directory and subfolder_name:
-            full_path = os.path.join(self.output_directory, subfolder_name)
-            if os.path.exists(full_path):
+        """更新文件列表显示"""
+        try:
+            self.file_list.clear()
+            subfolder_name = self.subfolder_input.text().strip()
+            if self.output_directory and subfolder_name:
+                full_path = os.path.join(self.output_directory, subfolder_name)
+                print(f"正在扫描目录: {full_path}")
+                
+                if not os.path.exists(full_path):
+                    print(f"输出目录不存在: {full_path}")
+                    return
+                    
                 files = [f for f in os.listdir(full_path) if f.endswith('.ris')]
+                print(f"找到 {len(files)} 个RIS文件")
+                
                 total_entries = 0
                 file_entries = []
                 
@@ -1761,11 +1770,12 @@ class MainWindow(QMainWindow):
                             entry_count = content.count('ER  -')
                             total_entries += entry_count
                             file_entries.append((file, entry_count))
+                            print(f"文件 {file}: {entry_count} 条目")
                     except Exception as e:
-                        print(f"读取文件出错：{str(e)}")
+                        print(f"读取文件 {file} 出错：{str(e)}")
                         file_entries.append((file, 0))
                 
-                # 添加文件条目
+                # 添加文件条目到列表
                 for file, entry_count in file_entries:
                     if total_entries > 0:
                         percentage = (entry_count / total_entries) * 100
@@ -1820,6 +1830,11 @@ class MainWindow(QMainWindow):
                 
                 # 更新总计行
                 self.count_label.setText(f"{total_entries}条目")
+                print(f"总计: {total_entries} 条目")
+                
+        except Exception as e:
+            print(f"更新文件列表时出错: {str(e)}")
+            QMessageBox.warning(self, "警告", f"更新文件列表时出错: {str(e)}")
 
     def load_config(self):
         """加载配置"""
@@ -1832,7 +1847,7 @@ class MainWindow(QMainWindow):
             self.subfolder_input.setText(config.subfolder)
             
             if self.output_directory:
-                self.output_label.setText(f"输出目录: {self.output_directory}")
+                self.select_output_btn.setText(f"输出目录：{os.path.basename(self.output_directory)}")
         except Exception as e:
             print(f"加载配置文件出错：{str(e)}")
 
@@ -1926,9 +1941,22 @@ class MainWindow(QMainWindow):
         self.progress_bar.hide()
         self.generate_btn.setEnabled(True)
         if success:
-            self.update_file_list()
-            QMessageBox.information(self, "成功", "文件处理完成！")
-        
+            try:
+                self.update_file_list()
+                # 获取处理后的文件统计
+                subfolder_name = self.subfolder_input.text().strip()
+                full_path = os.path.join(self.output_directory, subfolder_name)
+                if os.path.exists(full_path):
+                    files = [f for f in os.listdir(full_path) if f.endswith('.ris')]
+                    QMessageBox.information(
+                        self, 
+                        "成功", 
+                        f"文件处理完成！\n生成了 {len(files)} 个分类文件。"
+                    )
+            except Exception as e:
+                print(f"处理完成后更新界面时出错: {str(e)}")
+                QMessageBox.information(self, "成功", "文件处理完成！")
+
     def process_error(self, error_msg):
         """处理错误的回调"""
         self.progress_bar.hide()
@@ -1949,6 +1977,13 @@ class MainWindow(QMainWindow):
             QMessageBox.warning(self, "警告", "请输入子文件夹名称")
             return
 
+        # 构建完整的输出路径
+        full_output_path = os.path.join(self.output_directory, self.subfolder_input.text().strip())
+        print(f"输出路径: {full_output_path}")
+        
+        # 确保输出目录存在
+        os.makedirs(full_output_path, exist_ok=True)
+        
         # 获取翻译选项状态
         trans_ti = self.trans_ti_checkbox.isChecked()
         trans_ab = self.trans_ab_checkbox.isChecked()
