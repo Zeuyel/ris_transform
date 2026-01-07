@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+
+# Legacy build artifacts
+build/
+dist/
+test_output/
+
+# Docker outputs
+outputs/*
+!outputs/.gitkeep
+
+# Next.js frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/package-lock.json
+frontend/.env.local
+
+# Tauri legacy
+ris-processor-tauri/node_modules/
+ris-processor-tauri/dist/
+
+# OS / IDE
+.DS_Store
+.vscode/
+*.log
+

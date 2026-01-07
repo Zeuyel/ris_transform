@@ -1,22 +1,24 @@
 # RIS 文件处理器
 
-一个用于处理和分类学术文献 RIS 文件的工具，支持多种期刊分类标准和自动翻译功能。
+一个用于处理和分类学术文献 RIS 文件的工具。
+
+当前推荐形态为 Web 前后端分离：
+- 前端：`frontend/`（Next.js）
+- 后端：`backend/`（FastAPI）
+- 处理核心：根目录 `core/`（由后端复用）
 
 ## 功能特点
 
 - 支持多种期刊分类标准（CCF、FMS、AJG、ZUFE）
-- 自动翻译标题和摘要
 - 为Endnote更好的Bib文件的citationkey
-- 现代化的图形界面
-- 拖放文件支持
-- 进度显示
-- 批量处理
-- 自动保存配置
+- Web 界面上传文件，一键处理并下载 zip（包含多份输出 RIS）
 
 ## 目录结构
 
 ```
 project_root/
+├── frontend/            # Next.js 前端（Web）
+├── backend/             # FastAPI 后端（Web API）
 ├── app.py              # 主程序入口
 ├── build.py            # 编译脚本为exe
 ├── core/               # 核心处理逻辑
@@ -41,6 +43,35 @@ project_root/
 └── resources/          # 资源文件
     ├── filter.ico
     └── scopus.ris
+```
+
+## 快速开始（Web）
+
+### 方式 A：Docker（推荐）
+
+开发模式（前端热更新，端口 `3001`）：
+```bash
+docker compose -f docker-compose.dev.yml up --build
+```
+
+生产风格（端口 `3000`）：
+```bash
+docker compose up --build
+```
+
+### 方式 B：本地运行
+
+后端：
+```bash
+pip install -r backend/requirements.txt
+uvicorn backend.app.main:app --reload --port 8000
+```
+
+前端：
+```bash
+cd frontend
+npm install
+NEXT_PUBLIC_API_BASE=http://localhost:8000 npm run dev
 ```
 
 ## 数据结构
@@ -197,7 +228,7 @@ selection_criteria = {
 ## 注意事项
 
 1. RIS 文件需要使用 UTF-8 编码
-2. 翻译功能需要网络连接
+2. 翻译功能需要网络连接（Web 后端当前默认不启用翻译）
 3. 大量条目的处理可能需要较长时间
 4. 建议定期备份重要的 RIS 文件
 5. 自定义数据文件必须使用 UTF-8 编码

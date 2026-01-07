@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# legacy build artifacts
+build/
+dist/
+test_output/
+
+# tauri / node
+ris-processor-tauri/node_modules/
+ris-processor-tauri/dist/
+
+# common
+.DS_Store
+.vscode/
+*.log
+
