@@ -1,0 +1,125 @@
+services:
+  # ===== 后端服务 =====
+  # 开发模式后端服务
+  backend-dev:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: ris-transform-backend-dev
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      # 开发模式下挂载源码实现热重载
+      - ./backend:/app/backend
+      - ./core:/app/core
+      - ./utils:/app/utils
+      - ./data:/app/data
+    networks:
+      - ris-transform-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    command: uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --reload
+    profiles:
+      - dev
+
+  # 生产模式后端服务
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    image: ${DOCKER_USERNAME:-your-dockerhub-username}/ris-transform-backend:${TAG:-latest}
+    container_name: ris-transform-backend
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+    networks:
+      - ris-transform-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    profiles:
+      - prod
+
+  # ===== 前端服务 =====
+  # 开发模式前端服务
+  frontend-dev:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+      target: dev
+      args:
+        # 国内网络可以使用镜像源，国外网络可以留空使用 Docker Hub
+        DOCKER_REGISTRY: ${DOCKER_REGISTRY:-docker.m.daocloud.io}
+    container_name: ris-transform-frontend-dev
+    ports:
+      - "${FRONTEND_PORT:-3000}:3000"
+    environment:
+      - NODE_ENV=development
+      - NEXT_PUBLIC_API_URL=${NEXT_PUBLIC_API_URL:-http://backend-dev:8000}
+    volumes:
+      # 开发模式下挂载源码实现热重载
+      - ./frontend:/app/frontend
+      - /app/frontend/node_modules
+      - /app/frontend/.next
+    networks:
+      - ris-transform-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    depends_on:
+      - backend-dev
+    profiles:
+      - dev
+
+  # 生产模式前端服务
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+      target: runner
+      args:
+        DOCKER_REGISTRY: ${DOCKER_REGISTRY:-}
+    image: ${DOCKER_USERNAME:-your-dockerhub-username}/ris-transform-frontend:${TAG:-latest}
+    container_name: ris-transform-frontend
+    ports:
+      - "${FRONTEND_PORT:-3000}:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_API_URL=${NEXT_PUBLIC_API_URL:-http://backend:8000}
+    networks:
+      - ris-transform-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    depends_on:
+      - backend
+    profiles:
+      - prod
+
+networks:
+  ris-transform-network:
+    driver: bridge
+
+

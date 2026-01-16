@@ -6,6 +6,7 @@
 - 前端：`frontend/`（Next.js）
 - 后端：`backend/`（FastAPI）
 - 处理核心：根目录 `core/`（由后端复用）
+- 工具类：根目录 `utils/`（翻译、JSON处理等）
 
 ## 功能特点
 
@@ -49,21 +50,61 @@ project_root/
 
 ### 方式 A：Docker（推荐）
 
-开发模式（前端热更新，端口 `3001`）：
+#### 使用 Make（最简单）
+
 ```bash
-docker compose -f docker-compose.dev.yml up --build
+# 开发模式（支持热重载）
+make dev-up
+
+# 生产模式
+make prod-up
+
+# 查看日志
+make dev-logs  # 或 make prod-logs
+
+# 停止服务
+make dev-down  # 或 make prod-down
+
+# 查看所有命令
+make help
 ```
 
-生产风格（端口 `3000`）：
+#### 使用 docker-compose
+
 ```bash
-docker compose up --build
+# 开发模式（支持热重载）
+docker-compose --profile dev up -d
+
+# 生产模式
+docker-compose --profile prod up -d
+
+# 停止服务
+docker-compose --profile dev down
 ```
+
+#### 首次使用
+
+1. 复制并配置环境变量：
+   ```bash
+   cp .env.example .env
+   ```
+
+2. 修改 `.env` 文件中的配置（如 Docker Hub 用户名）
+
+3. 启动服务：
+   ```bash
+   make dev-up
+   ```
+
+详细的 Docker 使用说明请查看 [DOCKER.md](./DOCKER.md)
 
 ### 方式 B：本地运行
 
 后端：
 ```bash
-pip install -r backend/requirements.txt
+cd backend
+pip install -r requirements.txt
+cd ..
 uvicorn backend.app.main:app --reload --port 8000
 ```
 
@@ -73,6 +114,10 @@ cd frontend
 npm install
 NEXT_PUBLIC_API_BASE=http://localhost:8000 npm run dev
 ```
+
+访问：
+- 前端：http://localhost:3000
+- 后端 API 文档：http://localhost:8000/docs
 
 ## 数据结构
 
@@ -246,7 +291,50 @@ selection_criteria = {
 
 ## 许可证
 
-MIT License 
+MIT License
+
+## Docker 和 CI/CD
+
+### Docker 镜像
+
+本项目支持 Docker 部署，包含开发和生产两种模式。
+
+- **开发模式**：支持热重载，适合本地开发
+- **生产模式**：优化的构建，适合部署到服务器
+
+详细使用说明请参考：
+- [Docker 使用指南](./DOCKER.md)
+- [GitHub Actions 配置指南](./GITHUB_ACTIONS.md)
+
+### 自动构建和发布
+
+本项目使用 GitHub Actions 自动构建和发布 Docker 镜像到 Docker Hub。
+
+**配置步骤：**
+
+1. 在 GitHub 仓库设置中添加 Secrets：
+   - `DOCKER_USERNAME`: Docker Hub 用户名
+   - `DOCKER_PASSWORD`: Docker Hub Access Token
+
+2. 推送代码到 main 或 develop 分支，自动触发构建
+
+3. 创建版本标签（如 v1.0.0）发布新版本
+
+详细配置说明请查看 [GITHUB_ACTIONS.md](./GITHUB_ACTIONS.md)
+
+### 使用预构建镜像
+
+```bash
+# 拉取镜像
+docker pull your-username/ris-transform-frontend:latest
+
+# 运行容器
+docker run -d -p 3000:3000 your-username/ris-transform-frontend:latest
+```
+
+## 许可证
+
+MIT License
 
 ## 实现说明
 

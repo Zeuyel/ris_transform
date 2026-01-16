@@ -13,8 +13,57 @@ test_output/
 ris-processor-tauri/node_modules/
 ris-processor-tauri/dist/
 
+# frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.swc/
+
 # common
 .DS_Store
 .vscode/
+.idea/
 *.log
+*.swp
+*.swo
+*~
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# CI/CD
+.github
+
+# 文档
+*.md
+!README.md
+
+# 环境变量
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 数据文件
+data/*.json
+data/*.xlsx
+data/*.txt
+data/criteria/
+data/profiles/
+data/ratings/
+
+# 测试
+**/__tests__/
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+**/*.spec.tsx
+**/coverage/
+
+# 临时文件
+*.tmp
+.cache
 
