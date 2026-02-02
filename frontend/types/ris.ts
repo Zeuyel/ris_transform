@@ -17,7 +17,7 @@ export interface RisEntry {
   LB?: string[];   // 标签
   
   // 其他字段 (动态)
-  [key: string]: string[] | undefined;
+  [key: string]: string[] | Record<string, string> | undefined;
 }
 
 /**
