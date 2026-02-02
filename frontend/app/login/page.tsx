@@ -8,7 +8,7 @@ type LoginPageProps = {
 };
 
 export default async function LoginPage({ searchParams }: LoginPageProps) {
-  const cookieStore = cookies();
+  const cookieStore = await cookies();
   const existing = cookieStore.get(AUTH_COOKIE);
   if (existing?.value === '1') {
     redirect('/');
