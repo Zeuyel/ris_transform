@@ -1,0 +1,44 @@
+services:
+  backend:
+    image: ${DOCKER_USERNAME}/ris-transform-backend:${TAG:-latest}
+    container_name: ris-transform-backend
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+    networks:
+      - ris-transform
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  frontend:
+    image: ${DOCKER_USERNAME}/ris-transform-frontend:${TAG:-latest}
+    container_name: ris-transform-frontend
+    ports:
+      - "${FRONTEND_PORT:-3000}:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_API_URL=${NEXT_PUBLIC_API_URL:-http://backend:8000}
+      - FRONTEND_PASSWORD=${FRONTEND_PASSWORD:-}
+    networks:
+      - ris-transform
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    depends_on:
+      - backend
+
+networks:
+  ris-transform:
+    driver: bridge

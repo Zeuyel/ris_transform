@@ -1,0 +1,19 @@
+import { cookies } from 'next/headers';
+import { redirect } from 'next/navigation';
+import LoginForm from '@/components/auth/LoginForm';
+import { AUTH_COOKIE } from '@/lib/auth';
+
+type LoginPageProps = {
+  searchParams?: { next?: string };
+};
+
+export default function LoginPage({ searchParams }: LoginPageProps) {
+  const cookieStore = cookies();
+  const existing = cookieStore.get(AUTH_COOKIE);
+  if (existing?.value === '1') {
+    redirect('/');
+  }
+
+  const nextPath = typeof searchParams?.next === 'string' ? searchParams.next : '/';
+  return <LoginForm nextPath={nextPath} />;
+}
