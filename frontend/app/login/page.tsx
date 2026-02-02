@@ -4,16 +4,17 @@ import LoginForm from '@/components/auth/LoginForm';
 import { AUTH_COOKIE } from '@/lib/auth';
 
 type LoginPageProps = {
-  searchParams?: { next?: string };
+  searchParams?: Promise<{ next?: string }>;
 };
 
-export default function LoginPage({ searchParams }: LoginPageProps) {
+export default async function LoginPage({ searchParams }: LoginPageProps) {
   const cookieStore = cookies();
   const existing = cookieStore.get(AUTH_COOKIE);
   if (existing?.value === '1') {
     redirect('/');
   }
 
-  const nextPath = typeof searchParams?.next === 'string' ? searchParams.next : '/';
+  const resolved = searchParams ? await searchParams : undefined;
+  const nextPath = typeof resolved?.next === 'string' ? resolved.next : '/';
   return <LoginForm nextPath={nextPath} />;
 }
