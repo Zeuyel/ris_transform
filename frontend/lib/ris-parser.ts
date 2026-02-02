@@ -33,10 +33,14 @@ export function parseRis(content: string): RisEntry[] {
       const tag = line.substring(0, 2);
       const value = line.substring(6).trim();
 
-      if (!currentEntry[tag]) {
-        currentEntry[tag] = [];
+      const existing = currentEntry[tag];
+      if (!existing) {
+        currentEntry[tag] = [value];
+      } else if (Array.isArray(existing)) {
+        existing.push(value);
+      } else {
+        currentEntry[tag] = [value];
       }
-      currentEntry[tag]!.push(value);
     }
   }
 
@@ -61,7 +65,7 @@ export function entriesToRis(entries: RisEntry[]): string {
 
   for (const entry of entries) {
     for (const [tag, values] of Object.entries(entry)) {
-      if (!values || values.length === 0) continue;
+      if (!Array.isArray(values) || values.length === 0) continue;
 
       for (const value of values) {
         if (value) {
