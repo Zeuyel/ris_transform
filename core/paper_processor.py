@@ -289,24 +289,25 @@ class PaperProcessor:
             else:
                 existing_list = [str(existing)]
 
-            lines = []
+            parts = []
             for system_id in system_ids:
                 system_info = config.rating_systems.get(system_id, {})
                 system_name = system_info.get('name', system_id)
                 rating_value = ratings.get(system_id, 'Not Found')
 
                 if rating_value in ('Not Found', '', None):
-                    rating_label = '未找到'
-                else:
-                    rating_label = str(rating_value)
-                    if system_id == 'CCF' and (
-                        rating_label.endswith('期刊') or rating_label.endswith('会议')
-                    ):
-                        rating_label = f"{rating_label[:-2]} {rating_label[-2:]}"
+                    continue
 
-                lines.append(f"{system_name}: {rating_label}")
+                rating_label = str(rating_value)
+                if system_id == 'CCF' and (
+                    rating_label.endswith('期刊') or rating_label.endswith('会议')
+                ):
+                    rating_label = f"{rating_label[:-2]} {rating_label[-2:]}"
 
-            entry.data['C2'] = existing_list + lines
+                parts.append(f"{system_name}: {rating_label}")
+
+            if parts:
+                entry.data['C2'] = existing_list + ['; '.join(parts)]
 
     def process_file(
         self,
