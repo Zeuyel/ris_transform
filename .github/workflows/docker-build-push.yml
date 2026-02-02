@@ -111,7 +111,7 @@ jobs:
           cache-from: type=gha
           cache-to: type=gha,mode=max
           build-args: |
-            DOCKER_REGISTRY=
+            DOCKER_REGISTRY=docker.io
 
       - name: Frontend image digest
         run: echo ${{ steps.meta.outputs.digest }}
