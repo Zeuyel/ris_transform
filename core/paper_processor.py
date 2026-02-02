@@ -255,6 +255,59 @@ class PaperProcessor:
 
         return ratings_map
 
+    def annotate_entries_with_ratings(
+        self,
+        entries: List[RisEntry],
+        all_ratings: Dict[str, Dict[str, str]],
+        system_ids: List[str]
+    ) -> None:
+        """
+        将各系统评级信息写入每个条目的 C2 字段
+
+        Args:
+            entries: RIS 条目列表
+            all_ratings: 标题 -> 评级映射
+            system_ids: 评级系统ID列表
+        """
+        config = self.data_manager.load_config()
+
+        for entry in entries:
+            title = entry.get_title()
+            if not title:
+                continue
+
+            title_key = title.lower().strip()
+            ratings = all_ratings.get(title_key)
+            if not ratings:
+                continue
+
+            existing = entry.data.get('C2')
+            if existing is None:
+                existing_list = []
+            elif isinstance(existing, list):
+                existing_list = existing
+            else:
+                existing_list = [str(existing)]
+
+            lines = []
+            for system_id in system_ids:
+                system_info = config.rating_systems.get(system_id, {})
+                system_name = system_info.get('name', system_id)
+                rating_value = ratings.get(system_id, 'Not Found')
+
+                if rating_value in ('Not Found', '', None):
+                    rating_label = '未找到'
+                else:
+                    rating_label = str(rating_value)
+                    if system_id == 'CCF' and (
+                        rating_label.endswith('期刊') or rating_label.endswith('会议')
+                    ):
+                        rating_label = f"{rating_label[:-2]} {rating_label[-2:]}"
+
+                lines.append(f"{system_name}: {rating_label}")
+
+            entry.data['C2'] = existing_list + lines
+
     def process_file(
         self,
         content: str,
@@ -285,6 +338,9 @@ class PaperProcessor:
 
         # 批量获取评级信息
         all_ratings = self.batch_get_ratings(entries, system_ids)
+
+        # 写入 C2 字段（Custom2）
+        self.annotate_entries_with_ratings(entries, all_ratings, system_ids)
 
         # 处理每个 Profile
         output_files = {}
